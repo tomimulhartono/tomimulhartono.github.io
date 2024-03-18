@@ -11,19 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certificates</title>
       <link>http://localhost:1313/tags/certificates/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/certificates/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
@@ -74,6 +74,41 @@
       <link>http://localhost:1313/tags/siterpadu/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/siterpadu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arcgis</title>
+      <link>http://localhost:1313/tags/arcgis/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/arcgis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bootstrap 4</title>
+      <link>http://localhost:1313/tags/bootstrap-4/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bootstrap-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qgis</title>
+      <link>http://localhost:1313/tags/qgis/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/qgis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webgis</title>
+      <link>http://localhost:1313/tags/webgis/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/webgis/</guid>
       <description></description>
     </item>
   </channel>

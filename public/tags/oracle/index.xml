@@ -14,11 +14,12 @@
     <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Building SITERPADU Academic Information System for UNJANI</title>
+      <title>SITERPADU Unleashed: My Odyssey as a Full Stack Developer at Bandung Techno Park</title>
       <link>http://localhost:1313/posts/siterpadu/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/siterpadu/</guid>
-      <description>Introduction In the dynamic realm of modern academia, the effectiveness of administrative systems plays a pivotal role in shaping the quality of education and the overall student experience. Jenderal Achmad Yani University has embarked on a transformative journey by integrating SITERPADU, an innovative online academic administration system. Among its array of modules, the Graduation module stands out as a pinnacle of streamlined administrative processes, specifically tailored to address the complexities associated with student graduations.</description>
+      <description>Overview Hey, tech enthusiasts! Today, I&amp;rsquo;m thrilled to guide you through an electrifying expedition during my tenure as a Full Stack Developer at Bandung Techno Park. Brace yourselves as we plunge into the dynamic world of SITERPADU, the groundbreaking platform reshaping academic administration at Universitas Jenderal Achmad Yani. Join me as I narrate the captivating tale of revolutionizing graduation procedures within the formidable framework of SITERPADU.
+Embracing the Challenge At the dawn of 2022, I found myself at the forefront of innovation, poised to tackle the challenges ahead.</description>
     </item>
   </channel>
 </rss>

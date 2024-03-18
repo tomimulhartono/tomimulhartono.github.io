@@ -3,28 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/certificates/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/certificates/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cap/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/cybersecurity/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/certified-appsec-practitioner/</loc>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/codeigniter/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
@@ -47,14 +50,35 @@
     <loc>http://localhost:1313/tags/php/</loc>
     <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/siterpadu/</loc>
-    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/oracle/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/siterpadu/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/siterpadu/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/database-administration-fundamentals/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arcgis/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bootstrap-4/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/qgis/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/covid19-webgis/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/webgis/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>

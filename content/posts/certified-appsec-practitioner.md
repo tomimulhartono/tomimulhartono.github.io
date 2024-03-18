@@ -3,7 +3,7 @@ title: "Mastering Security: My Journey to Becoming a Certified AppSec Practition
 date: 2024-02-13T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
-categories: ["certificates"]
+categories: ["cybersecurity", "certificates"]
 tags: ["cybersecurity", "certificates"]
 author: "Tomi Mulhartono"
 # author: ["Me", "You"] # multiple authors
@@ -61,5 +61,6 @@ Gain valuable insights and expertise gleaned from my experience as a Certified A
 ## Conclusion
 In conclusion, my journey to becoming a Certified AppSec Practitioner (CAP) has been nothing short of transformative. From the initial aspirations to the ultimate triumph, this expedition epitomizes the power of dedication, perseverance, and continuous learning in achieving professional excellence in cybersecurity.
 
-# Certificate
-- Credential ID: 8399810
+| Name   | Issued By | Credential ID     | Certificate   |
+| --------- | -------- | ------ | ------ |
+| Certified Appsec Practitioner | The SecOps Group | **8399810** | `Image` |
