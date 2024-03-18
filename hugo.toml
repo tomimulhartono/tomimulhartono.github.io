@@ -108,6 +108,9 @@ SiteVerificationTag = "XYZabc"
   limit = 10
   keys = [ "title", "permalink", "summary", "content" ]
 
+  [outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
