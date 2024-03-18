@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Security: My Journey to Becoming a Certified AppSec Practitioner</title>
+      <link>http://localhost:1313/posts/cap/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cap/</guid>
+      <description>Introduction Join me on a thrilling journey as I unveil my triumph in achieving the prestigious Certified AppSec Practitioner (CAP) certification from The SecOpsGroup. From the initial challenges to the victorious outcome, this blog post encapsulates my expedition towards mastering the art of application security.
+1. The Genesis of My Journey Delve into the inception of my aspiration towards becoming an AppSec Practitioner (CAP). Explore the motivations and inspirations that fueled my determination to embark on this remarkable voyage.</description>
+    </item>
     <item>
       <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
       <link>http://localhost:1313/posts/ordera/</link>
