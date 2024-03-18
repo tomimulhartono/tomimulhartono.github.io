@@ -70,7 +70,7 @@ tocopen = true
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my cybersecurity portfolio blog!💻🛡️"
+  Content = "Welcome to my cybersecurity and programming portfolio blog!💻🛡️"
 
   [[params.socialIcons]]
   name = "LinkedIn"

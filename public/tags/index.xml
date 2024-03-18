@@ -11,13 +11,55 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>http://localhost:1313/tags/first/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/first/</guid>
+      <title>Codeigniter</title>
+      <link>http://localhost:1313/tags/codeigniter/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/codeigniter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laravel</title>
+      <link>http://localhost:1313/tags/laravel/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/laravel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ordera</title>
+      <link>http://localhost:1313/tags/ordera/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ordera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Php</title>
+      <link>http://localhost:1313/tags/php/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oracle</title>
+      <link>http://localhost:1313/tags/oracle/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oracle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Siterpadu</title>
+      <link>http://localhost:1313/tags/siterpadu/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/siterpadu/</guid>
       <description></description>
     </item>
   </channel>

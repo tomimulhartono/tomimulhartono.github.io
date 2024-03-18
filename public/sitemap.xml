@@ -3,25 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/first/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/codeigniter/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/development/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/laravel/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mysql/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ordera/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ordera/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/php/</loc>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/siterpadu/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oracle/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/siterpadu/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ordera on Tomi Mulhartono</title>
+    <link>http://localhost:1313/tags/ordera/</link>
+    <description>Recent content in Ordera on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ordera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
+      <link>http://localhost:1313/posts/ordera/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ordera/</guid>
+      <description>Introduction In Indonesia&amp;rsquo;s vibrant culinary scene, convenience and choice are essential elements that shape the dining experience. Ordera emerges as a beacon of convenience, offering a comprehensive food and beverage delivery platform that caters to the diverse tastes of Indonesian consumers. With an extensive network of registered restaurants and food stalls, Ordera sets the standard for hassle-free dining solutions.
+Understanding Ordera Ordera represents more than just a food delivery app; it&amp;rsquo;s a culinary ecosystem designed to simplify and enhance the way Indonesians enjoy their favorite meals.</description>
+    </item>
+  </channel>
+</rss>
