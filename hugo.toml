@@ -69,8 +69,8 @@ tocopen = true
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my cybersecurity and programming portfolio blog!💻🛡️"
+  Title = "Hi there👋"
+  Content = "Welcome to my cybersecurity and programming portfolio blog! 💻🛡️ Enter a realm where lines of code serve as sentinels, guarding the digital landscape. Join me on this journey where innovation meets vigilance, and together, we'll navigate the ever-evolving world of technology. Let's embark on this adventure!"
 
   [[params.socialIcons]]
   name = "LinkedIn"
@@ -128,3 +128,11 @@ weight = 10
 
 [markup.highlight]
 noClasses = false
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
