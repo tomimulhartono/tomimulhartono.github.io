@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Academic Administration at Universitas Jenderal Achmad Yani with SITERPADU"
+title: "Enhancing Academic Administration at Universitas Jenderal Achmad Yani: Leveraging SITERPADU Solutions"
 date: 2023-01-02T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
