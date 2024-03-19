@@ -1,5 +1,5 @@
 ---
-title: "Database Administration Fundamentals: Opening Doors to a Career in Data"
+title: "Database Administration Fundamentals: Key to Unlocking Opportunities in Data"
 date: 2020-12-15T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -80,7 +80,11 @@ The MTA Database Administration Fundamentals certification has provided me with 
 - **Increasing job opportunities**
 - **Opening doors to a career in the world of data**
 
-# Certificates
+## Acquiring Database Expertise
+
+Alongside passing the MTA Database Administration Fundamentals certification exam, I gained proficiency in essential areas of database management. This includes understanding Database Concepts, Database Management Systems (DBMS), Relational Database Management Systems (RDBMS), and Database Design. With a solid grasp of these foundational aspects, I'm better equipped to navigate the complexities of database administration and contribute effectively to organizational data management strategies.
+
+# Certificates Gained
 
 | Name   | Issued By | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |

@@ -86,4 +86,4 @@ COVID-19 WebGIS is an example of how technology can assist us in difficult situa
 
 Have you ever been involved in a similar project?
 
-Visit more: https://gitlab.com/tomimulhartono/covid19-webgis
+To learn more about COVID-19 WebGIS, please visit my repository at https://gitlab.com/tomimulhartono/covid19-webgis.

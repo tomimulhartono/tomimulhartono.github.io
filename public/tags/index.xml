@@ -11,27 +11,55 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certificates</title>
       <link>http://localhost:1313/tags/certificates/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/certificates/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cekatan</title>
+      <link>http://localhost:1313/tags/cekatan/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cekatan/</guid>
       <description></description>
     </item>
     <item>
       <title>Codeigniter</title>
       <link>http://localhost:1313/tags/codeigniter/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/codeigniter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Php</title>
+      <link>http://localhost:1313/tags/php/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simona-Biduan</title>
+      <link>http://localhost:1313/tags/simona-biduan/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/simona-biduan/</guid>
       <description></description>
     </item>
     <item>
@@ -42,13 +70,6 @@
       <description></description>
     </item>
     <item>
-      <title>Mysql</title>
-      <link>http://localhost:1313/tags/mysql/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mysql/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ordera</title>
       <link>http://localhost:1313/tags/ordera/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
@@ -56,10 +77,10 @@
       <description></description>
     </item>
     <item>
-      <title>Php</title>
-      <link>http://localhost:1313/tags/php/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/php/</guid>
+      <title>Pelangi</title>
+      <link>http://localhost:1313/tags/pelangi/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pelangi/</guid>
       <description></description>
     </item>
     <item>

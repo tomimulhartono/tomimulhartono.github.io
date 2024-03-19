@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cekatan on Tomi Mulhartono</title>
+    <link>http://localhost:1313/tags/cekatan/</link>
+    <description>Recent content in Cekatan on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cekatan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
+      <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
+      <description>Delving into the World of JKN Data Verification As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to a meaningful project: building the Cek dan Validasi Data JKN Kabupaten Bojonegoro (CEKATAN) web application. This project ran from November to December 2023, and I am proud to have designed and built this application independently using the CodeIgniter 3 framework and the MySQL database.
+What is CEKATAN?</description>
+    </item>
+  </channel>
+</rss>

@@ -11,10 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering Security: My Journey to Becoming a Certified AppSec Practitioner</title>
+      <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
+      <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-cybersecurity/</guid>
+      <description>Introduction In today&amp;rsquo;s hyperconnected world, cybersecurity has become an indispensable skill, not just for tech professionals but for everyone navigating the digital landscape. With the ever-evolving nature of cyber threats, understanding the fundamentals of cybersecurity is crucial to safeguard our personal and professional lives.
+Embarking on the Cybersecurity Path My fascination with cybersecurity led me to enroll in Cisco Networking Academy&amp;rsquo;s Introduction to Cybersecurity course on February 28, 2024. This comprehensive course provided a solid foundation in the world of cybersecurity, equipping me with the knowledge and skills to navigate the digital frontier with confidence.</description>
+    </item>
+    <item>
+      <title>Mastering Security: Achieving Certified AppSec Practitioner (CAP) with The SecOps Group</title>
       <link>http://localhost:1313/posts/certified-appsec-practitioner/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/certified-appsec-practitioner/</guid>
@@ -22,12 +30,36 @@
 What is CAP? The CAP certification is a highly sought-after credential in the cybersecurity industry. It recognizes individuals who possess the knowledge and skills necessary to secure applications throughout their development lifecycle.</description>
     </item>
     <item>
-      <title>Becoming a Cyber Security Professional: Insights from a Bootcamp Experience</title>
-      <link>http://localhost:1313/posts/pentester-and-bughunter/</link>
+      <title>Cyber Security Exploration: Unveiling the Path to Becoming a Pentester and Bug Hunter with SanberCode</title>
+      <link>http://localhost:1313/posts/pentester-and-bug-hunter/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pentester-and-bughunter/</guid>
+      <guid>http://localhost:1313/posts/pentester-and-bug-hunter/</guid>
       <description>From Zero to Cyber Security Hero in One Month It&amp;rsquo;s been a whirlwind of a month, but I&amp;rsquo;m thrilled to share that I&amp;rsquo;ve just completed an intensive Cyber Security Bootcamp at SanberCode! This program was designed to transform individuals with no prior experience into skilled penetration testers and bug hunters. And let me tell you, it was an incredible journey.
 What I Learned The bootcamp covered a wide range of topics, including:</description>
+    </item>
+    <item>
+      <title>Strengthening Cyber Defenses: My Growth with ITBOX&#39;s Cybersecurity Courses</title>
+      <link>http://localhost:1313/posts/cyber-security-courses/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cyber-security-courses/</guid>
+      <description>Introduction Have you ever wondered how those hackers manage to break into secure systems and steal valuable data? Or perhaps you&amp;rsquo;re fascinated by the intricate world of cybersecurity and want to learn how to protect yourself from online threats? Well, I&amp;rsquo;ve recently embarked on an exciting journey into the realm of cybersecurity, and I&amp;rsquo;m here to share my experience with you.
+Embarking on the Cybersecurity Path My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyber Security Course Level Basic from ITBOX.</description>
+    </item>
+    <item>
+      <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
+      <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
+      <description>Delving into the World of JKN Data Verification As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to a meaningful project: building the Cek dan Validasi Data JKN Kabupaten Bojonegoro (CEKATAN) web application. This project ran from November to December 2023, and I am proud to have designed and built this application independently using the CodeIgniter 3 framework and the MySQL database.
+What is CEKATAN?</description>
+    </item>
+    <item>
+      <title>Innovative Stakeholder Engagement: Simona Biduan&#39;s Complaint Management System</title>
+      <link>http://localhost:1313/posts/simona-biduan/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/simona-biduan/</guid>
+      <description>Delving into the Challenges of Stakeholder Complaint Management As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to the development of an innovative web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN).
+SIMONA BIDUAN emerged as a comprehensive software solution to manage and track stakeholder complaints, particularly within the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).</description>
     </item>
     <item>
       <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
@@ -39,15 +71,24 @@ Ordera is here to meet your needs!
 Ordera: What Makes It Special? Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
     </item>
     <item>
+      <title>Building the PELANGI App: A Leap Towards a Smarter Ngasem</title>
+      <link>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</guid>
+      <description>Overview [IMAGE]
+PELANGI, short for Pelayanan Ngasem Terintegrasi, is a digital platform designed to deliver a seamless experience for the people of Ngasem. Launched in 2023, this app is all about making access easier and providing smart solutions to meet the diverse needs and demands of the community.
+&amp;ldquo;PELANGI is designed to enhance the quality of life for Ngasem residents and strengthen the bond between the government and its citizens through the power of digital technology.</description>
+    </item>
+    <item>
       <title>Building SITERPADU: Streamlining Academic Administration at Universitas Jenderal Achmad Yani</title>
-      <link>http://localhost:1313/posts/siterpadu/</link>
+      <link>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/siterpadu/</guid>
+      <guid>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</guid>
       <description>Overview Greetings, fellow tech enthusiasts! Today, I&amp;rsquo;m thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the SITERPADU application. This project, spanning from January 1, 2022, to December 31, 2022, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
 Delving into SITERPADU: A Comprehensive Academic Management System SITERPADU stands as a testament to the power of technology in streamlining academic administration.</description>
     </item>
     <item>
-      <title>Database Administration Fundamentals: Opening Doors to a Career in Data</title>
+      <title>Database Administration Fundamentals: Key to Unlocking Opportunities in Data</title>
       <link>http://localhost:1313/posts/database-administration-fundamentals/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/database-administration-fundamentals/</guid>

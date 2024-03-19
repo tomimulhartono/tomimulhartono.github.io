@@ -11,10 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/certificates/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering Security: My Journey to Becoming a Certified AppSec Practitioner</title>
+      <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
+      <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-cybersecurity/</guid>
+      <description>Introduction In today&amp;rsquo;s hyperconnected world, cybersecurity has become an indispensable skill, not just for tech professionals but for everyone navigating the digital landscape. With the ever-evolving nature of cyber threats, understanding the fundamentals of cybersecurity is crucial to safeguard our personal and professional lives.
+Embarking on the Cybersecurity Path My fascination with cybersecurity led me to enroll in Cisco Networking Academy&amp;rsquo;s Introduction to Cybersecurity course on February 28, 2024. This comprehensive course provided a solid foundation in the world of cybersecurity, equipping me with the knowledge and skills to navigate the digital frontier with confidence.</description>
+    </item>
+    <item>
+      <title>Mastering Security: Achieving Certified AppSec Practitioner (CAP) with The SecOps Group</title>
       <link>http://localhost:1313/posts/certified-appsec-practitioner/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/certified-appsec-practitioner/</guid>
@@ -22,15 +30,23 @@
 What is CAP? The CAP certification is a highly sought-after credential in the cybersecurity industry. It recognizes individuals who possess the knowledge and skills necessary to secure applications throughout their development lifecycle.</description>
     </item>
     <item>
-      <title>Becoming a Cyber Security Professional: Insights from a Bootcamp Experience</title>
-      <link>http://localhost:1313/posts/pentester-and-bughunter/</link>
+      <title>Cyber Security Exploration: Unveiling the Path to Becoming a Pentester and Bug Hunter with SanberCode</title>
+      <link>http://localhost:1313/posts/pentester-and-bug-hunter/</link>
       <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pentester-and-bughunter/</guid>
+      <guid>http://localhost:1313/posts/pentester-and-bug-hunter/</guid>
       <description>From Zero to Cyber Security Hero in One Month It&amp;rsquo;s been a whirlwind of a month, but I&amp;rsquo;m thrilled to share that I&amp;rsquo;ve just completed an intensive Cyber Security Bootcamp at SanberCode! This program was designed to transform individuals with no prior experience into skilled penetration testers and bug hunters. And let me tell you, it was an incredible journey.
 What I Learned The bootcamp covered a wide range of topics, including:</description>
     </item>
     <item>
-      <title>Database Administration Fundamentals: Opening Doors to a Career in Data</title>
+      <title>Strengthening Cyber Defenses: My Growth with ITBOX&#39;s Cybersecurity Courses</title>
+      <link>http://localhost:1313/posts/cyber-security-courses/</link>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cyber-security-courses/</guid>
+      <description>Introduction Have you ever wondered how those hackers manage to break into secure systems and steal valuable data? Or perhaps you&amp;rsquo;re fascinated by the intricate world of cybersecurity and want to learn how to protect yourself from online threats? Well, I&amp;rsquo;ve recently embarked on an exciting journey into the realm of cybersecurity, and I&amp;rsquo;m here to share my experience with you.
+Embarking on the Cybersecurity Path My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyber Security Course Level Basic from ITBOX.</description>
+    </item>
+    <item>
+      <title>Database Administration Fundamentals: Key to Unlocking Opportunities in Data</title>
       <link>http://localhost:1313/posts/database-administration-fundamentals/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/database-administration-fundamentals/</guid>

@@ -1,5 +1,5 @@
 ---
-title: "Mastering Security: My Journey to Becoming a Certified AppSec Practitioner"
+title: "Mastering Security: Achieving Certified AppSec Practitioner (CAP) with The SecOps Group"
 date: 2024-02-13T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -87,10 +87,14 @@ If you are interested in pursuing the CAP certification, here are a few tips:
 - **Take online courses and attend conferences to stay up-to-date on the latest security trends.**
 - **Practice for the exam by taking mock tests.**
 
-I am excited to use my CAP knowledge and skills to help organizations build more secure applications. I am confident that this certification will open up new opportunities for me in my career.
+## Mastery in Diverse Application Security Domains
 
-# Certificates
+My expertise spans a comprehensive range of crucial application security domains, including but not limited to fortifying Input Validation Mechanisms, implementing robust Encryption and Hashing techniques, and ensuring adherence to Security Best Practices and Hardening Mechanisms. From mitigating risks associated with Common Supply Chain Attacks to addressing vulnerabilities like Insecure File Uploads and SQL Injection, my proficiency extends across various security layers, empowering me to bolster the resilience of applications against evolving cyber threats.
+
+## My Cybersecurity Certificates Gained
 
 | Name   | Issued By | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |
 | Certified Appsec Practitioner | The SecOps Group | **8399810** | `Image` |
+
+I am excited to use my CAP knowledge and skills to help organizations build more secure applications. I am confident that this certification will open up new opportunities for me in my career.
