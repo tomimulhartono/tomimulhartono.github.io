@@ -121,11 +121,11 @@ After diving into a series of cybersecurity courses from basic to advanced level
 
 ## My Cybersecurity Certificates Gained
 
-| Name   | Issued By | Credential ID     | Certificate   |
+| Name   | Issuer | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |
-| Cyber Security Course Level Basic | ITBOX | **139041068-139313E0B-1274190E0** | `Image` |
-| Cyber Security Course Level Intermediate | ITBOX | **139041068-13921D4B5-1274190E0** | `Image` |
-| Cyber Security Course Level Advanced | ITBOX | **139041068-13921FA34-1274190E0** | `Image` |
+| Cyber Security Course Level Basic | ITBOX | **139041068-139313E0B-1274190E0** | ![Certificate](/images/itbox1.jpg) |
+| Cyber Security Course Level Intermediate | ITBOX | **139041068-13921D4B5-1274190E0** | ![Certificate](/images/itbox2.jpg) |
+| Cyber Security Course Level Advanced | ITBOX | **139041068-13921FA34-1274190E0** | ![Certificate](/images/itbox3.jpg) |
 
 ## Conclusion
 

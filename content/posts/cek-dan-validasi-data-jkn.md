@@ -88,7 +88,7 @@ CEKATAN is built using the following technologies:
 - **Database:** MySQL
 - **Other Features:** AJAX, HTML5, CSS3
 
-[IMAGE]
+![CEKATAN](/images/cekatan.png)
 
 ## Conclusion
 

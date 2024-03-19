@@ -85,7 +85,7 @@ The implementation of SIMONA BIDUAN has yielded significant positive impacts, in
 | Technology | CodeIgniter 3 (framework), MySQL (database) |
 | Project Duration | September 2023 - November 2023 |
 
-[IMAGE]
+![SIMONA BIDUAN](/images/simona.jpg)
 
 ## Conclusion
 

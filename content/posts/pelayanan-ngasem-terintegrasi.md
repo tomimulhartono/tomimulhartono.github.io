@@ -39,7 +39,7 @@ cover:
 
 ## Overview
 
-[IMAGE]
+![Login Page PELANGI](/images/pelangi1.png)
 
 **PELANGI**, short for **Pelayanan Ngasem Terintegrasi**, is a digital platform designed to deliver a seamless experience for the people of Ngasem. Launched in 2023, this app is all about **making access easier and providing smart solutions** to meet the diverse needs and demands of the community.
 
@@ -47,7 +47,7 @@ cover:
 
 ## Dive into PELANGI's Key Features
 
-[IMAGE]
+![Dashboard PELANGI](/images/pelangi2.png)
 
 | Feature | Description |
 | --- | --- |
@@ -58,7 +58,7 @@ cover:
 
 ## PELANGI's Impact: A More Efficient and Connected Ngasem
 
-[IMAGE]
+![Services Page PELANGI](/images/pelangi3.png)
 
 **PELANGI** has made a significant positive impact on the Ngasem community:
 

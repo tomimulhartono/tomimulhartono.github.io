@@ -45,7 +45,7 @@ Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongs
 
 Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that's the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
 
-[Images]
+![COVID-19 WebGIS](/images/webgis.jpg)
 
 ## Behind the Scenes: Technology and Challenges
 

@@ -93,8 +93,8 @@ My expertise spans a comprehensive range of crucial application security domains
 
 ## My Cybersecurity Certificates Gained
 
-| Name   | Issued By | Credential ID     | Certificate   |
+| Name   | Issuer | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |
-| Certified Appsec Practitioner | The SecOps Group | **8399810** | `Image` |
+| Certified Appsec Practitioner | The SecOps Group | **8399810** | ![Certificate](/images/cap.jpg) |
 
 I am excited to use my CAP knowledge and skills to help organizations build more secure applications. I am confident that this certification will open up new opportunities for me in my career.

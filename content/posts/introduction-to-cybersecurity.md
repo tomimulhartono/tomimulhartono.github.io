@@ -87,9 +87,9 @@ In addition to completing the Cisco Networking Academy's Introduction to Cyberse
 
 ## Certificates Gained
 
-| Name   | Issued By | Credential ID     | Certificate   |
+| Name   | Issuer | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |
-| Introduction to Cybersecurity | Cisco Networking Academy | **4aaf70d3-6427-4e7e-b396-7a4969d80938** | `Image` |
+| Introduction to Cybersecurity | Cisco Networking Academy | **4aaf70d3-6427-4e7e-b396-7a4969d80938** | ![Certificate](/images/cisco.jpg) |
 
 **Additional Resources**
 

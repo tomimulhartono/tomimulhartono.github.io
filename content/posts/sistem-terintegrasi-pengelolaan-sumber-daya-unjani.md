@@ -75,7 +75,7 @@ To better illustrate the Graduation Module's capabilities, let's delve into a ta
 
 ## Visualizing the Project: A Picture Speaks a Thousand Words
 
-[Images]
+![SITERPADU](/images/siterpadu.png)
 
 ## Conclusion: A Rewarding Full Stack Experience
 

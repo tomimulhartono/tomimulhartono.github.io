@@ -59,13 +59,11 @@ As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the o
 
 ## The Technology Behind Ordera
 
-| Aspect   | Tech Stack     |
-| --------- | -------- |
-| Backend | Laravel 8 |
-| Frontend | CodeIgniter 3 |
-| Database | MySQL |
+- **Backend:** Laravel 8
+- **Frontend:** CodeIgniter 3
+- **Database:** MySQL
 
-[Images]
+![Login Page Ordera](/images/ordera2.png)
 
 **The Ordera development process began in January 2023 and was completed in October 2023.** It was an **extraordinary experience** to be involved in this project and see the application come to life.
 
@@ -78,7 +76,7 @@ Ordera is a practical solution for those who want to:
 - **Avoid long queues at restaurants**
 - **Easily monitor the status of their orders**
 
-[Images]
+![Landing Page Ordera](/images/ordera.jpg)
 
 **What are you waiting for? Visit the Ordera app now and experience the convenience of ordering food and drinks!**
 

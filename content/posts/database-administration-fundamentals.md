@@ -86,9 +86,9 @@ Alongside passing the MTA Database Administration Fundamentals certification exa
 
 # Certificates Gained
 
-| Name   | Issued By | Credential ID     | Certificate   |
+| Name   | Issuer | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |
-| Database Administration Fundamentals | Microsoft Technology Associate | **wMuHm-HaMC** | `Image` |
+| Database Administration Fundamentals | Microsoft Technology Associate | **wMuHm-HaMC** | ![Certificate](/images/database.jpg) |
 
 ## Conclusion
 
