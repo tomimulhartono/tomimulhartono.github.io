@@ -37,38 +37,55 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+## Ordera: Delivering Delicious Food to Your Doorstep!
 
-## Overview
-Ordera, the brainchild of innovative minds at PT Motiolabs Digital Indonesia, has transformed the way Indonesians experience food delivery. In this blog post, I delve into the journey of creating Ordera, an app that not only connects users with their favorite eateries but also revolutionizes the food delivery landscape in Indonesia.
+Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
 
-## Building Ordera: A Journey of Innovation
+**Ordera** is here to meet your needs!
 
-In the bustling world of food delivery apps, Ordera stands out as a beacon of convenience and efficiency. From January 2023 to October 2023, our team at PT Motiolabs Digital Indonesia poured their expertise and passion into crafting this seamless platform.
+## Ordera: What Makes It Special?
 
-### Backend Brilliance with CodeIgniter 3
-In the words of our lead developer:
+Ordera is a **rising** food and beverage delivery application in Indonesia. This app offers several advantages that make it a **must-try**:
 
->"Utilizing CodeIgniter 3 as our backend framework empowered us to create a robust foundation for Ordera. Its flexibility and scalability were instrumental in handling the complexities of food delivery logistics."
+- **Diverse Restaurant Options:** Discover various restaurants and eateries listed on Ordera, ranging from local delicacies to international cuisines.
+- **Quick and Easy Ordering:** Order your favorite food and drinks with just a few clicks!
+- **Flexible Payment Options:** Pay for your orders with various payment methods, including cash, bank transfer, and e-wallet.
+- **Real-time Order Tracking:** Track the status of your order directly within the app.
+- **Responsive Customer Service:** The Ordera customer service team is ready to assist you 24/7.
 
-### Frontend Flourish with Laravel
-Frontend development was a playground of creativity, where Laravel paved the way for captivating user experiences. Our UI/UX team reflects:
+## My Experience Building Ordera
 
-> "Laravel's elegant syntax and extensive feature set allowed us to craft a visually stunning frontend for Ordera. From smooth navigation to eye-catching design elements, every detail was meticulously curated to delight our users."
+As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the opportunity to **contribute** to the development of the Ordera application. Alongside an incredible team, we worked hard to deliver an application that is **user-friendly, efficient, and captivating.**
 
-### Database Dynamo with MySQL
-Behind the scenes, MySQL played a pivotal role in managing the vast array of data powering Ordera. As our database architect puts it:
+## The Technology Behind Ordera
 
->"MySQL's reliability and performance were indispensable in handling the influx of orders, user information, and restaurant data. It ensured that Ordera operated seamlessly, even during peak hours."
-
-## Empowering Users, Enriching Restaurants
-Ordera isn't just about placing orders—it's about empowering users to indulge in their favorite cuisines with unparalleled ease. At the same time, it serves as a catalyst for restaurant growth, expanding their reach and customer base.
-
-## Responsive Customer Service
-At the heart of Ordera lies a commitment to customer satisfaction. Our dedicated support team is always ready to assist users, ensuring a smooth and enjoyable experience from order placement to delivery.
-
-## Conclusion
-Ordera isn't just an app; it's a testament to innovation and collaboration. From its inception at PT Motiolabs Digital Indonesia to its widespread adoption across Indonesia, Ordera continues to redefine the food delivery landscape. Join us on this culinary adventure and experience the convenience of Ordera firsthand!
+| Aspect   | Tech Stack     |
+| --------- | -------- |
+| Backend | Laravel 8 |
+| Frontend | CodeIgniter 3 |
+| Database | MySQL |
 
 [Images]
 
-More details: https://ordera.id/
+**The Ordera development process began in January 2023 and was completed in October 2023.** It was an **extraordinary experience** to be involved in this project and see the application come to life.
+
+## Ordera: A Practical Solution for Your Needs
+
+Ordera is a practical solution for those who want to:
+
+- **Order food or drinks without leaving home**
+- **Discover new culinary options**
+- **Avoid long queues at restaurants**
+- **Easily monitor the status of their orders**
+
+[Images]
+
+**What are you waiting for? Visit the Ordera app now and experience the convenience of ordering food and drinks!**
+
+**Some interesting aspects of this project:**
+
+- **Solid team collaboration:** We worked together with an outstanding team of developers, designers, and product managers.
+- **Technological challenges:** Building a complex application with various features requires hard work and dedication.
+- **Satisfaction in seeing the results of our work:** Seeing the Ordera app being used by many people is a tremendous reward.
+
+Want to learn more about Ordera? Visit their website at https://ordera.id/

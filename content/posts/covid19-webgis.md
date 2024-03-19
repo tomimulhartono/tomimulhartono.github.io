@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the Making of COVID-19 WebGIS: A Journey in Digital Mapping and Visual Storytelling"
+title: "Building a COVID-19 WebGIS Application: Memorable Internship Experience"
 date: 2020-08-05T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -37,35 +37,53 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-In the fast-paced world of tech, the development of applications often reflects the urgency of the times. My stint as a Web Developer intern at PT Sketsa Negeri Mandiri thrust me into the heart of this narrative, where alongside a dynamic duo, I embarked on a mission to contribute to the fight against COVID-19 through digital innovation.
+**June - July 2020**
 
-## The Genesis: Taking Over the Baton
-Embarking on this project in the midst of a global pandemic was akin to stepping into a whirlwind. The COVID-19 WebGIS project had already been set in motion by previous developers, and my colleague and I found ourselves tasked with carrying the torch forward. As we delved into the intricacies of ArcGIS, QGIS, JavaScript, and Bootstrap 4, the magnitude of the task ahead dawned upon me.
+Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
 
->“Continuing the legacy, I embarked on a journey where pixels met purpose, and data danced to the rhythm of resilience.”
+## What is COVID-19 WebGIS?
 
-## Unveiling the Canvas: Crafting the Visual Symphony
-At the heart of our endeavor lay the vision of transforming complex data into a visual narrative that resonated with users. Armed with the potent tools of GIS technology and the canvas of Bootstrap 4, I set out to create an immersive experience for our audience. Each line of code became a stroke on the canvas, weaving together a tapestry of insights and analysis.
-
->“In the realm where maps morphed into mirrors of reality, I sculpted a digital landscape that echoed the pulse of the pandemic.”
-
-## Navigating the Terrain: Challenges and Triumphs
-No journey is without its share of hurdles, and mine was no exception. From grappling with intricate GIS algorithms to ensuring seamless user experience across devices, every obstacle became an opportunity for growth. Yet, amidst the trials, there were moments of triumph – the successful integration of real-time data feeds, the seamless synchronization of ArcMap and QGIS, and the unveiling of a user-friendly interface that empowered users with insights.
-
->“Amidst the labyrinth of challenges, I discovered the compass of collaboration, steering me towards the shores of success.”
-
-## The Tapestry Unraveled: Impact and Beyond
-As the curtains drew on my internship, the impact of our endeavor reverberated beyond the realms of code and pixels. The COVID-19 WebGIS emerged not just as a tool but as a testament to the power of technology in times of crisis. It stood as a beacon of hope, guiding users through the tumultuous seas of uncertainty with data-driven clarity.
-
->“In the tapestry of technology, every line of code becomes a thread weaving together the fabric of change.”
-
-## Visual Corner: Immortalizing the Journey
-In the visual corner of my narrative lies a gallery of memories – snapshots capturing the essence of our journey. From the inception meetings to the late-night coding sessions, each image encapsulates a chapter in our saga. These visuals serve not just as mementos but as testaments to the resilience and camaraderie that fueled our quest.
-
->“In pixels and photographs, I immortalize the moments that shaped my journey – a testament to the power of collaboration and creativity.”
+Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that's the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
 
 [Images]
 
-In the ever-evolving landscape of technology, my journey with COVID-19 WebGIS stands as a testament to the transformative power of innovation. As I bid adieu to this chapter, I carry forward the lessons learned, fueled by the belief that in the face of adversity, pixels and purpose converge to illuminate the path ahead.
+## Behind the Scenes: Technology and Challenges
 
-More details: https://gitlab.com/tomimulhartono/covid19-webgis
+This application leverages advanced technology, including:
+
+- **Bootstrap 4:** For responsive and mobile-friendly web design.
+- **ArcMap:** GIS software for spatial data analysis.
+- **QGIS:** Open-source GIS software for data visualization.
+
+The biggest challenge? Starting the development of an application we've never understood before. We had to learn the existing code and understand the project workflow. But, with collaboration and determination, we managed to get through it!
+
+## Key Beneficial Features
+
+| Feature | Description |
+| --- | --- |
+| COVID-19 Spread Map | Visualization of the number of cases, deaths, and recoveries in each region of Indonesia. |
+| Data Analysis | Detailed information about the COVID-19 situation in Indonesia. |
+| Data Visualization | Graphs and tables that are easy to understand to help users comprehend the virus spread. |
+
+## More Than Just a Project
+
+COVID-19 WebGIS is not just an ordinary internship project. This application has a real impact:
+
+- **Assisting many people:** Understanding the COVID-19 pandemic situation in Indonesia.
+- **Providing crucial information:** To make informed decisions in maintaining health and safety.
+
+## Valuable Experience and Important Lessons
+
+This internship provided me with valuable experiences:
+
+- **Learning and developing skills:** In web development and GIS.
+- **Working in a team:** Completing a project with tight deadlines.
+- **Contributing to something bigger:** Helping the community in difficult times.
+
+## Conclusion
+
+COVID-19 WebGIS is an example of how technology can assist us in difficult situations. Though brief, this project's experience is unforgettable. I learned a lot and am proud to have contributed to helping the community during the pandemic.
+
+Have you ever been involved in a similar project?
+
+Visit more: https://gitlab.com/tomimulhartono/covid19-webgis

@@ -37,29 +37,59 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-## Introduction
-Join me on a thrilling journey as I unveil my triumph in achieving the prestigious Certified AppSec Practitioner (CAP) certification from The SecOpsGroup. From the initial challenges to the victorious outcome, this blog post encapsulates my expedition towards mastering the art of application security.
+**February 13, 2024** marked a significant milestone in my professional journey as I successfully passed the Certified AppSec Practitioner (CAP) exam from The SecOps Group. This certification validates my expertise in application security, a field that has become increasingly critical in today's digital landscape.
 
-### 1. The Genesis of My Journey
-Delve into the inception of my aspiration towards becoming an AppSec Practitioner (CAP). Explore the motivations and inspirations that fueled my determination to embark on this remarkable voyage.
+## What is CAP?
 
-### 2. Navigating Through the Certification Process
-Uncover the intricate details of The SecOpsGroup's certification process. From rigorous training modules to intensive examinations, I provide insights into the meticulous preparation required to conquer the AppSec Practitioner (CAP) certification.
+The CAP certification is a highly sought-after credential in the cybersecurity industry. It recognizes individuals who possess the knowledge and skills necessary to secure applications throughout their development lifecycle. The exam covers a wide range of topics, including:
 
-### 3. Overcoming Challenges and Roadblocks
-Journey with me through the hurdles and obstacles encountered along the path to certification success. Learn how perseverance, dedication, and a strategic mindset were pivotal in surmounting these challenges.
+- **Secure coding practices**
+- **Vulnerability management**
+- **Threat modeling**
+- **Security testing**
+- **Incident response**
 
-### 4. The Culmination: Triumph on February 13, 2024
-Relive the exhilarating moment of triumph as I received the Certified AppSec Practitioner (CAP) certification. Discover the overwhelming sense of accomplishment and fulfillment that accompanied this significant milestone.
+The following table illustrates the relative weights for each domain of the CAP (Certified Authorization Professional) exam:
 
-### 5. Embracing Continuous Learning and Growth
-Explore the importance of perpetual learning and growth in the realm of cybersecurity. Discover how obtaining the AppSec Practitioner (CAP) certification marks not the end but rather the beginning of a lifelong journey towards excellence.
+| Domain | Weight |
+| --- | --- |
+| Secure Coding Practices | 33% |
+| Vulnerability Management | 24% |
+| Threat Modeling | 17% |
+| Security Testing | 16% |
+| Incident Response | 10% |
 
-### 6. Sharing Insights and Expertise
-Gain valuable insights and expertise gleaned from my experience as a Certified AppSec Practitioner (CAP). Explore practical tips, best practices, and strategies for fortifying application security in an ever-evolving digital landscape.
+## Why I pursued CAP?
 
-## Conclusion
-In conclusion, my journey to becoming a Certified AppSec Practitioner (CAP) has been nothing short of transformative. From the initial aspirations to the ultimate triumph, this expedition epitomizes the power of dedication, perseverance, and continuous learning in achieving professional excellence in cybersecurity.
+As a software developer, I have always been passionate about building secure applications. However, I realized that I needed a formal certification to validate my skills and knowledge. CAP was the perfect choice for me as it is a comprehensive and industry-recognized certification.
+
+>"The CAP certification is a valuable credential for anyone who wants to demonstrate their expertise in application security." - The SecOps Group
+
+## My CAP journey
+
+The CAP exam is not easy to pass. It requires a thorough understanding of application security concepts and hands-on experience in implementing security measures. I prepared for the exam by taking online courses, reading books, and attending conferences. I also made sure to practice by working on real-world projects.
+
+## The benefits of CAP
+
+Obtaining the CAP certification has several benefits, including:
+
+- **Increased job opportunities**
+- **Higher earning potential**
+- **Enhanced credibility**
+- **Improved knowledge and skills**
+
+## Advice for aspiring CAP's
+
+If you are interested in pursuing the CAP certification, here are a few tips:
+
+- **Start by learning the basics of application security.**
+- **Gain hands-on experience by working on real-world projects.**
+- **Take online courses and attend conferences to stay up-to-date on the latest security trends.**
+- **Practice for the exam by taking mock tests.**
+
+I am excited to use my CAP knowledge and skills to help organizations build more secure applications. I am confident that this certification will open up new opportunities for me in my career.
+
+# Certificates
 
 | Name   | Issued By | Credential ID     | Certificate   |
 | --------- | -------- | ------ | ------ |

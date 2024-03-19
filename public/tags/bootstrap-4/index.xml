@@ -14,12 +14,13 @@
     <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/bootstrap-4/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unveiling the Making of COVID-19 WebGIS: A Journey in Digital Mapping and Visual Storytelling</title>
+      <title>Building a COVID-19 WebGIS Application: Memorable Internship Experience</title>
       <link>http://localhost:1313/posts/covid19-webgis/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/covid19-webgis/</guid>
-      <description>In the fast-paced world of tech, the development of applications often reflects the urgency of the times. My stint as a Web Developer intern at PT Sketsa Negeri Mandiri thrust me into the heart of this narrative, where alongside a dynamic duo, I embarked on a mission to contribute to the fight against COVID-19 through digital innovation.
-The Genesis: Taking Over the Baton Embarking on this project in the midst of a global pandemic was akin to stepping into a whirlwind.</description>
+      <description>June - July 2020
+Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
+What is COVID-19 WebGIS? Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that&amp;rsquo;s the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.</description>
     </item>
   </channel>
 </rss>
