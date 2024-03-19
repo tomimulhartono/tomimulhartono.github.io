@@ -1,5 +1,5 @@
 ---
-title: "Building a COVID-19 WebGIS Application: Memorable Internship Experience"
+title: "Designing a COVID-19 WebGIS Application: Unforgettable Internship Experience"
 date: 2020-08-05T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]

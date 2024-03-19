@@ -1,5 +1,5 @@
 ---
-title: "Building the PELANGI App: A Leap Towards a Smarter Ngasem"
+title: "Crafting the PELANGI App: Advancing Towards a Smarter Ngasem"
 date: 2023-10-10T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
