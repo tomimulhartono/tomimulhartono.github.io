@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacking a Vulnerable Website: A Step-by-Step (Unethical) Guide (For Educational Purposes Only!)</title>
+      <link>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</guid>
+      <description>The Target: A Vulnhub Machine Meet the target: Vulnhub Basic Pentesting 1. This machine, released on December 8, 2017, is authored by Josiah Pierce as part of the Basic Pentesting series.
+Finding the Target&amp;rsquo;s IP Address Identifying the Local IP I first need a starting point. My local IP address (like 192.168.100.9 in this example) acts as a launchpad for locating the target machine.
+Netdiscover for IP Scouting I&amp;rsquo;ll likely use a tool like netdiscover to scan the network for active devices, revealing the target&amp;rsquo;s IP address (192.</description>
+    </item>
     <item>
       <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
       <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>

@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conquering Vulnhub&#39;s Basic Pentesting 1: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</guid>
+      <description>Have you ever wanted to test your penetration testing skills in a safe environment? Look no further than Vulnhub&amp;rsquo;s Basic Pentesting 1 machine! This virtual machine is designed specifically for beginners like me, offering a controlled space to learn the ropes of exploiting vulnerabilities and gaining access.
+In this guide, I&amp;rsquo;ll walk you through the thrilling journey of taking down Basic Pentesting 1, step-by-step. So, grab your tools and get ready to unleash your inner hacker (for good, of course)!</description>
+    </item>
     <item>
       <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
       <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>
