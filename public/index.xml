@@ -46,6 +46,14 @@ What I Learned The bootcamp covered a wide range of topics, including:</descript
 Embarking on the Cybersecurity Path My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyber Security Course Level Basic from ITBOX.</description>
     </item>
     <item>
+      <title>Cracking the Code: My Experience with Malware Analysis at Protergo</title>
+      <link>http://localhost:1313/posts/malware-analysis-protergo/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/malware-analysis-protergo/</guid>
+      <description>During my technical interview at Protergo, I had the opportunity to showcase my skills in malware analysis. This blog post will take you through the exciting journey of dissecting a suspicious file using Cuckoo Sandbox, a powerful tool for both static and dynamic analysis.
+Step-by-Step Malware Analysis with Cuckoo Sandbox Unpacking the Suspect After downloading the sample file, I unzipped it to reveal its contents. This initial step allows us to see what&amp;rsquo;s lurking inside the archive.</description>
+    </item>
+    <item>
       <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
       <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>

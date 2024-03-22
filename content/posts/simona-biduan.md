@@ -4,7 +4,7 @@ date: 2023-11-27T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["development"]
-tags: ["simona-biduan", "php", "codeigniter", "mysql"]
+tags: ["simona biduan", "php", "codeigniter", "mysql"]
 author: "Tomi Mulhartono"
 # author: ["Me", "You"] # multiple authors
 showToc: true
