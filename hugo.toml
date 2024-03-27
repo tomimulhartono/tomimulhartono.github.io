@@ -16,8 +16,24 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Tomi Mulhartono"
-description = "Blog Portfolio"
-keywords = [ "Blog", "Portfolio" ]
+description = "Unlock the secrets of cybersecurity and programming in my chill portfolio blog! Join me on a journey where coding prowess meets digital defense. From coding hacks to cybersecurity strategies, discover it all in a relaxed vibe that makes learning fun!"
+keywords = [
+    "Cybersecurity",
+    "Programming",
+    "Web Security",
+    "Ethical Hacking",
+    "Software Development",
+    "Coding Tips",
+    "Cyber Defense",
+    "Penetration Testing",
+    "Network Security",
+    "Programming Languages",
+    "Cyber Threats",
+    "Application Security",
+    "Cyber Awareness",
+    "Secure Coding",
+    "Cybersecurity Tools"
+]
 author = "Tomi Mulhartono"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
