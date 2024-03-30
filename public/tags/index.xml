@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificates</title>
+      <link>http://localhost:1313/tags/certificates/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/certificates/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cybersecurity/</guid>
       <description></description>
     </item>
@@ -25,13 +32,6 @@
       <link>http://localhost:1313/tags/penetration-testing/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/penetration-testing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Certificates</title>
-      <link>http://localhost:1313/tags/certificates/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/certificates/</guid>
       <description></description>
     </item>
     <item>

@@ -37,17 +37,19 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+![Certificate](/images/cap.jpg)
+
 **February 13, 2024** marked a significant milestone in my professional journey as I successfully passed the Certified AppSec Practitioner (CAP) exam from The SecOps Group. This certification validates my expertise in application security, a field that has become increasingly critical in today's digital landscape.
 
 ## What is CAP?
 
 The CAP certification is a highly sought-after credential in the cybersecurity industry. It recognizes individuals who possess the knowledge and skills necessary to secure applications throughout their development lifecycle. The exam covers a wide range of topics, including:
 
-- **Secure coding practices**
-- **Vulnerability management**
-- **Threat modeling**
-- **Security testing**
-- **Incident response**
+- Secure coding practices
+- Vulnerability management
+- Threat modeling
+- Security testing
+- Incident response
 
 The following table illustrates the relative weights for each domain of the CAP (Certified Authorization Professional) exam:
 
@@ -73,28 +75,22 @@ The CAP exam is not easy to pass. It requires a thorough understanding of applic
 
 Obtaining the CAP certification has several benefits, including:
 
-- **Increased job opportunities**
-- **Higher earning potential**
-- **Enhanced credibility**
-- **Improved knowledge and skills**
+- Increased job opportunities
+- Higher earning potential
+- Enhanced credibility
+- Improved knowledge and skills
 
 ## Advice for aspiring CAP's
 
 If you are interested in pursuing the CAP certification, here are a few tips:
 
-- **Start by learning the basics of application security.**
-- **Gain hands-on experience by working on real-world projects.**
-- **Take online courses and attend conferences to stay up-to-date on the latest security trends.**
-- **Practice for the exam by taking mock tests.**
+- Start by learning the basics of application security.
+- Gain hands-on experience by working on real-world projects.
+- Take online courses and attend conferences to stay up-to-date on the latest security trends.
+- Practice for the exam by taking mock tests.
 
 ## Mastery in Diverse Application Security Domains
 
 My expertise spans a comprehensive range of crucial application security domains, including but not limited to fortifying Input Validation Mechanisms, implementing robust Encryption and Hashing techniques, and ensuring adherence to Security Best Practices and Hardening Mechanisms. From mitigating risks associated with Common Supply Chain Attacks to addressing vulnerabilities like Insecure File Uploads and SQL Injection, my proficiency extends across various security layers, empowering me to bolster the resilience of applications against evolving cyber threats.
-
-## My Cybersecurity Certificates Gained
-
-| Name   | Issuer | Credential ID     | Certificate   |
-| --------- | -------- | ------ | ------ |
-| Certified Appsec Practitioner | The SecOps Group | **8399810** | ![Certificate](/images/cap.jpg) |
 
 I am excited to use my CAP knowledge and skills to help organizations build more secure applications. I am confident that this certification will open up new opportunities for me in my career.

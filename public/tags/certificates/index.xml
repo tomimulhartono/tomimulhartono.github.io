@@ -11,14 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/certificates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TEST</title>
+      <link>http://localhost:1313/posts/ethical-hacker/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ethical-hacker/</guid>
+      <description>Welcome to my blog! The digital world is rapidly evolving, opening up new opportunities while also presenting increasingly complex cybersecurity risks. On March 29, 2024, I completed the Ethical Hacker course from Cisco Networking Academy, a significant step in my journey to becoming a hero in this challenging digital landscape.
+What is Ethical Hacking?
+Ethical hacking is the practice of learning and applying hacking techniques used by malicious hackers, but with the noble purpose of finding and fixing system vulnerabilities.</description>
+    </item>
     <item>
       <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
       <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/introduction-to-cybersecurity/</guid>
-      <description>Introduction In today&amp;rsquo;s hyperconnected world, cybersecurity has become an indispensable skill, not just for tech professionals but for everyone navigating the digital landscape. With the ever-evolving nature of cyber threats, understanding the fundamentals of cybersecurity is crucial to safeguard our personal and professional lives.
+      <description>In today&amp;rsquo;s hyperconnected world, cybersecurity has become an indispensable skill, not just for tech professionals but for everyone navigating the digital landscape. With the ever-evolving nature of cyber threats, understanding the fundamentals of cybersecurity is crucial to safeguard our personal and professional lives.
 Embarking on the Cybersecurity Path My fascination with cybersecurity led me to enroll in Cisco Networking Academy&amp;rsquo;s Introduction to Cybersecurity course on February 28, 2024. This comprehensive course provided a solid foundation in the world of cybersecurity, equipping me with the knowledge and skills to navigate the digital frontier with confidence.</description>
     </item>
     <item>

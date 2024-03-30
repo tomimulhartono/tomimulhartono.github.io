@@ -43,6 +43,8 @@ Have you ever wondered how those hackers manage to break into secure systems and
 
 ### Embarking on the Cybersecurity Path
 
+![Certificate](/images/itbox1.jpg)
+
 My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyber Security Course Level Basic from ITBOX. This introductory course provided a solid foundation in the fundamentals of cybersecurity, covering topics such as:
 
 - **Basic Network Security:** Understanding the principles and practices of securing computer networks, including concepts like firewalls, intrusion detection systems, and network segmentation.
@@ -69,6 +71,8 @@ My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyb
 
 ### Deepening My Expertise
 
+![Certificate](/images/itbox2.jpg)
+
 With a thirst for more knowledge, I progressed to the Cyber Security Course Level Intermedia, which commenced on January 28, 2024. This intermediate-level course delved deeper into practical aspects of cybersecurity, including:
 
 - **C:** A programming language commonly used in system and network programming, understanding C is essential for understanding low-level security vulnerabilities and exploit development.
@@ -92,6 +96,8 @@ With a thirst for more knowledge, I progressed to the Cyber Security Course Leve
 - **C#:** Exploring the C# programming language commonly used in developing Windows applications, understanding its security implications and potential vulnerabilities.
 
 ### Mastering the Art of Cybersecurity
+
+![Certificate](/images/itbox3.jpg)
 
 Eager to become a cybersecurity expert, I enrolled in the Cyber Security Course Level Advanced on February 10, 2024. This advanced course equipped me with the skills to tackle complex cybersecurity challenges, encompassing:
 
@@ -118,14 +124,6 @@ Throughout my cybersecurity training, I've learned several valuable lessons:
 ## Cybersecurity Skills Gained
 
 After diving into a series of cybersecurity courses from basic to advanced levels, I've gathered a bunch of skills that make me feel like a digital ninja. From understanding how networks wiggle to poking around in code to find where the bad stuff hides, I've learned it all. Whether it's keeping hackers out with firewalls or outsmarting them with ethical hacking tricks, I've got a bag full of cyber-tricks up my sleeve. I can dance with data breaches, tango with malware, and even do a bit of hip-hop with SQL injections. From Androids to iPhones, Linux to Windows, I'm like a cybersecurity Swiss Army knife, ready to slice through any digital threat that comes my way. So, bring it on, cyber baddies, 'cause this cyber warrior is ready to rumble in the digital jungle!
-
-## My Cybersecurity Certificates Gained
-
-| Name   | Issuer | Credential ID     | Certificate   |
-| --------- | -------- | ------ | ------ |
-| Cyber Security Course Level Basic | ITBOX | **139041068-139313E0B-1274190E0** | ![Certificate](/images/itbox1.jpg) |
-| Cyber Security Course Level Intermediate | ITBOX | **139041068-13921D4B5-1274190E0** | ![Certificate](/images/itbox2.jpg) |
-| Cyber Security Course Level Advanced | ITBOX | **139041068-13921FA34-1274190E0** | ![Certificate](/images/itbox3.jpg) |
 
 ## Conclusion
 
