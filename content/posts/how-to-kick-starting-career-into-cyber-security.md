@@ -41,6 +41,12 @@ cover:
 
 Hey everyone! I'm excited to share my experience attending the **"How To Kick Starting Career Into Cyber Security"** sharing session hosted by Merdeka Siber Academy on March 24, 2024. This insightful session provided me with valuable knowledge about the fundamentals of **SOC Analyst** roles and the exciting prospects of **career shifting into cybersecurity.**
 
+| Topic | Key Points |
+| --- | --- |
+| SOC Analyst Role | Monitoring, analyzing, and responding to security incidents to safeguard sensitive data and critical infrastructure. |
+| Essential Skills | Incident detection, investigation, and response, alongside strong analytical and problem-solving abilities, coupled with a deep understanding of cybersecurity principles and technologies. |
+| Career Shifting into Cybersecurity | Offers ample opportunities across various industries due to the growing demand for skilled professionals, emphasizing the necessity for continuous learning and development. |
+
 ## Stepping into the World of Cybersecurity
 
 As an individual with a keen interest in technology and a passion for problem-solving, I've always been fascinated by the ever-evolving realm of cybersecurity. The sharing session at Merdeka Siber Academy offered a comprehensive overview of the **SOC Analyst** role, highlighting its significance in safeguarding organizations from cyber threats.
@@ -63,27 +69,13 @@ Inspired by the insights gained from the sharing session, I'm determined to purs
 
 ## A Call to Action
 
-If you're considering a career in cybersecurity, I highly encourage you to explore the resources and opportunities available. With dedication and perseverance, you can successfully transition into this rewarding and in-demand field.
-
-Remember, cybersecurity is not just about protecting data; it's about safeguarding our digital world and ensuring a safer future for all.
-
-**Additional Tips for Aspiring Cybersecurity Professionals:**
+If you're considering a career in cybersecurity, I highly encourage you to explore the resources and opportunities available. With dedication and perseverance, you can successfully transition into this rewarding and in-demand field. Additional tips for aspiring cybersecurity professionals, including:
 
 - Stay up-to-date with the latest cybersecurity trends and threats.
 - Network with other cybersecurity professionals and attend industry events.
 - Practice your skills by participating in cybersecurity competitions and challenges.
 - Consider obtaining relevant certifications to enhance your credentials.
 
-I hope my experience and insights have been helpful. If you have any questions or comments, please feel free to leave them below.
+I hope my experience and insights have been helpful. I'm excited to share images of my cybersecurity projects as I progress in my journey. Stay tuned for updates!
 
-**Here's a table summarizing the key takeaways from the sharing session:**
-
-| Topic | Key Points |
-| --- | --- |
-| SOC Analyst Role | Monitors, analyzes, and responds to security incidents while protecting sensitive data and critical infrastructure |
-| Essential Skills | Proficient in incident detection, investigation, and response, with strong analytical and problem-solving skills, along with a deep understanding of cybersecurity principles and technologies. |
-| SOC Analyst Role | The increasing demand for skilled cybersecurity professionals presents ample opportunities across various industries, emphasizing the importance of continuous learning and development. |
-
-**I'm excited to share images of my cybersecurity projects as I progress in my journey. Stay tuned for updates!**
-
-**Thank you for reading!**
+Thank you for reading!
