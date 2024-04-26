@@ -129,4 +129,4 @@ After diving into a series of cybersecurity courses from basic to advanced level
 
 My journey into the world of cybersecurity has been a fascinating and enriching experience. I'm excited to continue learning and evolving in this dynamic field, and I hope to share my insights and expertise with others in the future.
 
-**Remember, cybersecurity is not just about protecting technology; it's about safeguarding our digital world and ensuring a safe and secure online environment for everyone.**
+Remember, cybersecurity is not just about protecting technology; it's about safeguarding our digital world and ensuring a safe and secure online environment for everyone.

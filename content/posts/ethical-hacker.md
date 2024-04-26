@@ -62,7 +62,7 @@ Since childhood, I have always been fascinated by technology and the digital wor
 
 The Ethical Hacker course is just the beginning of my journey. I want to continue learning and developing my skills in cybersecurity. I want to use my knowledge and skills to help organizations and individuals improve their cybersecurity and contribute to creating a safer and more trusted digital world for everyone.
 
-**Here are some tables showing some of the skills I gained from the Ethical Hacker course:**
+Here are some tables showing some of the skills I gained from the Ethical Hacker course:
 
 | Skill | Description |
 | --- | --- |
@@ -73,4 +73,4 @@ The Ethical Hacker course is just the beginning of my journey. I want to continu
 
 I am very grateful for the opportunity to take the Ethical Hacker course from Cisco Networking Academy. This course has given me a lot of valuable knowledge and skills in cybersecurity. I hope this blog can help others to better understand ethical hacking and the importance of cybersecurity.
 
-**Thank you for reading!**
+Thank you for reading!
