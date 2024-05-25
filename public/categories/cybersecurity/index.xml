@@ -11,16 +11,30 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying the Secrets of Ancient Codes: A Beginner&#39;s Journey into Classical Cryptography with Cyber Academy Indonesia</title>
+      <link>http://localhost:1313/posts/classical-cryptography-for-beginner/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/classical-cryptography-for-beginner/</guid>
+      <description>In today&amp;rsquo;s digital age, where information is currency and security is paramount, cryptography has become an indispensable tool. But have you ever wondered how the ancient world kept their secrets safe long before computers and complex algorithms? Embark on a captivating journey into the realm of classical cryptography, where we&amp;rsquo;ll unravel the ingenious methods used to encode and decode messages, ensuring their confidentiality even in the face of prying eyes.</description>
+    </item>
+    <item>
+      <title>Navigating the Digital Landscape: My Journey into Introduction to Information Security with Cyber Academy Indonesia</title>
+      <link>http://localhost:1313/posts/introduction-to-information-security/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/introduction-to-information-security/</guid>
+      <description>Hello fellow tech enthusiasts and cybersecurity aficionados! I&amp;rsquo;m excited to share my recent foray into the fascinating world of cybersecurity through Cyber Academy Indonesia&amp;rsquo;s Introduction to Information Security online course. Buckle up as I take you on a journey through my learning experience and the key takeaways I gained from this informative course.
+Diving into the Fundamentals of Cybersecurity The course kicked off with a comprehensive introduction to cybersecurity, delving into the intricacies of this ever-evolving domain.</description>
+    </item>
     <item>
       <title>Unveiling the Digital Realm: My Journey Through Cisco&#39;s Endpoint Security Course</title>
       <link>http://localhost:1313/posts/endpoint-security/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/endpoint-security/</guid>
       <description>As the digital landscape continues to expand, so does the threat of cyberattacks. With an ever-increasing number of devices accessing sensitive data, it&amp;rsquo;s crucial to have robust security measures in place to protect our networks and endpoints. That&amp;rsquo;s why I recently embarked on a journey to enhance my cybersecurity expertise by taking Cisco Networking&amp;rsquo;s Endpoint Security course.
-Navigating the Cybersecurity Landscape
-The course provided me with a comprehensive understanding of the various security threats that organizations face today.</description>
+Navigating the Cybersecurity Landscape The course provided me with a comprehensive understanding of the various security threats that organizations face today.</description>
     </item>
     <item>
       <title>Securing Cyberspace: A Dive into Ethical Hacker Training with Cisco Networking Academy</title>
