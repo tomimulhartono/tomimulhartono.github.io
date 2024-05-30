@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Security Analysis on Tomi Mulhartono</title>
+    <link>http://localhost:1313/tags/security-analysis/</link>
+    <description>Recent content in Security Analysis on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Alerts to Malware: A CyberOps Associates v1.0 Skill Assessment</title>
+      <link>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</guid>
+      <description>Have you ever wondered what security analysts actually do? Buckle up, because we&amp;rsquo;re diving into a thrilling investigation of a malware attack! Today&amp;rsquo;s culprit? The notorious Pushdo trojan.
+This post will take you through a simulated security assessment, mimicking the thought process and steps involved in uncovering malicious activity. We&amp;rsquo;ll dissect alerts, explore the tools used for analysis, and ultimately expose the tricks employed by Pushdo.
+So, grab a cup of coffee (or your beverage of choice), and let&amp;rsquo;s embark on this malware takedown adventure!</description>
+    </item>
+  </channel>
+</rss>

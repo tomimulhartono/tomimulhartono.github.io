@@ -1,6 +1,6 @@
 baseURL = "https://tomimulhartono.github.io/"
 title = "Tomi Mulhartono"
-paginate = 12
+paginate = 13
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
@@ -155,3 +155,9 @@ target = 'static'
 [[module.mounts]]
 source = 'images'
 target = 'static/images'
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 10
+    ordered = false
+    startLevel = 2

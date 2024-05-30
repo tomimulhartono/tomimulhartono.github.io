@@ -11,14 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Alerts to Malware: A CyberOps Associates v1.0 Skill Assessment</title>
+      <link>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</guid>
+      <description>Have you ever wondered what security analysts actually do? Buckle up, because we&amp;rsquo;re diving into a thrilling investigation of a malware attack! Today&amp;rsquo;s culprit? The notorious Pushdo trojan.
+This post will take you through a simulated security assessment, mimicking the thought process and steps involved in uncovering malicious activity. We&amp;rsquo;ll dissect alerts, explore the tools used for analysis, and ultimately expose the tricks employed by Pushdo.
+So, grab a cup of coffee (or your beverage of choice), and let&amp;rsquo;s embark on this malware takedown adventure!</description>
+    </item>
     <item>
       <title>Cybersecurity Warrior: Embarking on a Journey with Cisco&#39;s Cyber Threat Management Course</title>
       <link>http://localhost:1313/posts/cyber-threat-management/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cyber-threat-management/</guid>
-      <description>In today&amp;rsquo;s ever-evolving digital landscape, cybersecurity has become paramount. As an individual with a keen interest in safeguarding the digital world, I recently embarked on a journey to enhance my cybersecurity expertise by enrolling in Cisco Networking Academy&amp;rsquo;s Cyber Threat Management course. This comprehensive program equipped me with the knowledge and skills necessary to effectively identify, analyze, and combat cyber threats, empowering me to become a true cyber defender.</description>
+      <description>In today&amp;rsquo;s interconnected world, cybersecurity has become paramount for individuals and organizations alike. With the ever-evolving threat landscape, it&amp;rsquo;s crucial to stay ahead of the curve and equip ourselves with the knowledge and skills to combat cyber threats effectively. Recently, I embarked on a journey to enhance my cybersecurity expertise by enrolling in Cisco Networking Academy&amp;rsquo;s Cyber Threat Management course. This comprehensive course provided me with a deep dive into the intricacies of cybersecurity, equipping me with the tools and strategies to navigate the complex world of cyber threats.</description>
     </item>
     <item>
       <title>Demystifying the Secrets of Ancient Codes: A Beginner&#39;s Journey into Classical Cryptography with Cyber Academy Indonesia</title>

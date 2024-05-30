@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Alerts to Malware: A CyberOps Associates v1.0 Skill Assessment Guide</title>
+      <link>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</guid>
+      <description>Have you ever wondered what security analysts actually do? Buckle up, because we&amp;rsquo;re diving into a thrilling investigation of a malware attack! Today&amp;rsquo;s culprit? The notorious Pushdo trojan.
+This post will take you through a simulated security assessment, mimicking the thought process and steps involved in uncovering malicious activity. We&amp;rsquo;ll dissect alerts, explore the tools used for analysis, and ultimately expose the tricks employed by Pushdo.
+So, grab a cup of coffee (or your beverage of choice), and let&amp;rsquo;s embark on this malware takedown adventure!</description>
+    </item>
     <item>
       <title>Cybersecurity Warrior: Embarking on a Journey with Cisco&#39;s Cyber Threat Management Course</title>
       <link>http://localhost:1313/posts/cyber-threat-management/</link>
