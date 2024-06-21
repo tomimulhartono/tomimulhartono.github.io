@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity Warrior: Embarking on a Journey with Cisco's Cyber Threat Management Course"
+title: "Unleashing Cyber Vigilance: Cisco's Cyber Threat Management Course Explored"
 date: 2024-05-27T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]

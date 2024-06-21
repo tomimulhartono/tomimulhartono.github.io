@@ -2,19 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-06-21T18:46:42+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-21T18:46:42+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/certificates/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/certificates/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cyberops-associate-professional-academy-digital-talent-scholarship-2024/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/cybersecurity/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cyberops-associate-v1-0-skills-assessment/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/security-analysis/</loc>
@@ -22,18 +37,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/security-analysis/</loc>
     <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/certificates/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/certificates/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/cyber-threat-management/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
