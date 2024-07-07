@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taming Networks with Wireshark: From Packet Zero to Network Hero with David Bombal and Chris Greer on Udemy</title>
+      <link>http://localhost:1313/posts/getting-started-with-wireshark-the-ultimate-hands-on-course-udemy/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/getting-started-with-wireshark-the-ultimate-hands-on-course-udemy/</guid>
+      <description>Greetings, fellow network enthusiasts and cybersecurity aficionados! I&amp;rsquo;m thrilled to share my recent triumph in the realm of network analysis, having successfully completed the Getting Started with Wireshark: The Ultimate Hands-On Course from Udemy. This comprehensive course, masterfully guided by instructors David Bombal and Chris Greer, equipped me with the essential skills to navigate the intricate world of network traffic and unravel its mysteries.
+Delving into the Depths of Network Traffic My journey commenced with a thorough understanding of the fundamentals of network traffic capture and interpretation using Wireshark, the industry-standard network protocol analyzer.</description>
+    </item>
     <item>
       <title>CyberOps Odyssey: My Path to Mastery in the Digital Talent Scholarship 2024</title>
       <link>http://localhost:1313/posts/cyberops-associate-professional-academy-digital-talent-scholarship-2024/</link>

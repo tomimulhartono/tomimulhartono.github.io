@@ -86,7 +86,7 @@ tocopen = true
 
   [params.homeInfoParams]
   Title = "Hi there👋"
-  Content = "Welcome to my cybersecurity and programming portfolio blog! 💻🛡️ Enter a realm where lines of code serve as sentinels, guarding the digital landscape. Join me on this journey where innovation meets vigilance, and together, we'll navigate the ever-evolving world of technology. Let's embark on this adventure!"
+  Content = "Welcome to my cybersecurity and programming portfolio blog! 💻🛡️ Explore how code safeguards our digital world. Join me in navigating technology’s ever-changing landscape!"
 
   [[params.socialIcons]]
   name = "LinkedIn"
