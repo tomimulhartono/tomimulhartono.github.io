@@ -217,7 +217,7 @@ call.
 
 a. Based on the alerts associated with HTTP GET request, what files were downloaded? List the malicious domains observed and the files downloaded.
 
->Right-click Alert ID: 5410, then select **Transcript**
+>Right-click **Alert ID: 5410**, then select **Transcript**
 
 ![Screenshoot](/images/cyberops-associate-v1-0-skills-assessment-9.jpg)
 
