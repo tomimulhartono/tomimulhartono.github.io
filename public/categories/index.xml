@@ -11,20 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/categories/cybersecurity/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google Cloud Platform</title>
+      <link>http://localhost:1313/categories/google-cloud-platform/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gophish</title>
+      <link>http://localhost:1313/categories/gophish/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/gophish/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Certificates</title>
       <link>http://localhost:1313/categories/certificates/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/certificates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersecurity</title>
-      <link>http://localhost:1313/categories/cybersecurity/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cybersecurity/</guid>
       <description></description>
     </item>
     <item>

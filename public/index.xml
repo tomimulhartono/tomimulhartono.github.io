@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/posts/installing-gophish-on-gcp/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/installing-gophish-on-gcp/</guid>
+      <description>What is Gophish? Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible. Think of it as your go-to tool for simulating real-world phishing attacks. The best part? It&amp;rsquo;s free and easy to use!
+Affordable: Gophish is open-source software, which means you don&amp;rsquo;t have to pay a cent to use it. Accessible: Written in the Go programming language, Gophish releases are compiled binaries with no dependencies.</description>
+    </item>
     <item>
       <title>Career Essentials in Cybersecurity: My Journey with Microsoft and LinkedIn</title>
       <link>http://localhost:1313/posts/career-essentials-in-cybersecurity-by-microsoft-and-linkedin/</link>
