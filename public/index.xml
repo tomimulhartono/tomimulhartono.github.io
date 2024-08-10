@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Packets, Protocols, and Hacking: My Wireshark Learning Journey with David Bombal on Udemy</title>
+      <link>http://localhost:1313/posts/wireshark-packet-analysis-and-ethical-hacking-core-skills/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/wireshark-packet-analysis-and-ethical-hacking-core-skills/</guid>
+      <description>If you&amp;rsquo;ve ever wondered how to capture and analyze network traffic or want to add a powerful tool to your ethical hacking arsenal, Wireshark is the way to go! I recently completed the Wireshark: Packet Analysis and Ethical Hacking: Core Skill course by David Bombal on Udemy, and let me tell you—it was a game changer. Here&amp;rsquo;s a breakdown of what I learned and why you should consider diving into this course too.</description>
+    </item>
     <item>
       <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>
       <link>http://localhost:1313/posts/installing-gophish-on-gcp/</link>

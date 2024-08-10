@@ -1,6 +1,6 @@
 baseURL = "https://tomimulhartono.github.io/"
 title = "Tomi Mulhartono"
-paginate = 18
+paginate = 19
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
