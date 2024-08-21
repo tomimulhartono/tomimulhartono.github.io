@@ -37,17 +37,13 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-## Overview
-
 ![Login Page PELANGI](/images/pelangi1.png)
 
-**PELANGI**, short for **Pelayanan Ngasem Terintegrasi**, is a digital platform designed to deliver a seamless experience for the people of Ngasem. Launched in 2023, this app is all about **making access easier and providing smart solutions** to meet the diverse needs and demands of the community.
+**PELANGI** (short for **Pelayanan Ngasem Terintegrasi**) is here to make life in Ngasem easier and more connected. Launched in 2023, this app is all about **streamlining access and offering smart solutions** for the community.
 
->"PELANGI is designed to **enhance the quality of life for Ngasem residents** and **strengthen the bond between the government and its citizens** through the power of digital technology."
+>"PELANGI is crafted to **improve the quality of life for Ngasem residents** and **boost the connection between the government and its people** using the latest in digital tech."
 
-## Dive into PELANGI's Key Features
-
-![Dashboard PELANGI](/images/pelangi2.png)
+## Check Out PELANGI's Cool Features
 
 | Feature | Description |
 | --- | --- |
@@ -56,22 +52,24 @@ cover:
 | Public Services | Access various government services online, including tax payments, permits, and complaints, **ditching the queues.** |
 | Community Hub | Interact with fellow Ngasem residents through discussion forums and chat groups, **fostering a sense of community.** |
 
-## PELANGI's Impact: A More Efficient and Connected Ngasem
+<!-- ![Dashboard PELANGI](/images/pelangi2.png) -->
 
-![Services Page PELANGI](/images/pelangi3.png)
+## How PELANGI is Making a Difference
 
-**PELANGI** has made a significant positive impact on the Ngasem community:
+<!-- ![Services Page PELANGI](/images/pelangi3.png) -->
 
-- **Enhanced service access:** Residents can access various services more conveniently and efficiently **without the hassle.**
-- **Increased community participation:** Users can engage with the government and other residents through the PELANGI platform, boosting a sense of involvement.
-- **Strengthened government-citizen bond:** The use of digital technology has helped build a more **transparent and accountable** relationship.
+**PELANGI** is making a real impact in Ngasem:
 
-## PELANGI: A Proud Creation by a Full Stack Developer
+- **Better Access:** Get services more conveniently and efficiently, **bypassing the usual hassles.**
+- **More Community Engagement:** Interact with both the government and your neighbors, **increasing involvement.**
+- **Stronger Government-Citizen Connection:** Digital tech has made our relationship with the government more **transparent and accountable.**
 
-As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the opportunity to build the PELANGI app independently. Utilizing **CodeIgniter 3** and a **MySQL** database, the app was developed between **April and October 2023.**
+## Proudly Developed by a Full Stack Developer
 
->"Building PELANGI was an incredible experience. I'm proud to have contributed to bringing a meaningful digital solution to the Ngasem community."
+As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the chance to bring the PELANGI app to life. I worked on it solo, using **CodeIgniter 3** and a **MySQL** database from **April to October 2023.**
 
-PELANGI is just the beginning of a journey towards a more advanced Ngasem. I invite everyone to collaborate in the development of this app, **working together to build a more integrated, efficient, and connected Ngasem through the power of digital technology!**
+>"Working on PELANGI was an amazing experience. I'm thrilled to have played a part in creating a valuable digital tool for the Ngasem community."
 
-**Want to know more about PELANGI?** Visit the official PELANGI at: https://pelangi.bojonegoro.com/
+PELANGI is just the start. Join us in making Ngasem even better—**let's work together to create a more integrated, efficient, and connected community through digital innovation!**
+
+Curious about PELANGI? Check it out at [here](https://pelangi.bojonegoro.com/)

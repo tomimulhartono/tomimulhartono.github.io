@@ -11,14 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Packets, Protocols, and Hacking: My Wireshark Learning Journey with David Bombal on Udemy</title>
-      <link>http://localhost:1313/posts/wireshark-packet-analysis-and-ethical-hacking-core-skills/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wireshark-packet-analysis-and-ethical-hacking-core-skills/</guid>
-      <description>If you&amp;rsquo;ve ever wondered how to capture and analyze network traffic or want to add a powerful tool to your ethical hacking arsenal, Wireshark is the way to go! I recently completed the Wireshark: Packet Analysis and Ethical Hacking: Core Skill course by David Bombal on Udemy, and let me tell you—it was a game changer. Here&amp;rsquo;s a breakdown of what I learned and why you should consider diving into this course too.</description>
+      <title>Charting My Cyber Security Path: A Collection of Courses and Certifications</title>
+      <link>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</link>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</guid>
+      <description>Hey there! Welcome to my cyber security collection. If you’re here, you probably share a love for all things tech and security like I do. Over time, I&amp;rsquo;ve dived into various courses and earned certifications that have shaped my journey in cyber security. Below is a showcase of what I&amp;rsquo;ve accomplished so far, along with the skills I&amp;rsquo;ve picked up along the way.
+Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
     </item>
     <item>
       <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>
@@ -27,39 +28,6 @@
       <guid>http://localhost:1313/posts/installing-gophish-on-gcp/</guid>
       <description>What is Gophish? Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible. Think of it as your go-to tool for simulating real-world phishing attacks. The best part? It&amp;rsquo;s free and easy to use!
 Affordable: Gophish is open-source software, which means you don&amp;rsquo;t have to pay a cent to use it. Accessible: Written in the Go programming language, Gophish releases are compiled binaries with no dependencies.</description>
-    </item>
-    <item>
-      <title>Career Essentials in Cybersecurity: My Journey with Microsoft and LinkedIn</title>
-      <link>http://localhost:1313/posts/career-essentials-in-cybersecurity-by-microsoft-and-linkedin/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/career-essentials-in-cybersecurity-by-microsoft-and-linkedin/</guid>
-      <description>Hey there, cyber enthusiasts! I’m stoked to share my recent adventure into the world of cybersecurity. I just wrapped up the Career Essentials in Cybersecurity by Microsoft and LinkedIn learning path, and let me tell you, it was a rollercoaster ride of knowledge and excitement.
-I’m breaking down my experience and the awesome courses I conquered in this post. Let’s dive in!
-The Cybersecurity Threat Landscape: More Than Just a Scary Headline Remember those heart-stopping news stories about massive data breaches and mind-boggling hacks?</description>
-    </item>
-    <item>
-      <title>Taming Networks with Wireshark: From Packet Zero to Network Hero with David Bombal and Chris Greer on Udemy</title>
-      <link>http://localhost:1313/posts/getting-started-with-wireshark-the-ultimate-hands-on-course-udemy/</link>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/getting-started-with-wireshark-the-ultimate-hands-on-course-udemy/</guid>
-      <description>Greetings, fellow network enthusiasts and cybersecurity aficionados! I&amp;rsquo;m thrilled to share my recent triumph in the realm of network analysis, having successfully completed the Getting Started with Wireshark: The Ultimate Hands-On Course from Udemy. This comprehensive course, masterfully guided by instructors David Bombal and Chris Greer, equipped me with the essential skills to navigate the intricate world of network traffic and unravel its mysteries.
-Delving into the Depths of Network Traffic My journey commenced with a thorough understanding of the fundamentals of network traffic capture and interpretation using Wireshark, the industry-standard network protocol analyzer.</description>
-    </item>
-    <item>
-      <title>CyberOps Odyssey: My Path to Mastery in the Digital Talent Scholarship 2024</title>
-      <link>http://localhost:1313/posts/cyberops-associate-professional-academy-digital-talent-scholarship-2024/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cyberops-associate-professional-academy-digital-talent-scholarship-2024/</guid>
-      <description>In the ever-evolving realm of cybersecurity, staying ahead of the curve is crucial. As cyber threats become more sophisticated, the need for skilled professionals to combat them grows ever stronger. This is where the Digital Talent Scholarship 2024 from the Pusbang Proserti (Center for Professional Development and Certification), an agency under the Ministry of Communication and Information (Kominfo) Indonesia, stepped in.
-I had the privilege of participating in their CyberOps Associate training program, a Cisco-partnered initiative designed to equip individuals with the essential skills and knowledge to defend against cyberattacks.</description>
-    </item>
-    <item>
-      <title>From Novice to Network Pro: Unleashing CCNA 200-301 with David Bombal on Udemy</title>
-      <link>http://localhost:1313/posts/cisco-ccna-packet-tracer-ultimate-labs-ccna-200-301-udemy/</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cisco-ccna-packet-tracer-ultimate-labs-ccna-200-301-udemy/</guid>
-      <description>In the ever-evolving realm of technology, networking has emerged as a cornerstone of modern infrastructure. With the increasing demand for skilled network professionals, the Cisco Certified Network Associate (CCNA) certification stands as a coveted credential that validates one&amp;rsquo;s expertise in designing, implementing, and managing network systems.
-My passion for networking led me to embark on a journey to attain the CCNA certification. To equip myself with the necessary skills and knowledge, I enrolled in the Cisco CCNA Packet Tracer Ultimate Labs: CCNA 200-301 labs course on Udemy, instructed by the esteemed David Bombal.</description>
     </item>
     <item>
       <title>From Alerts to Malware: A CyberOps Associates v1.0 Skill Assessment Guide</title>
@@ -71,90 +39,12 @@ This post will take you through a simulated security assessment, mimicking the t
 So, grab a cup of coffee (or your beverage of choice), and let&amp;rsquo;s embark on this malware takedown adventure!</description>
     </item>
     <item>
-      <title>Unleashing Cyber Vigilance: Cisco&#39;s Cyber Threat Management Course Explored</title>
-      <link>http://localhost:1313/posts/cyber-threat-management/</link>
-      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cyber-threat-management/</guid>
-      <description>In today&amp;rsquo;s interconnected world, cybersecurity has become paramount for individuals and organizations alike. With the ever-evolving threat landscape, it&amp;rsquo;s crucial to stay ahead of the curve and equip ourselves with the knowledge and skills to combat cyber threats effectively. Recently, I embarked on a journey to enhance my cybersecurity expertise by enrolling in Cisco Networking Academy&amp;rsquo;s Cyber Threat Management course. This comprehensive course provided me with a deep dive into the intricacies of cybersecurity, equipping me with the tools and strategies to navigate the complex world of cyber threats.</description>
-    </item>
-    <item>
-      <title>Demystifying the Secrets of Ancient Codes: A Beginner&#39;s Journey into Classical Cryptography with Cyber Academy Indonesia</title>
-      <link>http://localhost:1313/posts/classical-cryptography-for-beginner/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/classical-cryptography-for-beginner/</guid>
-      <description>In today&amp;rsquo;s digital age, where information is currency and security is paramount, cryptography has become an indispensable tool. But have you ever wondered how the ancient world kept their secrets safe long before computers and complex algorithms? Embark on a captivating journey into the realm of classical cryptography, where we&amp;rsquo;ll unravel the ingenious methods used to encode and decode messages, ensuring their confidentiality even in the face of prying eyes.</description>
-    </item>
-    <item>
-      <title>Navigating the Digital Landscape: My Journey into Introduction to Information Security with Cyber Academy Indonesia</title>
-      <link>http://localhost:1313/posts/introduction-to-information-security/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction-to-information-security/</guid>
-      <description>Hello fellow tech enthusiasts and cybersecurity aficionados! I&amp;rsquo;m excited to share my recent foray into the fascinating world of cybersecurity through Cyber Academy Indonesia&amp;rsquo;s Introduction to Information Security online course. Buckle up as I take you on a journey through my learning experience and the key takeaways I gained from this informative course.
-Diving into the Fundamentals of Cybersecurity The course kicked off with a comprehensive introduction to cybersecurity, delving into the intricacies of this ever-evolving domain.</description>
-    </item>
-    <item>
-      <title>Unveiling the Digital Realm: My Journey Through Cisco&#39;s Endpoint Security Course</title>
-      <link>http://localhost:1313/posts/endpoint-security/</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/endpoint-security/</guid>
-      <description>As the digital landscape continues to expand, so does the threat of cyberattacks. With an ever-increasing number of devices accessing sensitive data, it&amp;rsquo;s crucial to have robust security measures in place to protect our networks and endpoints. That&amp;rsquo;s why I recently embarked on a journey to enhance my cybersecurity expertise by taking Cisco Networking&amp;rsquo;s Endpoint Security course.
-Navigating the Cybersecurity Landscape The course provided me with a comprehensive understanding of the various security threats that organizations face today.</description>
-    </item>
-    <item>
-      <title>Securing Cyberspace: A Dive into Ethical Hacker Training with Cisco Networking Academy</title>
-      <link>http://localhost:1313/posts/ethical-hacker/</link>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ethical-hacker/</guid>
-      <description>Welcome to my blog! The digital world is rapidly evolving, opening up new opportunities while also presenting increasingly complex cybersecurity risks. On March 29, 2024, I completed the Ethical Hacker course from Cisco Networking Academy, a significant step in my journey to becoming a hero in this challenging digital landscape.
-What is Ethical Hacking? Ethical hacking is the practice of learning and applying hacking techniques used by malicious hackers, but with the noble purpose of finding and fixing system vulnerabilities.</description>
-    </item>
-    <item>
-      <title>How I Kickstarted My Career in Cybersecurity: A Sharing Session with Merdeka Siber Academy</title>
-      <link>http://localhost:1313/posts/how-to-kick-starting-career-into-cyber-security/</link>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-to-kick-starting-career-into-cyber-security/</guid>
-      <description>Hey everyone! I&amp;rsquo;m excited to share my experience attending the &amp;ldquo;How To Kick Starting Career Into Cyber Security&amp;rdquo; sharing session hosted by Merdeka Siber Academy on March 24, 2024. This insightful session provided me with valuable knowledge about the fundamentals of SOC Analyst roles and the exciting prospects of career shifting into cybersecurity.
-Topic Key Points SOC Analyst Role Monitoring, analyzing, and responding to security incidents to safeguard sensitive data and critical infrastructure.</description>
-    </item>
-    <item>
-      <title>Conquering Vulnhub&#39;s Basic Pentesting 1: A Step-by-Step Guide</title>
+      <title>Hack Like a Pro: A Beginner’s Guide to Vulnhub&#39;s Basic Pentesting 1</title>
       <link>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/vulnhub-basic-pentesting-1/</guid>
-      <description>Overview Have you ever wanted to test your penetration testing skills in a safe environment? Look no further than Vulnhub&amp;rsquo;s Basic Pentesting 1 machine! This virtual machine is designed specifically for beginners like me, offering a controlled space to learn the ropes of exploiting vulnerabilities and gaining access.
+      <description>Have you ever wanted to test your penetration testing skills in a safe environment? Look no further than Vulnhub&amp;rsquo;s Basic Pentesting 1 machine! This virtual machine is designed specifically for beginners like me, offering a controlled space to learn the ropes of exploiting vulnerabilities and gaining access.
 In this guide, I&amp;rsquo;ll walk you through the thrilling journey of taking down Basic Pentesting 1, step-by-step. So, grab your tools and get ready to unleash your inner hacker (for good, of course)!</description>
-    </item>
-    <item>
-      <title>Exploring the Digital Landscape: An Introduction to Cybersecurity with Cisco Networking Academy</title>
-      <link>http://localhost:1313/posts/introduction-to-cybersecurity/</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/introduction-to-cybersecurity/</guid>
-      <description>In today&amp;rsquo;s hyperconnected world, cybersecurity has become an indispensable skill, not just for tech professionals but for everyone navigating the digital landscape. With the ever-evolving nature of cyber threats, understanding the fundamentals of cybersecurity is crucial to safeguard our personal and professional lives.
-Embarking on the Cybersecurity Path My fascination with cybersecurity led me to enroll in Cisco Networking Academy&amp;rsquo;s Introduction to Cybersecurity course on February 28, 2024. This comprehensive course provided a solid foundation in the world of cybersecurity, equipping me with the knowledge and skills to navigate the digital frontier with confidence.</description>
-    </item>
-    <item>
-      <title>Mastering Security: Achieving Certified AppSec Practitioner (CAP) with The SecOps Group</title>
-      <link>http://localhost:1313/posts/certified-appsec-practitioner/</link>
-      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/certified-appsec-practitioner/</guid>
-      <description>February 13, 2024 marked a significant milestone in my professional journey as I successfully passed the Certified AppSec Practitioner (CAP) exam from The SecOps Group. This certification validates my expertise in application security, a field that has become increasingly critical in today&amp;rsquo;s digital landscape.
-What is CAP? The CAP certification is a highly sought-after credential in the cybersecurity industry. It recognizes individuals who possess the knowledge and skills necessary to secure applications throughout their development lifecycle.</description>
-    </item>
-    <item>
-      <title>Cyber Security Exploration: Unveiling the Path to Becoming a Pentester and Bug Hunter with SanberCode</title>
-      <link>http://localhost:1313/posts/pentester-and-bug-hunter/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pentester-and-bug-hunter/</guid>
-      <description>From Zero to Cyber Security Hero in One Month It&amp;rsquo;s been a whirlwind of a month, but I&amp;rsquo;m thrilled to share that I&amp;rsquo;ve just completed an intensive Cyber Security Bootcamp at SanberCode! This program was designed to transform individuals with no prior experience into skilled penetration testers and bug hunters. And let me tell you, it was an incredible journey.
-What I Learned The bootcamp covered a wide range of topics, including:</description>
-    </item>
-    <item>
-      <title>Strengthening Cyber Defenses: My Growth with ITBOX&#39;s Cybersecurity Courses</title>
-      <link>http://localhost:1313/posts/cyber-security-courses/</link>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cyber-security-courses/</guid>
-      <description>Introduction Have you ever wondered how those hackers manage to break into secure systems and steal valuable data? Or perhaps you&amp;rsquo;re fascinated by the intricate world of cybersecurity and want to learn how to protect yourself from online threats? Well, I&amp;rsquo;ve recently embarked on an exciting journey into the realm of cybersecurity, and I&amp;rsquo;m here to share my experience with you.
-Embarking on the Cybersecurity Path My cybersecurity adventure began on January 02, 2024, when I enrolled in the Cyber Security Course Level Basic from ITBOX.</description>
     </item>
     <item>
       <title>Cracking the Code: My Experience with Malware Analysis at Protergo</title>
@@ -162,48 +52,51 @@ Embarking on the Cybersecurity Path My cybersecurity adventure began on January 
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/malware-analysis-protergo/</guid>
       <description>During my technical interview at Protergo, I had the opportunity to showcase my skills in malware analysis. This blog post will take you through the exciting journey of dissecting a suspicious file using Cuckoo Sandbox, a powerful tool for both static and dynamic analysis.
-Step-by-Step Malware Analysis with Cuckoo Sandbox Unpacking the Suspect After downloading the sample file, I unzipped it to reveal its contents. This initial step allows us to see what&amp;rsquo;s lurking inside the archive.</description>
+Step-by-Step Malware Analysis with Cuckoo Sandbox Step 1: Unpacking the Suspect After downloading the sample file, I unzipped it to reveal its contents. This initial step allows us to see what&amp;rsquo;s lurking inside the archive.</description>
     </item>
     <item>
-      <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
+      <title>Streamlining JKN Data in Bojonegoro: How I Built the CEKATAN App with CodeIgniter and MySQL</title>
       <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
-      <description>Delving into the World of JKN Data Verification As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to a meaningful project: building the Cek dan Validasi Data JKN Kabupaten Bojonegoro (CEKATAN) web application. This project ran from November to December 2023, and I am proud to have designed and built this application independently using the CodeIgniter 3 framework and the MySQL database.
-What is CEKATAN?</description>
+      <description>As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting opportunity to dive into a game-changing project: CEKATAN. This web application, crafted entirely by yours truly using CodeIgniter 3 and MySQL, was developed from November to December 2023.
+So, what’s CEKATAN all about?
+CEKATAN is designed to verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.</description>
     </item>
     <item>
-      <title>Innovative Stakeholder Engagement: Simona Biduan&#39;s Complaint Management System</title>
+      <title>Next-Gen Stakeholder Solutions: How SIMONA BIDUAN Redefines Complaint Management</title>
       <link>http://localhost:1313/posts/simona-biduan/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/simona-biduan/</guid>
-      <description>Delving into the Challenges of Stakeholder Complaint Management As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to the development of an innovative web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN).
-SIMONA BIDUAN emerged as a comprehensive software solution to manage and track stakeholder complaints, particularly within the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).</description>
+      <description>At PT Motiolabs Digital Indonesia, I had the exciting opportunity to develop a cutting-edge web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN). This project was designed to tackle the challenges of managing stakeholder complaints for the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).
+What Was the Problem? Kemenkumham RI faced several issues in managing stakeholder complaints:
+No Central Hub: Complaints were managed through disjointed systems, making tracking and management challenging.</description>
     </item>
     <item>
       <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
       <link>http://localhost:1313/posts/ordera/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ordera/</guid>
-      <description>Ordera: Delivering Delicious Food to Your Doorstep! Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
+      <description>Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
 Ordera is here to meet your needs!
-Ordera: What Makes It Special? Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
+Why You’ll Love Ordera Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
     </item>
     <item>
       <title>Crafting the PELANGI App: Advancing Towards a Smarter Ngasem</title>
       <link>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</guid>
-      <description>Overview PELANGI, short for Pelayanan Ngasem Terintegrasi, is a digital platform designed to deliver a seamless experience for the people of Ngasem. Launched in 2023, this app is all about making access easier and providing smart solutions to meet the diverse needs and demands of the community.
-&amp;ldquo;PELANGI is designed to enhance the quality of life for Ngasem residents and strengthen the bond between the government and its citizens through the power of digital technology.</description>
+      <description>PELANGI (short for Pelayanan Ngasem Terintegrasi) is here to make life in Ngasem easier and more connected. Launched in 2023, this app is all about streamlining access and offering smart solutions for the community.
+&amp;ldquo;PELANGI is crafted to improve the quality of life for Ngasem residents and boost the connection between the government and its people using the latest in digital tech.&amp;rdquo;
+Check Out PELANGI&amp;rsquo;s Cool Features Feature Description Administrative Registration Easily register for essential documents like KTP, KK, and more right from the app.</description>
     </item>
     <item>
-      <title>Enhancing Academic Administration at Universitas Jenderal Achmad Yani: Leveraging SITERPADU Solutions</title>
+      <title>Revolutionizing Campus Life: How SITERPADU Transforms Academic Administration at Universitas Jenderal Achmad Yani</title>
       <link>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</guid>
-      <description>Overview Greetings, fellow tech enthusiasts! Today, I&amp;rsquo;m thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the SITERPADU application. This project, spanning from January 1, 2022, to December 31, 2022, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
-Delving into SITERPADU: A Comprehensive Academic Management System SITERPADU stands as a testament to the power of technology in streamlining academic administration.</description>
+      <description>Greetings, fellow tech enthusiasts! Today, I&amp;rsquo;m thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the SITERPADU application. This project, spanning from January 1, 2022, to December 31, 2022, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
+What’s SITERPADU All About? SITERPADU stands as a testament to the power of technology in streamlining academic administration.</description>
     </item>
     <item>
       <title>Database Administration Fundamentals: Key to Unlocking Opportunities in Data</title>

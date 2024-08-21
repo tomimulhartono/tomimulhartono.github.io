@@ -296,38 +296,4 @@ The destination IP was 208.67.222.222
 
 Summarizes your findings based on the information you have gathered from the previous parts, summarize your findings.
 
-A host with the IP address 192.168.1.96, which is a PC running Windows, became compromised after accessing a malicious domain through a DNS query. The access to the malicious domain resulted in the infection of the host with the Pushdo trojan. The Pushdo trojan is known for its ability to disguise itself as a legitimate Apache web server by listening on port 80, which makes it more challenging to detect and distinguish from genuine web traffic.
-
-Once the Pushdo trojan successfully infiltrated the system, it executed its payload and initiated a series of 
-actions to further compromise the host. The trojan is designed to download and install additional malware 
-onto the infected machine. During the forensic analysis of the compromised PC, three specific malware files 
-were identified: gerv.gun, trow.exe, and wp.exe. These files were discovered to have been downloaded and 
-installed by the Pushdo trojan as part of its post-infection activities.
-
-To verify the malicious nature of these files, their SHA-256 hashes were calculated and then checked against 
-the VirusTotal database. VirusTotal is a widely used service that aggregates the detection results of various 
-antivirus engines. The analysis on VirusTotal revealed that these files were indeed recognized as malware by
-a majority of antivirus sources. The confirmation from VirusTotal established that gerv.gun, trow.exe, and 
-wp.exe were not only suspicious but also verified threats.
-
-The infection chain highlights the effectiveness of the Pushdo trojan in not only breaching the system 
-defenses but also in ensuring the persistence of the infection through the installation of additional malware. 
-This incident underscores the importance of robust cybersecurity measures, including regular monitoring of 
-DNS queries, implementation of advanced threat detection systems, and thorough forensic analysis in the 
-event of a security breach.
-
-The detailed findings of the investigation can be summarized as follows:
-
-**1. Initial Infection Vector:** The host with IP address 192.168.1.96 accessed a malicious domain via a DNS query.
-
-**2. Trojan Identified:** The host was infected with the Pushdo trojan, which masquerades as an Apache web server and listens on port 80.
-
-**3. Malware Download and Installation:** The Pushdo trojan facilitated the download and installation of three malware files: gerv.gun, trow.exe, and wp.exe.
-
-**4. Verification:** The SHA-256 hashes of the malware files were checked on VirusTotal.com, confirming their 
-malicious nature through multiple antivirus detections.
-
-**5. Security Implications:** This incident highlights the need for enhanced network security protocols, continuous monitoring for unusual DNS activity, and prompt action upon detection of anomalies to prevent similar infections in the future.
-
-This case serves as a stark reminder of the evolving sophistication of cyber threats and the critical need for 
-comprehensive and adaptive cybersecurity strategies
+>A PC with IP address 192.168.1.96, running Windows, was compromised after accessing a malicious domain via a DNS query. The Pushdo trojan infected the system, disguising itself as an Apache web server by listening on port 80, making detection difficult. Once inside, Pushdo downloaded and installed additional malware: gerv.gun, trow.exe, and wp.exe. These files were confirmed as malicious through VirusTotal analysis, which showed detection by multiple antivirus engines. This incident emphasizes the importance of strong cybersecurity measures, including monitoring DNS activity and promptly addressing security anomalies.

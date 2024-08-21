@@ -37,13 +37,13 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-## Ordera: Delivering Delicious Food to Your Doorstep!
+![Landing Page Ordera](/images/ordera.jpg)
 
 Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
 
 **Ordera** is here to meet your needs!
 
-## Ordera: What Makes It Special?
+## Why You’ll Love Ordera
 
 Ordera is a **rising** food and beverage delivery application in Indonesia. This app offers several advantages that make it a **must-try**:
 
@@ -53,11 +53,11 @@ Ordera is a **rising** food and beverage delivery application in Indonesia. This
 - **Real-time Order Tracking:** Track the status of your order directly within the app.
 - **Responsive Customer Service:** The Ordera customer service team is ready to assist you 24/7.
 
-## My Experience Building Ordera
+## My Role in Making Ordera Awesome
 
 As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the opportunity to **contribute** to the development of the Ordera application. Alongside an incredible team, we worked hard to deliver an application that is **user-friendly, efficient, and captivating.**
 
-## The Technology Behind Ordera
+## The Tech Behind Ordera
 
 - **Backend:** Laravel 8
 - **Frontend:** CodeIgniter 3
@@ -65,25 +65,15 @@ As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the o
 
 ![Login Page Ordera](/images/ordera2.png)
 
-**The Ordera development process began in January 2023 and was completed in October 2023.** It was an **extraordinary experience** to be involved in this project and see the application come to life.
+The Ordera development process began in January 2023 and was completed in October 2023. It was an extraordinary experience to be involved in this project and see the application come to life.
 
-## Ordera: A Practical Solution for Your Needs
+## Why Ordera Is Your New Best Friend
 
 Ordera is a practical solution for those who want to:
 
-- **Order food or drinks without leaving home**
-- **Discover new culinary options**
-- **Avoid long queues at restaurants**
-- **Easily monitor the status of their orders**
+- Order food or drinks without leaving home
+- Discover new culinary options
+- Avoid long queues at restaurants
+- Easily monitor the status of their orders
 
-![Landing Page Ordera](/images/ordera.jpg)
-
-**What are you waiting for? Visit the Ordera app now and experience the convenience of ordering food and drinks!**
-
-**Some interesting aspects of this project:**
-
-- **Solid team collaboration:** We worked together with an outstanding team of developers, designers, and product managers.
-- **Technological challenges:** Building a complex application with various features requires hard work and dedication.
-- **Satisfaction in seeing the results of our work:** Seeing the Ordera app being used by many people is a tremendous reward.
-
-Want to learn more about Ordera? Visit their website at https://ordera.id/
+What are you waiting for? Visit the Ordera app [now](https://ordera.id/) and experience the convenience of ordering food and drinks!

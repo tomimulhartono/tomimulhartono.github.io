@@ -14,45 +14,48 @@
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
+      <title>Streamlining JKN Data in Bojonegoro: How I Built the CEKATAN App with CodeIgniter and MySQL</title>
       <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
-      <description>Delving into the World of JKN Data Verification As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to a meaningful project: building the Cek dan Validasi Data JKN Kabupaten Bojonegoro (CEKATAN) web application. This project ran from November to December 2023, and I am proud to have designed and built this application independently using the CodeIgniter 3 framework and the MySQL database.
-What is CEKATAN?</description>
+      <description>As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting opportunity to dive into a game-changing project: CEKATAN. This web application, crafted entirely by yours truly using CodeIgniter 3 and MySQL, was developed from November to December 2023.
+So, what’s CEKATAN all about?
+CEKATAN is designed to verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.</description>
     </item>
     <item>
-      <title>Innovative Stakeholder Engagement: Simona Biduan&#39;s Complaint Management System</title>
+      <title>Next-Gen Stakeholder Solutions: How SIMONA BIDUAN Redefines Complaint Management</title>
       <link>http://localhost:1313/posts/simona-biduan/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/simona-biduan/</guid>
-      <description>Delving into the Challenges of Stakeholder Complaint Management As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to the development of an innovative web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN).
-SIMONA BIDUAN emerged as a comprehensive software solution to manage and track stakeholder complaints, particularly within the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).</description>
+      <description>At PT Motiolabs Digital Indonesia, I had the exciting opportunity to develop a cutting-edge web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN). This project was designed to tackle the challenges of managing stakeholder complaints for the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).
+What Was the Problem? Kemenkumham RI faced several issues in managing stakeholder complaints:
+No Central Hub: Complaints were managed through disjointed systems, making tracking and management challenging.</description>
     </item>
     <item>
       <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
       <link>http://localhost:1313/posts/ordera/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ordera/</guid>
-      <description>Ordera: Delivering Delicious Food to Your Doorstep! Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
+      <description>Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
 Ordera is here to meet your needs!
-Ordera: What Makes It Special? Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
+Why You’ll Love Ordera Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
     </item>
     <item>
       <title>Crafting the PELANGI App: Advancing Towards a Smarter Ngasem</title>
       <link>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</guid>
-      <description>Overview PELANGI, short for Pelayanan Ngasem Terintegrasi, is a digital platform designed to deliver a seamless experience for the people of Ngasem. Launched in 2023, this app is all about making access easier and providing smart solutions to meet the diverse needs and demands of the community.
-&amp;ldquo;PELANGI is designed to enhance the quality of life for Ngasem residents and strengthen the bond between the government and its citizens through the power of digital technology.</description>
+      <description>PELANGI (short for Pelayanan Ngasem Terintegrasi) is here to make life in Ngasem easier and more connected. Launched in 2023, this app is all about streamlining access and offering smart solutions for the community.
+&amp;ldquo;PELANGI is crafted to improve the quality of life for Ngasem residents and boost the connection between the government and its people using the latest in digital tech.&amp;rdquo;
+Check Out PELANGI&amp;rsquo;s Cool Features Feature Description Administrative Registration Easily register for essential documents like KTP, KK, and more right from the app.</description>
     </item>
     <item>
       <title>Enhancing Academic Administration at Universitas Jenderal Achmad Yani: Leveraging SITERPADU Solutions</title>
       <link>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/sistem-terintegrasi-pengelolaan-sumber-daya-unjani/</guid>
-      <description>Overview Greetings, fellow tech enthusiasts! Today, I&amp;rsquo;m thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the SITERPADU application. This project, spanning from January 1, 2022, to December 31, 2022, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
-Delving into SITERPADU: A Comprehensive Academic Management System SITERPADU stands as a testament to the power of technology in streamlining academic administration.</description>
+      <description>Greetings, fellow tech enthusiasts! Today, I&amp;rsquo;m thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the SITERPADU application. This project, spanning from January 1, 2022, to December 31, 2022, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
+What’s SITERPADU All About? SITERPADU stands as a testament to the power of technology in streamlining academic administration.</description>
     </item>
     <item>
       <title>Designing a COVID-19 WebGIS Application: Unforgettable Internship Experience</title>

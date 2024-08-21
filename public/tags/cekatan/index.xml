@@ -14,12 +14,13 @@
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cekatan/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Verifying JKN Data in Bojonegoro with CodeIgniter and MySQL: Developing the CEKATAN Application</title>
+      <title>Streamlining JKN Data in Bojonegoro: How I Built the CEKATAN App with CodeIgniter and MySQL</title>
       <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
-      <description>Delving into the World of JKN Data Verification As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the opportunity to contribute to a meaningful project: building the Cek dan Validasi Data JKN Kabupaten Bojonegoro (CEKATAN) web application. This project ran from November to December 2023, and I am proud to have designed and built this application independently using the CodeIgniter 3 framework and the MySQL database.
-What is CEKATAN?</description>
+      <description>As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting opportunity to dive into a game-changing project: CEKATAN. This web application, crafted entirely by yours truly using CodeIgniter 3 and MySQL, was developed from November to December 2023.
+So, what’s CEKATAN all about?
+CEKATAN is designed to verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.</description>
     </item>
   </channel>
 </rss>
