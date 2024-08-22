@@ -37,17 +37,15 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-**June - July 2020**
+![COVID-19 WebGIS](/images/webgis.jpg)
 
 Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
 
-## What is COVID-19 WebGIS?
+## What’s COVID-19 WebGIS?
 
 Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that's the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
 
-![COVID-19 WebGIS](/images/webgis.jpg)
-
-## Behind the Scenes: Technology and Challenges
+## Tech and Challenges
 
 This application leverages advanced technology, including:
 
@@ -57,7 +55,7 @@ This application leverages advanced technology, including:
 
 The biggest challenge? Starting the development of an application we've never understood before. We had to learn the existing code and understand the project workflow. But, with collaboration and determination, we managed to get through it!
 
-## Key Beneficial Features
+## Features That Matter
 
 | Feature | Description |
 | --- | --- |
@@ -72,7 +70,7 @@ COVID-19 WebGIS is not just an ordinary internship project. This application has
 - **Assisting many people:** Understanding the COVID-19 pandemic situation in Indonesia.
 - **Providing crucial information:** To make informed decisions in maintaining health and safety.
 
-## Valuable Experience and Important Lessons
+## What I Learned
 
 This internship provided me with valuable experiences:
 
@@ -80,10 +78,10 @@ This internship provided me with valuable experiences:
 - **Working in a team:** Completing a project with tight deadlines.
 - **Contributing to something bigger:** Helping the community in difficult times.
 
-## Conclusion
+## Final Thoughts
 
 COVID-19 WebGIS is an example of how technology can assist us in difficult situations. Though brief, this project's experience is unforgettable. I learned a lot and am proud to have contributed to helping the community during the pandemic.
 
 Have you ever been involved in a similar project?
 
-To learn more about COVID-19 WebGIS, please visit my repository at https://gitlab.com/tomimulhartono/covid19-webgis.
+To learn more about COVID-19 WebGIS, please visit my repository at [here](https://gitlab.com/tomimulhartono/covid19-webgis8)

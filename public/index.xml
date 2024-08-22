@@ -103,17 +103,18 @@ What’s SITERPADU All About? SITERPADU stands as a testament to the power of te
       <link>http://localhost:1313/posts/database-administration-fundamentals/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/database-administration-fundamentals/</guid>
-      <description>December 11, 2020, is a day I&amp;rsquo;ll always remember. On that date, I successfully passed the Microsoft Technology Associate (MTA) certification exam for Database Administration Fundamentals. This exam marked an important initial step in my journey toward becoming a proficient database administrator.
-What is Database Administration Fundamentals? Database Administration Fundamentals is an MTA certification designed to validate basic knowledge and skills in database administration. This certification covers various topics, including:</description>
+      <description>On December 11, 2020, I took a significant step in my tech journey by passing the Microsoft Technology Associate (MTA) certification exam for Database Administration Fundamentals. This achievement marked the start of my quest to become a skilled database administrator.
+What is Database Administration Fundamentals? Database Administration Fundamentals is an MTA certification designed to validate basic knowledge and skills in database administration. This certification covers various topics, including:
+Topic Description Basic database concepts Understanding database structure and terminology Database creation and management Creating, managing, and maintaining databases Database security Implementing security measures to protect databases Troubleshooting and problem-solving Identifying and resolving database issues Why Did I Pursue This Certification?</description>
     </item>
     <item>
       <title>Designing a COVID-19 WebGIS Application: Unforgettable Internship Experience</title>
       <link>http://localhost:1313/posts/covid19-webgis/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/covid19-webgis/</guid>
-      <description>June - July 2020
-Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
-What is COVID-19 WebGIS? Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that&amp;rsquo;s the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.</description>
+      <description>Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
+What’s COVID-19 WebGIS? Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that&amp;rsquo;s the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
+Tech and Challenges This application leverages advanced technology, including:</description>
     </item>
   </channel>
 </rss>

@@ -106,7 +106,7 @@ Getting into pentesting and bug hunting was one of the coolest experiences. This
 - ***Issue Date:*** February 13, 2024 
 - ***Credential ID:*** 8399810
 - ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXcVMjkwkmEwuXVKOjTHZ50xa5CkojfuJz0ki5sCSVhk7Tf/hwpIbPahRfHWZdTyKHDxSLPoqfoilKzYwVjmGfPQ=)
-- ***Skills Learned:*** -
+- ***Skills Learned:*** Application Security Best Practices · Secure Coding · Vulnerability Assessment · Threat Modeling · Security Testing
 
 Becoming a Certified AppSec Practitioner was like leveling up in the world of application security. This certification took me through the ins and outs of securing applications, helping me understand how to spot potential vulnerabilities before they become a problem. It was a big step forward in my journey, making sure that I not only know how to build secure applications but also how to protect them from threats. It's been a key part of my professional toolkit ever since.
 
@@ -223,7 +223,7 @@ A deep dive into the nitty-gritty of cybersecurity operations, this course cover
 - ***Issue Date:*** June 07, 2024
 - ***Credential ID:*** UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea)
-- ***Skills Learned:*** -
+- ***Skills Learned:*** Network Configuration · IP Addressing · Routing Protocols · VLAN Configuration · Network Troubleshooting
 
 This course was a series of hands-on labs designed to help me get a solid grasp of networking concepts. Working with Cisco’s Packet Tracer felt like practicing on a flight simulator before taking to the skies. It was a great way to apply everything I’d learned in theory to real-world scenarios. By the end, I felt much more comfortable with the ins and outs of networking, which is crucial for anyone in the cybersecurity field.
 
@@ -249,7 +249,7 @@ This academy took everything I’d learned previously and added even more depth 
 - ***Issue Date:*** July 07, 2024
 - ***Credential ID:*** UC-8cc0fbe9-cd38-4b01-a3d2-13bca01c2b34
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-8cc0fbe9-cd38-4b01-a3d2-13bca01c2b34)
-- ***Skills Learned:*** -
+- ***Skills Learned:*** Network Traffic Analysis · Protocol Analysis · Packet Filtering · Troubleshooting Network Issues · Packet Decoding
 
 Wireshark is one of those tools that every cybersecurity professional needs to know, and this course was all about getting hands-on with it. I learned to analyze network traffic and detect potential issues, which is crucial for identifying security threats. It’s like learning to read a new language—the language of network packets. The more I practiced, the more fluent I became, and now it’s a tool I rely on regularly in my work.
 
@@ -327,7 +327,7 @@ This course focused on the essentials needed for a career in cybersecurity. It c
 - ***Issue Date:*** August 10, 2024
 - ***Credential ID:*** UC-bb954e39-3370-4b07-9255-c30169f40f1b
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-bb954e39-3370-4b07-9255-c30169f40f1b9)
-- ***Skills Learned:*** -
+- ***Skills Learned:*** Advanced Packet Analysis · Protocol Analysis · Network Traffic Analysis · Ethical Hacking Techniques · Security Incident Analysis
 
 Taking my Wireshark skills to the next level, this course taught me to perform in-depth packet analysis and apply ethical hacking techniques. It was like getting a magnifying glass to see the finer details of network traffic. Understanding how to analyze packets and use that information for ethical hacking is crucial for defending against network attacks. This course gave me the core skills I need to do just that.
 
@@ -340,7 +340,7 @@ Taking my Wireshark skills to the next level, this course taught me to perform i
 - ***Issue Date:*** August 19, 2024
 - ***Credential ID:*** 6e02cf66
 - ***Credential URL:*** [[Click here]](https://app.kajabi.com/certificates/6e02cf66)
-- ***Skills Learned:*** -
+- ***Skills Learned:*** Security Awareness Training · Risk Management · Threat Recognition · Incident Response · Security Best Practices
 
 This certification deepened my understanding of cybersecurity awareness, covering essential topics for recognizing and managing security risks effectively. It’s like having a security checklist in your back pocket, ready to pull out whenever you need it. Staying aware of potential risks is half the battle in cybersecurity, and this course helped sharpen those skills.
 

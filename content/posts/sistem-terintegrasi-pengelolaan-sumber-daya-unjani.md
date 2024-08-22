@@ -37,6 +37,8 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+![SITERPADU](/images/siterpadu.png)
+
 Greetings, fellow tech enthusiasts! Today, I'm thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the **SITERPADU** application. This project, spanning from **January 1, 2022, to December 31, 2022**, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
 
 ## What’s SITERPADU All About?
@@ -72,8 +74,6 @@ To better illustrate the Graduation Module's capabilities, let's delve into a ta
 | Certificate Issuance | Upon successful completion of all requirements, students receive their graduation certificates. |
 
 ## Wrap-Up
-
-![SITERPADU](/images/siterpadu.png)
 
 My involvement in the SITERPADU project has been a rewarding journey, allowing me to hone my full-stack development skills and gain insights into the intricacies of project management and collaboration. I am grateful for the opportunity to have contributed to a project that positively impacts the academic experience of countless students.
 
