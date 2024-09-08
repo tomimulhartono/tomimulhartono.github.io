@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stay Ahead of Issues: How to Connect Grafana Alerts with Slack and Jira Using n8n</title>
+      <link>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</guid>
+      <description>So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
+Setting Up Grafana Alerts First up, let’s get your Grafana alerts configured so you’re always in the know. Here’s the lowdown on how to get your alerts up and running:</description>
+    </item>
     <item>
       <title>Charting My Cyber Security Path: A Collection of Courses and Certifications</title>
       <link>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</link>

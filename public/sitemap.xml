@@ -3,7 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/cybersecurity/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/grafana/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/grafana/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jira/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/jira/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n8n/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/n8n/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slack/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/slack/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soar/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/soar/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/certificates/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
@@ -12,21 +60,6 @@
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/cybersecurity/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/google-cloud-platform/</loc>

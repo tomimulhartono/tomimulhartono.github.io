@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SOAR on Tomi Mulhartono</title>
+    <link>http://localhost:1313/categories/soar/</link>
+    <description>Recent content in SOAR on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/soar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stay Ahead of Issues: How to Connect Grafana Alerts with Slack and Jira Using n8n</title>
+      <link>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</guid>
+      <description>So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
+Setting Up Grafana Alerts First up, let’s get your Grafana alerts configured so you’re always in the know. Here’s the lowdown on how to get your alerts up and running:</description>
+    </item>
+  </channel>
+</rss>
