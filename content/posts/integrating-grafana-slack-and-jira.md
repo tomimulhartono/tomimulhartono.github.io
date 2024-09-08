@@ -37,8 +37,6 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-![Screenshoot](/images/n8n-49.jpg)
-
 So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
 
 ## Setting Up Grafana Alerts
