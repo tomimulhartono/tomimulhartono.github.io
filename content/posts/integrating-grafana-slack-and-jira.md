@@ -37,6 +37,8 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+![Screenshoot](/images/n8n-49.jpg)
+
 So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
 
 ## Setting Up Grafana Alerts
@@ -144,11 +146,13 @@ Determine how often the alert rule should be evaluated and how quickly it should
 1. Choose a folder or click **+ New folder.**
 
 ![Screenshoot](/images/n8n-10.jpg)
+
 ![Screenshoot](/images/n8n-11.jpg)
 
 2. Select an evaluation group or click **+ New evaluation group.**
 
 ![Screenshoot](/images/n8n-12.jpg)
+
 ![Screenshoot](/images/n8n-13.jpg)
 
 If you’re creating a new evaluation group, set the interval for the group.
