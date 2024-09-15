@@ -1,6 +1,6 @@
 ---
 title: "Charting My Cyber Security Path: A Collection of Courses and Certifications"
-date: 2024-08-19T00:00:00+00:00
+date: 2024-09-06T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["cybersecurity", "certificates"]
@@ -345,6 +345,19 @@ Taking my Wireshark skills to the next level, this course taught me to perform i
 This certification deepened my understanding of cybersecurity awareness, covering essential topics for recognizing and managing security risks effectively. It’s like having a security checklist in your back pocket, ready to pull out whenever you need it. Staying aware of potential risks is half the battle in cybersecurity, and this course helped sharpen those skills.
 
 ![Certificate](/images/cybersecurity-awareness-professional-certification.jpg)
+
+---
+
+### 24. Certified Network Security Practitioner (CNSP)
+- ***Organization:*** The SecOps Group
+- ***Issue Date:*** September 06, 2024
+- ***Credential ID:*** 9094235
+- ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXdNhYCsdjBPabpAF+lLf+yjZ74NiqNfH+dOy+tWAqXyUrnw9M6PJZhqzP5nEFDYtX2rlQtiMTZrnUbY5x1CUMBE=)
+- ***Skills Learned:*** Network Security · Security Policies · Threat Hunting · Vulnerability Assessment · Penetration Testing · Risk Mitigation
+
+This certification really dove deep into network security practices, covering everything from vulnerability assessments to penetration testing. It’s like learning how to build and defend a fortress. With a strong focus on both offensive and defensive tactics, I now feel more confident in identifying and responding to security threats. It gave me a solid foundation to keep networks safe and secure.
+
+![Certificate](/images/cnsp.jpg)
 
 ---
 
