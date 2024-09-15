@@ -21,37 +21,51 @@
       <description></description>
     </item>
     <item>
+      <title>OpenResty</title>
+      <link>http://localhost:1313/tags/openresty/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/openresty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Application Firewall</title>
+      <link>http://localhost:1313/tags/web-application-firewall/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web-application-firewall/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Grafana</title>
       <link>http://localhost:1313/tags/grafana/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/grafana/</guid>
       <description></description>
     </item>
     <item>
       <title>Jira</title>
       <link>http://localhost:1313/tags/jira/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/jira/</guid>
       <description></description>
     </item>
     <item>
       <title>N8n</title>
       <link>http://localhost:1313/tags/n8n/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/n8n/</guid>
       <description></description>
     </item>
     <item>
       <title>Slack</title>
       <link>http://localhost:1313/tags/slack/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/slack/</guid>
       <description></description>
     </item>
     <item>
       <title>SOAR</title>
       <link>http://localhost:1313/tags/soar/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/soar/</guid>
       <description></description>
     </item>

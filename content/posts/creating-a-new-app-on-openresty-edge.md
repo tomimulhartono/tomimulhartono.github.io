@@ -45,19 +45,19 @@ Welcome aboard! If you’re gearing up to launch a new application on OpenResty 
 
 Let's get that new app live and kicking in no time. Here's how to create your first application on OpenResty Edge.
 
-1. Login to Your OpenResty Edge Dashboard
+1. **Login** to your OpenResty Edge dashboard
 
 Head over to the OpenResty Edge dashboard, and log in using your credentials.
 
 ![Screenshoot](/images/openresty-1.jpg)
 
-2. Navigate to the Applications Section 
+2. Navigate to the **Applications** section 
 
 Once you're logged in, take a look at the top menu bar and click on **Applications**. This is where the magic begins! Once you're in the applications section, click on the **Create New App** button to start the process of building your app.
 
 ![Screenshoot](/images/openresty-2.jpg)
 
-3. Fill in the Details
+3. Fill Out the application details
 
 You'll need to provide some information to configure your app. Here’s a quick breakdown of each field you’ll encounter:
 

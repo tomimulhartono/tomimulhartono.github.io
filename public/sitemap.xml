@@ -14,37 +14,13 @@
     <loc>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/grafana/</loc>
+    <loc>http://localhost:1313/tags/openresty/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/grafana/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/jira/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/jira/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/n8n/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/n8n/</loc>
+    <loc>http://localhost:1313/categories/openresty/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/slack/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/slack/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/soar/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/soar/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -52,6 +28,42 @@
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-application-firewall/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/web-application-firewall/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/grafana/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/grafana/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jira/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/jira/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/n8n/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/n8n/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/slack/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/slack/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soar/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/soar/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>

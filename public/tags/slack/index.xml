@@ -11,17 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/slack/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Getting Started with Your New Application on OpenResty Edge: An Easy-to-Follow Tutorial</title>
-      <link>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</guid>
-      <description>Welcome aboard! If you’re gearing up to launch a new application on OpenResty Edge, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
-Creating Your New Application Alright, let’s get that shiny new application up and running.
-Login to your OpenResty Edge Dashboard On the top bar, look for the Applications menu.</description>
-    </item>
     <item>
       <title>Stay Ahead of Issues: How to Connect Grafana Alerts with Slack and Jira Using n8n</title>
       <link>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</link>

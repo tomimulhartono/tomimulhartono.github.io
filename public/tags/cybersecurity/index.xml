@@ -19,8 +19,7 @@
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</guid>
       <description>Welcome aboard! If you’re gearing up to launch a new application on OpenResty Edge, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
-Creating Your New Application Alright, let’s get that shiny new application up and running.
-Login to your OpenResty Edge Dashboard On the top bar, look for the Applications menu.</description>
+Creating Your New Application Let&amp;rsquo;s get that new app live and kicking in no time. Here&amp;rsquo;s how to create your first application on OpenResty Edge.</description>
     </item>
     <item>
       <title>Stay Ahead of Issues: How to Connect Grafana Alerts with Slack and Jira Using n8n</title>
