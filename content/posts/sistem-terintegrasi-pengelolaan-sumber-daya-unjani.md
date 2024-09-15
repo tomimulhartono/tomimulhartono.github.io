@@ -41,6 +41,8 @@ cover:
 
 Greetings, fellow tech enthusiasts! Today, I'm thrilled to share my journey as a Full Stack Developer at Bandung Techno Park, where I had the privilege of contributing to the development of the **SITERPADU** application. This project, spanning from **January 1, 2022, to December 31, 2022**, provided me with invaluable hands-on experience and a deeper understanding of the intricacies of full-stack development.
 
+---
+
 ## What’s SITERPADU All About?
 
 SITERPADU stands as a testament to the power of technology in streamlining academic administration. Built using **PHP 5.6** and **Oracle database**, this integrated online system caters to the needs of Universitas Jenderal Achmad Yani. Its comprehensive suite of modules encompasses:
@@ -48,6 +50,8 @@ SITERPADU stands as a testament to the power of technology in streamlining acade
 - New Student Admission (PMB)
 - Lecture Scheduling
 - Data Management for Both Lecturers and Students
+
+---
 
 ## My Role: The Graduation Module
 
@@ -57,11 +61,15 @@ While the overall development of SITERPADU was a collaborative effort, I took on
 - **Financial Procedures:** Ensuring all tuition fees and financial obligations are settled before students graduate.
 - **Certificate Issuance:** Students receive their certificates once they’ve met all the requirements.
 
+---
+
 ## Facing the Challenge
 
 Stepping into an ongoing project presented its own set of challenges. Familiarizing myself with the existing codebase and aligning my development style with the team's approach required meticulous effort. However, this challenge proved to be a valuable learning experience, honing my adaptability and problem-solving skills.
 
 >**Key Takeaway:** "Embrace challenges as opportunities for growth. They are the stepping stones to mastery."
+
+---
 
 ## Sneak Peeks
 
@@ -72,6 +80,8 @@ To better illustrate the Graduation Module's capabilities, let's delve into a ta
 | Registration | Students register for graduation by submitting the required documents and completing necessary procedures. |
 | Financial Procedures | Students clear all outstanding tuition fees and other financial obligations before graduation. |
 | Certificate Issuance | Upon successful completion of all requirements, students receive their graduation certificates. |
+
+---
 
 ## Wrap-Up
 

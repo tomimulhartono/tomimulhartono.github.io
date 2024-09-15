@@ -45,6 +45,8 @@ As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting 
 
 CEKATAN is designed to **verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency**. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.
 
+---
+
 ## Key Features of CEKATAN
 CEKATAN isn’t your run-of-the-mill data verification tool. Here’s what sets it apart:
 
@@ -68,12 +70,16 @@ CEKATAN isn’t your run-of-the-mill data verification tool. Here’s what sets 
 - Helps manage the JKN program’s finances efficiently.
 - Boosts overall system efficiency and effectiveness.
 
+---
+
 ## How CEKATAN Makes a Difference
 CEKATAN has truly made an impact in Bojonegoro Regency’s JKN program:
 
 - **Data Accuracy:** Ensures reliable data for better decision-making and planning.
 - **Simplified Management:** A centralized system for hassle-free data management.
 - **Boosted Efficiency:** Automates processes to save time and resources.
+
+---
 
 ## The Tech Behind the Magic
 CEKATAN was built with:
@@ -82,6 +88,7 @@ CEKATAN was built with:
 - **Database:** MySQL
 - **Extras:** AJAX, HTML5, CSS3
 
+---
 
 ## Wrap-Up
 Developing CEKATAN was an incredible experience. Using CodeIgniter and MySQL, I created a robust and valuable tool for JKN management in Bojonegoro Regency. CEKATAN stands as a testament to how technology can drive efficiency and effectiveness.

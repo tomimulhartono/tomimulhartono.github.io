@@ -41,12 +41,16 @@ cover:
 
 At **PT Motiolabs Digital Indonesia**, I had the exciting opportunity to develop a cutting-edge web application: **Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN)**. This project was designed to tackle the challenges of managing stakeholder complaints for the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).
 
+---
+
 ## What Was the Problem?
 Kemenkumham RI faced several issues in managing stakeholder complaints:
 
 - **No Central Hub:** Complaints were managed through disjointed systems, making tracking and management challenging.
 - **Manual Processes:** The existing system was slow and inefficient, relying on time-consuming manual work.
 - **Visibility Gaps:** Limited insight into the status and resolution of complaints.
+
+---
 
 ## How I Solved It
 I independently developed SIMONA BIDUAN from September 2023 to November 2023. Here’s how I tackled the project:
@@ -61,6 +65,8 @@ I independently developed SIMONA BIDUAN from September 2023 to November 2023. He
 - **Status Tracking:** Real-time updates on the progress and resolution of complaints.
 - **Reports & Analytics:** Data-driven insights to support better decision-making and service improvements.
 
+---
+
 ## Why It Matters
 SIMONA BIDUAN has made a significant impact by:
 
@@ -70,6 +76,8 @@ SIMONA BIDUAN has made a significant impact by:
 - **Supporting Better Decisions:** Insights and data to drive smarter decisions and enhance services.
 
 >"SIMONA BIDUAN has become an invaluable tool for Kemenkumham RI in enhancing service quality and stakeholder satisfaction." - Our Lead
+
+---
 
 ## Project Snapshot
 
@@ -82,7 +90,7 @@ SIMONA BIDUAN has made a significant impact by:
 | Technology | CodeIgniter 3 (framework), MySQL (database) |
 | Project Duration | September 2023 - November 2023 |
 
-
+---
 
 ## Wrap-Up
 Working on SIMONA BIDUAN solo was an enriching experience that allowed me to apply a diverse set of skills. I’m proud of the results and confident that SIMONA BIDUAN will continue to benefit Kemenkumham RI and its stakeholders.

@@ -41,9 +41,13 @@ cover:
 
 Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
 
+---
+
 ## What’s COVID-19 WebGIS?
 
 Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that's the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
+
+---
 
 ## Tech and Challenges
 
@@ -55,6 +59,8 @@ This application leverages advanced technology, including:
 
 The biggest challenge? Starting the development of an application we've never understood before. We had to learn the existing code and understand the project workflow. But, with collaboration and determination, we managed to get through it!
 
+---
+
 ## Features That Matter
 
 | Feature | Description |
@@ -63,12 +69,16 @@ The biggest challenge? Starting the development of an application we've never un
 | Data Analysis | Detailed information about the COVID-19 situation in Indonesia. |
 | Data Visualization | Graphs and tables that are easy to understand to help users comprehend the virus spread. |
 
+---
+
 ## More Than Just a Project
 
 COVID-19 WebGIS is not just an ordinary internship project. This application has a real impact:
 
 - **Assisting many people:** Understanding the COVID-19 pandemic situation in Indonesia.
 - **Providing crucial information:** To make informed decisions in maintaining health and safety.
+
+---
 
 ## What I Learned
 
@@ -77,6 +87,8 @@ This internship provided me with valuable experiences:
 - **Learning and developing skills:** In web development and GIS.
 - **Working in a team:** Completing a project with tight deadlines.
 - **Contributing to something bigger:** Helping the community in difficult times.
+
+---
 
 ## Final Thoughts
 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Application Firewall on Tomi Mulhartono</title>
+    <link>http://localhost:1313/categories/web-application-firewall/</link>
+    <description>Recent content in Web Application Firewall on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/web-application-firewall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Your New Application on OpenResty Edge: An Easy-to-Follow Tutorial</title>
+      <link>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</guid>
+      <description>Welcome aboard! If you’re gearing up to launch a new application on OpenResty Edge, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
+Creating Your New Application Alright, let’s get that shiny new application up and running.
+Login to your OpenResty Edge Dashboard On the top bar, look for the Applications menu.</description>
+    </item>
+  </channel>
+</rss>

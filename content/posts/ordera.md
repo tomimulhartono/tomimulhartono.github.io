@@ -43,6 +43,8 @@ Have you ever craved a warm plate of fried rice on a cold night but felt too laz
 
 **Ordera** is here to meet your needs!
 
+---
+
 ## Why You’ll Love Ordera
 
 Ordera is a **rising** food and beverage delivery application in Indonesia. This app offers several advantages that make it a **must-try**:
@@ -53,9 +55,13 @@ Ordera is a **rising** food and beverage delivery application in Indonesia. This
 - **Real-time Order Tracking:** Track the status of your order directly within the app.
 - **Responsive Customer Service:** The Ordera customer service team is ready to assist you 24/7.
 
+---
+
 ## My Role in Making Ordera Awesome
 
 As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the opportunity to **contribute** to the development of the Ordera application. Alongside an incredible team, we worked hard to deliver an application that is **user-friendly, efficient, and captivating.**
+
+---
 
 ## The Tech Behind Ordera
 
@@ -66,6 +72,8 @@ As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the o
 ![Login Page Ordera](/images/ordera2.png)
 
 The Ordera development process began in January 2023 and was completed in October 2023. It was an extraordinary experience to be involved in this project and see the application come to life.
+
+---
 
 ## Why Ordera Is Your New Best Friend
 

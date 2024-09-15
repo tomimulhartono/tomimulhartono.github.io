@@ -43,6 +43,8 @@ cover:
 
 >"PELANGI is crafted to **improve the quality of life for Ngasem residents** and **boost the connection between the government and its people** using the latest in digital tech."
 
+---
+
 ## Check Out PELANGI's Cool Features
 
 | Feature | Description |
@@ -54,6 +56,8 @@ cover:
 
 <!-- ![Dashboard PELANGI](/images/pelangi2.png) -->
 
+---
+
 ## How PELANGI is Making a Difference
 
 <!-- ![Services Page PELANGI](/images/pelangi3.png) -->
@@ -63,6 +67,8 @@ cover:
 - **Better Access:** Get services more conveniently and efficiently, **bypassing the usual hassles.**
 - **More Community Engagement:** Interact with both the government and your neighbors, **increasing involvement.**
 - **Stronger Government-Citizen Connection:** Digital tech has made our relationship with the government more **transparent and accountable.**
+
+---
 
 ## Proudly Developed by a Full Stack Developer
 

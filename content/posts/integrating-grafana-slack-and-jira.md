@@ -39,6 +39,8 @@ cover:
 
 So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
 
+---
+
 ## Setting Up Grafana Alerts
 
 First up, let’s get your Grafana alerts configured so you’re always in the know. Here’s the lowdown on how to get your alerts up and running:
@@ -79,6 +81,8 @@ Want to add a little extra detail? Annotations let you include context in your n
 
 Ready to get started? With these steps, you’ll be on top of your data in no time!
 
+---
+
 ### Configure Grafana-managed alert rules
 
 Grafana-managed alerts are super flexible and let you pull data from any of our supported data sources. You can even combine data from different sources in one alert rule and use expressions to tweak your data and set up your alert conditions. Plus, you can include images in your notifications. Here’s how you can create and manage these alerts:
@@ -93,9 +97,9 @@ Grafana-managed alerts are super flexible and let you pull data from any of our 
 
 2. Enter a name for your alert rule.
 
-![Screenshoot](/images/n8n-3.jpg)
-
 This name helps you identify it in your list and shows up as the `alertname` label for all alerts created from this rule.
+
+![Screenshoot](/images/n8n-3.jpg)
 
 #### Step 2: Define Query and Condition
 
@@ -107,17 +111,17 @@ Set up a query to fetch the data you want and define a condition that must be me
 
 2. Choose a time range from the **Options** dropdown.
 
-![Screenshoot](/images/n8n-5.jpg)
-
 >**Note:** Grafana Alerting supports fixed relative time ranges like `now-24hr: now`, but not absolute time ranges (e.g., `2021-12-02 00:00:00 to 2021-12-05 23:59:59`) or semi-relative time ranges (e.g., `now/d to: now`).
 
-3. Add a query.
+![Screenshoot](/images/n8n-5.jpg)
 
-![Screenshoot](/images/n8n-6.jpg)
+3. Add a query.
 
 To add more queries, click **Add query.**
 
 All alert rules are managed by Grafana by default. If you prefer data source-managed alert rules, click **Switch to data source-managed alert rule.**
+
+![Screenshoot](/images/n8n-6.jpg)
 
 4. Add one or more expressions.
 
@@ -129,9 +133,9 @@ b. Click **Preview** to check if the expression is working.
 
 5. To add a recovery threshold, turn on the **Custom recovery threshold** toggle and enter a value for when your alert rule should stop firing.
 
-![Screenshoot](/images/n8n-8.jpg)
-
 You can only add one recovery threshold in a query, and it must be the alert condition.
+
+![Screenshoot](/images/n8n-8.jpg)
 
 6. Click **Set as alert condition** on the query or expression you want to use as your alert condition.
 
@@ -149,27 +153,27 @@ Determine how often the alert rule should be evaluated and how quickly it should
 
 2. Select an evaluation group or click **+ New evaluation group.**
 
-![Screenshoot](/images/n8n-12.jpg)
-
-![Screenshoot](/images/n8n-13.jpg)
-
 If you’re creating a new evaluation group, set the interval for the group.
 
 All rules within the same group are evaluated together over the same time interval.
 
-3. Set a pending period.
+![Screenshoot](/images/n8n-12.jpg)
 
-![Screenshoot](/images/n8n-14.jpg)
+![Screenshoot](/images/n8n-13.jpg)
+
+3. Set a pending period.
 
 The pending period is how long an alert rule can be in breach of the condition before it triggers.
 
 Once the condition is met, the alert goes into the **Pending** state. If it stays active for the entire pending period, it changes to the **Firing** state; otherwise, it goes back to the **Normal** state.
 
+![Screenshoot](/images/n8n-14.jpg)
+
 4. Turn on pause alert notifications if needed.
 
-![Screenshoot](/images/n8n-15.jpg)
-
 >**Note:** You can pause alert rule evaluation to avoid noisy alerts while you’re tuning them. Pausing stops evaluation and doesn’t create alert instances. This is different from mute timings, which stop notifications but still allow evaluation and creation of alert instances.
+
+![Screenshoot](/images/n8n-15.jpg)
 
 5. In **Configure no data and error handling**, set how you want the alert to behave when there’s no data.
 
@@ -181,9 +185,9 @@ Add labels to organize your alert rules and set up notification policies for you
 
 1. Add labels if needed.
 
-![Screenshoot](/images/n8n-17.jpg)
-
 You can select existing key-value pairs from a dropdown or enter new ones.
+
+![Screenshoot](/images/n8n-17.jpg)
 
 2. Choose how notifications are sent when an alert fires by either selecting a **contact point** or using a **notification policy.**
 
@@ -231,6 +235,8 @@ A webpage link to your runbook for the alert.
 Link alerts to specific panels in a dashboard.
 >**Note:** Currently, alerts are supported only in time series and alert list visualizations.
 6. Click **Save rule.**
+
+---
 
 ### Configure Contact Points
 
@@ -286,6 +292,8 @@ Here’s how to test a contact point:
 ![Screenshoot](/images/n8n-29.jpg)
 6. Click **Send Test Notification** to trigger the alert.
 
+---
+
 ### Configure Notification Policies
 
 Notification policies help you decide how alerts are sent to your contact points. They work in a tree-like structure where each policy can have one or more nested policies. Except for the default policy, each one can match specific alert labels.
@@ -317,6 +325,8 @@ You can create a nested policy under the default one or under any existing neste
 7. [Optional] To override the timing options set in the group notification policy, enable **Override general timings.**
 
 8. Click **Save policy** to apply your changes.
+
+---
 
 ## Build Your n8n
 
@@ -418,6 +428,8 @@ Run the workflow to see if everything’s working between Webhook (Grafana), Sla
 ![Screenshoot](/images/n8n-50.jpg)
 
 ![Screenshoot](/images/n8n-51.jpg)
+
+---
 
 ## Wrap-Up
 

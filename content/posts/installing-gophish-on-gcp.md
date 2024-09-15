@@ -44,6 +44,8 @@ Gophish is a powerful open-source phishing framework designed to make the proces
 >- **Affordable:** Gophish is open-source software, which means you don't have to pay a cent to use it.
 >- **Accessible:** Written in the Go programming language, Gophish releases are compiled binaries with no dependencies. This means installation is as easy as "download and run."
 
+---
+
 ## Deploying Gophish on GCP
 
 Alright, let's dive into how you can get Gophish up and running on Google Cloud Platform (GCP).
@@ -123,6 +125,8 @@ Next, we need to create firewall rules to allow traffic to our Gophish instance 
 
 ![Gophish](/images/gophish-5.jpg)
 
+---
+
 ## Starting the Gophish Service
 Now that everything is set up, we can start the Gophish service. Run the following command in your SSH session:
 
@@ -157,6 +161,8 @@ Once you're logged in, you'll be greeted by the Gophish dashboard. Here's a quic
 Here's a sneak peek at the Gophish admin console:
 
 ![Gophish](/images/gophish-8.jpg)
+
+---
 
 ## Conclusion
 And that's it! You've successfully set up Gophish on Google Cloud Platform. With Gophish, you can easily create and manage phishing campaigns to train your team and improve your organization's security awareness.

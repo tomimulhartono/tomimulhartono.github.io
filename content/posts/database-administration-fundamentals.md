@@ -41,6 +41,8 @@ cover:
 
 On December 11, 2020, I took a significant step in my tech journey **by passing the Microsoft Technology Associate (MTA) certification exam** for Database Administration Fundamentals. This achievement marked the start of my quest to become a skilled database administrator.
 
+---
+
 ## What is Database Administration Fundamentals?
 
 Database Administration Fundamentals is an MTA certification designed to **validate basic knowledge and skills** in database administration. This certification covers various topics, including:
@@ -52,9 +54,13 @@ Database Administration Fundamentals is an MTA certification designed to **valid
 | Database security | Implementing security measures to protect databases |
 | Troubleshooting and problem-solving | Identifying and resolving database issues |
 
+---
+
 ## Why Did I Pursue This Certification?
 
 I’ve always been fascinated by data and how databases operate. I’m convinced that database administration skills will be in high demand moving forward. Earning this MTA certification was the perfect way to kickstart my career in this field.
+
+---
 
 ## How Did I Prepare?
 
@@ -63,6 +69,8 @@ To ace the exam, I tapped into a variety of resources:
 - Textbooks
 - Online Courses
 - Practice Exams
+
+---
 
 ## Tips for Passing the Exam
 
@@ -73,6 +81,8 @@ Here are some tips for passing the MTA Database Administration Fundamentals exam
 - Join online communities
 - Stay focused and don't give up easily
 
+---
+
 ## What’s in It for Me?
 
 The MTA Database Administration Fundamentals certification has provided me with several benefits, including:
@@ -81,6 +91,8 @@ The MTA Database Administration Fundamentals certification has provided me with 
 - Strengthening my resume
 - Increasing job opportunities
 - Opening doors to a career in the world of data
+
+---
 
 ## Wrapping It Up
 
