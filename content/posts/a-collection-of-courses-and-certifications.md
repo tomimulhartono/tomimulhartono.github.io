@@ -1,6 +1,6 @@
 ---
 title: "Charting My Cyber Security Path: A Collection of Courses and Certifications"
-date: 2024-09-06T00:00:00+00:00
+date: 2024-09-15T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["cybersecurity", "certificates"]
@@ -350,7 +350,7 @@ This certification deepened my understanding of cybersecurity awareness, coverin
 
 ### 24. Certified Network Security Practitioner (CNSP)
 - ***Organization:*** The SecOps Group
-- ***Issue Date:*** September 06, 2024
+- ***Issue Date:*** September 15, 2024
 - ***Credential ID:*** 9094235
 - ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXdNhYCsdjBPabpAF+lLf+yjZ74NiqNfH+dOy+tWAqXyUrnw9M6PJZhqzP5nEFDYtX2rlQtiMTZrnUbY5x1CUMBE=)
 - ***Skills Learned:*** Network Security · Security Policies · Threat Hunting · Vulnerability Assessment · Penetration Testing · Risk Mitigation
