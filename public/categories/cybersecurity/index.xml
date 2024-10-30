@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Charting My Cyber Security Path: A Collection of Courses and Certifications</title>
+      <link>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</guid>
+      <description>Hey there! Welcome to my cyber security collection. If you’re here, you probably share a love for all things tech and security like I do. Over time, I&amp;rsquo;ve dived into various courses and earned certifications that have shaped my journey in cyber security. Below is a showcase of what I&amp;rsquo;ve accomplished so far, along with the skills I&amp;rsquo;ve picked up along the way.
+Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
+    </item>
     <item>
       <title>Getting Started with Your New Application on OpenResty Edge: An Easy-to-Follow Tutorial</title>
       <link>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</link>
@@ -28,14 +36,6 @@ Creating Your New Application Let&amp;rsquo;s get that new app live and kicking 
       <guid>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</guid>
       <description>So, you’re ready to up your game and make sure you never miss a critical update? Great choice! Setting up Grafana alerts and integrating them with Slack and Jira through n8n is a powerful way to keep your team on the ball. Let’s dive in and get those workflows automated!
 Setting Up Grafana Alerts First up, let’s get your Grafana alerts configured so you’re always in the know. Here’s the lowdown on how to get your alerts up and running:</description>
-    </item>
-    <item>
-      <title>Charting My Cyber Security Path: A Collection of Courses and Certifications</title>
-      <link>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</guid>
-      <description>Hey there! Welcome to my cyber security collection. If you’re here, you probably share a love for all things tech and security like I do. Over time, I&amp;rsquo;ve dived into various courses and earned certifications that have shaped my journey in cyber security. Below is a showcase of what I&amp;rsquo;ve accomplished so far, along with the skills I&amp;rsquo;ve picked up along the way.
-Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
     </item>
     <item>
       <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>

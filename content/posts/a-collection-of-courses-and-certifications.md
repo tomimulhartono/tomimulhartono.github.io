@@ -121,7 +121,7 @@ Becoming a Certified AppSec Practitioner was like leveling up in the world of ap
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/4aaf70d3-6427-4e7e-b396-7a4969d80938/public_url)
 - ***Skills Learned:*** Cyber Best Practices · Cybersecurity · Network Vulnerabilities · Privacy and Data Confidentiality · Threat Detection
 
-This course was the perfect starting point—a great overview of the basics of cybersecurity. It covered everything from best practices in security to how to detect threats and understand network vulnerabilities. It’s kind of like the cybersecurity 101 class everyone should take before diving into more specialized areas. It gave me a good overview and set the stage for the deeper dives I would take in future courses.
+Jumping into cybersecurity with Cisco felt like discovering a hidden layer of the digital world. I learned how to spot vulnerabilities, protect data privacy, and detect common threats, giving me a solid foundation in best practices. It was eye-opening to see just how vulnerable networks can be and how important it is to stay vigilant every step of the way.
 
 ![Certificate](/images/cisco.jpg)
 
@@ -160,7 +160,7 @@ Diving into the world of ethical hacking was both exciting and eye-opening. I le
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/3d183a5c-0b23-46ba-9e98-1fec2c098bc5)
 - ***Skills Learned:*** Antimalware Protection · Application Security · Common Cyber Threats · Defending Systems and Devices · Host-based Intrusion Prevention · IP/TCP/UDP Vulnerabilities · Linux Basics · Mitigating Common Network Attacks · Network Security Infrastructure · Securing WLANS · System and Endpoint Protection · Windows Security · Wireless and Mobile Device Attacks
 
-This course zoomed in on securing endpoints, which are often the first line of defense in any security strategy. From antimalware protection to defending against common network attacks, I learned how to secure individual devices and systems effectively. It was like getting the keys to a safe house—now I know how to lock down endpoints to keep the bad guys out. This knowledge is crucial for a comprehensive security approach, especially in today’s world where endpoints are everywhere.
+Getting into endpoint security felt like armoring up the last line of defense. I explored how to protect devices from malware, secure applications, and prevent wireless and mobile device attacks. Whether it’s Windows, Linux, or WLANs, I now know what it takes to guard endpoints against threats, making systems and devices much harder targets.
 
 ![Certificate](/images/endpoint-security.jpg)
 
@@ -186,7 +186,7 @@ Learning about the CIA Triangle—Confidentiality, Integrity, and Availability�
 - ***Credential URL:*** [[Click here]](https://www.cyberacademy.id/certificate/CCFB01105241464)
 - ***Skills Learned:*** Shift Cipher · Substitution Cipher · Vigenere Cipher · Affine Cipher · Hill Cipher · Transposition Cipher
 
-This course was a fun throwback to the origins of cryptography. We explored old-school methods like the Vigenère and Hill ciphers, which was both fascinating and surprisingly relevant. It gave me a real appreciation for how far cryptography has come while showing how these classic techniques still play a role today. It’s like learning the history of magic tricks before mastering the new ones—knowing the roots makes everything else make more sense.
+Diving into the world of classical cryptography felt like unlocking ancient secrets. Learning ciphers like Vigenere and Affine gave me a hands-on understanding of encryption’s roots. Now, I can appreciate how these old-school techniques laid the groundwork for today’s complex cryptography and see how they still inspire modern encryption methods.
 
 ![Certificate](/images/classical-cryptography-for-beginner.jpg)
 
@@ -199,7 +199,7 @@ This course was a fun throwback to the origins of cryptography. We explored old-
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/57e02bc3-f637-46de-a205-e5459ed5296e/public_url)
 - ***Skills Learned:*** Common Vulnerability Scoring System (CVSS) · Disaster Recovery · Evidence Handling and Attack Attribution · Governance · Incident Response · Network and Server Profiling · Penetration Testing · Risk Assessment · Risk Management · Secure Device Management · Security Assessments · Security Controls · The Cyber Kill Chain
 
-This course was all about learning how to handle and respond to cyber threats like a pro. We covered everything from risk assessment to incident response, which really gave me a solid grip on managing threats and vulnerabilities in the real world. It’s like being trained as a firefighter—now I know how to identify, manage, and extinguish potential fires before they turn into full-blown disasters. It was practical, hands-on, and incredibly valuable for anyone serious about cybersecurity.
+Cyber threat management showed me what it takes to be prepared for the unexpected. I got into the nitty-gritty of incident response, risk assessments, and even the Cyber Kill Chain. It’s all about staying a step ahead and being ready to respond when threats strike. This course gave me the tools to manage threats like a pro, from detection all the way to recovery.
 
 ![Certificate](/images/cyber-threat-management.jpg)
 
@@ -225,7 +225,7 @@ A deep dive into the nitty-gritty of cybersecurity operations, this course cover
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea)
 - ***Skills Learned:*** Network Configuration · IP Addressing · Routing Protocols · VLAN Configuration · Network Troubleshooting
 
-This course was a series of hands-on labs designed to help me get a solid grasp of networking concepts. Working with Cisco’s Packet Tracer felt like practicing on a flight simulator before taking to the skies. It was a great way to apply everything I’d learned in theory to real-world scenarios. By the end, I felt much more comfortable with the ins and outs of networking, which is crucial for anyone in the cybersecurity field.
+Working with Cisco’s Packet Tracer was like setting up my own virtual network lab. I learned the ropes of configuring IPs, routing protocols, and VLANs, all while troubleshooting along the way. This hands-on experience made network setup feel less daunting and gave me the confidence to tackle real-world network challenges.
 
 ![Certificate](/images/ccna-udemy.jpg)
 
@@ -264,7 +264,7 @@ Wireshark is one of those tools that every cybersecurity professional needs to k
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/f7a6c0989cded94b0a4627df2f85b62864fb9fc97f66eb1b6708ff20d3f547a4)
 - ***Skills Learned:*** Cybersecurity · Threat & Vulnerability Management
 
-This course provided a broad overview of the current cybersecurity threat landscape, which is constantly evolving. It was insightful to learn about the latest threats and vulnerabilities, giving me a better understanding of what’s out there. It’s kind of like getting a weather forecast for a stormy day—now I know what to watch out for and how to prepare. Staying updated on the latest threats is key to staying ahead in this field.
+The threat landscape course opened my eyes to the wide array of risks out there. From spotting vulnerabilities to understanding the methods attackers use, it’s made me see cybersecurity from a strategic angle. Now, I can better anticipate where threats might come from and understand how to stay a step ahead.
 
 ![Certificate](/images/linkedin-1.jpg)
 
@@ -290,7 +290,7 @@ Understanding the terminology in cybersecurity is like learning the lingo of a n
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/e24a7755c1c165184712aaeb995724ef13d163515a0dbc89c1327045db7a1b9d)
 - ***Skills Learned:*** Cybersecurity
 
-This course solidified my basic knowledge of cybersecurity, covering fundamental concepts and principles. It’s like building the foundation of a house—without it, everything else would be shaky. It provided a strong base that I’ve built on with more advanced studies. Understanding these core principles has been key to everything else I’ve learned in cybersecurity, making this course an essential part of my journey.
+Getting into the foundations of cybersecurity felt like setting up the pillars of a secure system. I got a grasp on key concepts and best practices that every cybersecurity professional needs to know. It’s a solid base that I’ll keep building on as I go deeper into the field.
 
 ![Certificate](/images/linkedin-3.jpg)
 
@@ -316,7 +316,7 @@ Learning about Microsoft Copilot in the context of security was fascinating. Thi
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/6d039adf0f61a80a3bb32a85c8cb2e1503c883413ee6382aafb7c616f2ff11339)
 - ***Skills Learned:*** Cybersecurity · Information Security Awareness · Threat & Vulnerability Management
 
-This course focused on the essentials needed for a career in cybersecurity. It covered everything from foundational skills to understanding the current security landscape, helping me prepare for a successful career in the field. It’s like getting a toolkit for building your career—a mix of practical advice and industry insights that have been invaluable as I’ve navigated my path in cybersecurity.
+Learning cybersecurity essentials from Microsoft and LinkedIn made me feel like I had a guide for the whole field. I dove into the basics of info security, threat management, and vulnerability handling, giving me a rounded view of the profession. Now I feel more prepared for what lies ahead in my cyber career.
 
 ![Certificate](/images/linkedin-5.jpg)
 
@@ -355,9 +355,165 @@ This certification deepened my understanding of cybersecurity awareness, coverin
 - ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXdNhYCsdjBPabpAF+lLf+yjZ74NiqNfH+dOy+tWAqXyUrnw9M6PJZhqzP5nEFDYtX2rlQtiMTZrnUbY5x1CUMBE=)
 - ***Skills Learned:*** Network Security · Security Policies · Threat Hunting · Vulnerability Assessment · Penetration Testing · Risk Mitigation
 
-This certification really dove deep into network security practices, covering everything from vulnerability assessments to penetration testing. It’s like learning how to build and defend a fortress. With a strong focus on both offensive and defensive tactics, I now feel more confident in identifying and responding to security threats. It gave me a solid foundation to keep networks safe and secure.
+Becoming a Certified Network Security Practitioner was a deep dive into protecting networks from all angles. I learned to hunt for threats, assess vulnerabilities, and implement robust security policies. It’s all about making networks resilient, and now I feel well-equipped to safeguard any network environment with confidence.
 
 ![Certificate](/images/cnsp.jpg)
+
+---
+
+### 25. Account Security on Alibaba Cloud
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** September 20, 2024
+- ***Credential ID:*** ACFW283240900149075
+- ***Credential URL:*** -
+- ***Skills Learned:*** Identity and Access Management (IAM) · Multi-Factor Authentication (MFA) · Access Control Policies · Account Auditing and Monitoring · Key Management Services (KMS)
+
+This was a deep dive into the art of locking down accounts in the cloud. I got a front-row seat to learn about managing identities and permissions, putting multiple layers of authentication in place, and setting up access control policies. It was like learning how to be the ultimate gatekeeper for sensitive data in the cloud. By the end, I could spot the weak points in account security and patch them up quickly, knowing my accounts were secure from any lurking threats.
+
+![Certificate](/images/aca-1.png)
+
+---
+
+### 26. Best Practices for Security on the Cloud
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** September 25, 2024
+- ***Credential ID:*** ACFW254240900154236
+- ***Credential URL:*** -
+- ***Skills Learned:*** Cloud Security Architecture · Data Encryption · Threat Detection · Security Monitoring · Incident Response
+
+Taking on best practices for cloud security was like getting a handbook for building a digital fortress. This course covered everything from encryption to real-time threat detection, showing me how to set up a secure cloud environment from the ground up. It was packed with practical knowledge on monitoring for suspicious activity and preparing for any incidents that might pop up. Now, I’ve got a solid framework for securing cloud operations, ready to tackle even the trickiest of threats.
+
+![Certificate](/images/aca-2.png)
+
+---
+
+### 27. Network Security on Alibaba Cloud
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 01, 2024
+- ***Credential ID:*** ACFW253241000158863
+- ***Credential URL:*** -
+- ***Skills Learned:*** Virtual Private Cloud (VPC) Security · Firewall Configuration · Intrusion Detection · DDoS Protection · VPN Setup and Security
+
+This one was all about securing networks in the cloud, and it felt like stepping up as the virtual guardian of network traffic. I learned how to configure firewalls, set up secure Virtual Private Clouds, and block out malicious attempts like DDoS attacks. Plus, setting up VPNs added an extra layer of security for remote access. By the end, I had all the tools to keep network infrastructure locked down, ensuring data flows safely through the cloud.
+
+![Certificate](/images/aca-3.png)
+
+---
+
+### 28. Basics of Cloud Security
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 05, 2024
+- ***Credential ID:*** ACFW303241000160404
+- ***Credential URL:*** -
+- ***Skills Learned:*** Cloud Fundamentals · Data Protection · User Access Management · Threat Identification · Basic Compliance
+
+Diving into cloud security fundamentals was like getting the lay of the land in the cloud world. I picked up the essentials, from protecting data to managing who gets access to what. It also taught me to recognize common threats and stay compliant with security standards, which is key when you’re working with sensitive data. Now, I feel equipped with the basics to keep any cloud environment safe from day one.
+
+![Certificate](/images/aca-4.png)
+
+---
+
+### 29. Cloud Security at the Workspace
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 08, 2024
+- ***Credential ID:*** ACFW304241000161444
+- ***Credential URL:*** -
+- ***Skills Learned:*** Workspace Security Policies · User Authentication · Data Loss Prevention (DLP) · Remote Access Control · Device Security
+
+Getting into workspace security showed me how to protect data and resources in a shared environment, which is a must with today’s remote setups. I learned how to lock down devices, set up smart authentication, and prevent data from slipping through the cracks. It was all about securing the workspace itself, ensuring safe access and solid data protection, no matter where users are logging in from.
+
+![Certificate](/images/aca-5.png)
+
+---
+
+### 30. CI/CD Essentials
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 11, 2024
+- ***Credential ID:*** ACFW305241000163398
+- ***Credential URL:*** -
+- ***Skills Learned:*** Continuous Integration/Continuous Deployment (CI/CD) · Automation Pipelines · Secure Code Management · Version Control · Vulnerability Scanning in CI/CD
+
+Exploring CI/CD in cloud security was like getting the secret to streamlined, secure deployments. I dove into automating pipelines, managing code versions, and setting up continuous security scans to catch issues before they become problems. It’s a game-changer for keeping deployments fast and safe, making sure each step in the CI/CD process is locked down and efficient. Now, deploying securely feels as natural as writing the code itself.
+
+![Certificate](/images/aca-6.png)
+
+---
+
+### 31. Alibaba Cloud Certified Associate Business User Hands-On
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 11, 2024
+- ***Credential ID:*** 1ACA-H-0120241000014036
+- ***Credential URL:*** -
+- ***Skills Learned:*** Cloud Product Familiarity · Basic Cloud Operations · Cloud Services Navigation · Billing and Cost Management · Account Management
+
+Getting hands-on with Alibaba Cloud’s business tools was like learning the ropes from the inside out. I explored different cloud services, figured out efficient ways to manage accounts, and even learned tricks for keeping cloud expenses in check. It’s like having the keys to the back office of the cloud world, allowing me to use its services confidently and keep things running smoothly.
+
+![Certificate](/images/aca-7.png)
+
+---
+
+### 32. Cybersecurity Starts with Me
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 15, 2024
+- ***Credential ID:*** ACFW306241000165066
+- ***Credential URL:*** -
+- ***Skills Learned:*** Personal Security Best Practices · Data Privacy Awareness · Phishing and Social Engineering Defense · Security Culture Building · Incident Response Basics
+
+Jumping into this course felt empowering—it was all about building strong cybersecurity habits from the ground up. I learned how to stay alert to phishing attempts, manage passwords securely, and protect my devices from common threats. It’s given me the tools to make smart, security-first choices every day, making it clear that cybersecurity really does start with the individual.
+
+![Certificate](/images/aca-8.png)
+
+---
+
+### 33. Application Security on Cloud
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 17, 2024
+- ***Credential ID:*** ACFW179241000166219
+- ***Credential URL:*** -
+- ***Skills Learned:*** Secure Application Deployment · API Security · Cloud Application Vulnerability Testing · Application Data Protection · Patch Management
+
+Securing applications in the cloud showed me how to keep apps safe from start to finish. From protecting APIs to ensuring data privacy and patching vulnerabilities, I got a full picture of what secure app deployment really takes. Now, I’m geared up to not only build but also shield applications in the cloud, knowing they’re fortified against threats and ready for action.
+
+![Certificate](/images/aca-9.png)
+
+---
+
+### 34. Cloud Platform Security Overview
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 20, 2024
+- ***Credential ID:*** ACFS01241000167232
+- ***Credential URL:*** -
+- ***Skills Learned:*** Platform Security Fundamentals · Data Protection in Cloud · Threat Detection · Risk Management · Compliance Standards
+
+Exploring platform security gave me a panoramic view of keeping cloud environments secure. From protecting data to understanding the importance of compliance, it was like getting a roadmap for managing risks and defending against potential threats. Now, I have a clear understanding of the essentials needed to secure the cloud and keep data safe on a large scale.
+
+![Certificate](/images/aca-10.jpg)
+
+---
+
+### 35. Alibaba Cloud Certified Associate Cloud Security
+- ***Organization:*** Alibaba Cloud
+- ***Issue Date:*** October 22, 2024
+- ***Credential ID:*** IACA02241000168561L
+- ***Credential URL:*** -
+- ***Skills Learned:*** Security Policies · Identity and Access Management · Network Security in Cloud · Encryption Techniques · Incident Response
+
+Earning this certification felt like leveling up my cloud security game. I got hands-on with setting up access controls, managing network security, and diving deep into encryption to keep data secure. It’s about being ready to respond if something goes wrong and having the tools to stop incidents in their tracks. This certification has given me the confidence to tackle security from multiple angles, ensuring cloud environments stay protected.
+
+![Certificate](/images/aca-11.png)
+
+---
+
+### 36. Alibaba Cloud Security Professional Academy
+- ***Organization:*** Digital Talent Scholarship
+- ***Issue Date:*** October 29, 2024
+- ***Credential ID:*** 1989401840-177/PROA/BLSDM.Kominfo/2024
+- ***Credential URL:*** [[Click here]](https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=1989401840-177)
+- ***Skills Learned:*** Advanced Threat Protection · Security Architecture · Data Governance · Forensics in Cloud · Security Compliance
+
+This academy was like bootcamp for the cloud security pros. I delved into advanced protection techniques, learned how to set up robust security architectures, and even got a taste of digital forensics in the cloud. By the end, I felt ready to handle complex security challenges and keep cloud platforms compliant, armed with the latest skills to detect and respond to sophisticated threats.
+
+![Certificate](/images/aca-12.jpg)
 
 ---
 

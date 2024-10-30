@@ -11,12 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Certificates</title>
+      <link>http://localhost:1313/categories/certificates/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/certificates/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/categories/cybersecurity/</link>
-      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/cybersecurity/</guid>
       <description></description>
     </item>
@@ -67,13 +74,6 @@
       <link>http://localhost:1313/categories/soar/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/soar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Certificates</title>
-      <link>http://localhost:1313/categories/certificates/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/certificates/</guid>
       <description></description>
     </item>
     <item>
