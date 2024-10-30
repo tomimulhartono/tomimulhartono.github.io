@@ -121,7 +121,7 @@ Becoming a Certified AppSec Practitioner was like leveling up in the world of ap
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/4aaf70d3-6427-4e7e-b396-7a4969d80938/public_url)
 - ***Skills Learned:*** Cyber Best Practices · Cybersecurity · Network Vulnerabilities · Privacy and Data Confidentiality · Threat Detection
 
-Jumping into cybersecurity with Cisco felt like discovering a hidden layer of the digital world. I learned how to spot vulnerabilities, protect data privacy, and detect common threats, giving me a solid foundation in best practices. It was eye-opening to see just how vulnerable networks can be and how important it is to stay vigilant every step of the way.
+This course was the perfect starting point—a great overview of the basics of cybersecurity. It covered everything from best practices in security to how to detect threats and understand network vulnerabilities. It’s kind of like the cybersecurity 101 class everyone should take before diving into more specialized areas. It gave me a good overview and set the stage for the deeper dives I would take in future courses.
 
 ![Certificate](/images/cisco.jpg)
 
@@ -160,7 +160,7 @@ Diving into the world of ethical hacking was both exciting and eye-opening. I le
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/3d183a5c-0b23-46ba-9e98-1fec2c098bc5)
 - ***Skills Learned:*** Antimalware Protection · Application Security · Common Cyber Threats · Defending Systems and Devices · Host-based Intrusion Prevention · IP/TCP/UDP Vulnerabilities · Linux Basics · Mitigating Common Network Attacks · Network Security Infrastructure · Securing WLANS · System and Endpoint Protection · Windows Security · Wireless and Mobile Device Attacks
 
-Getting into endpoint security felt like armoring up the last line of defense. I explored how to protect devices from malware, secure applications, and prevent wireless and mobile device attacks. Whether it’s Windows, Linux, or WLANs, I now know what it takes to guard endpoints against threats, making systems and devices much harder targets.
+This course zoomed in on securing endpoints, which are often the first line of defense in any security strategy. From antimalware protection to defending against common network attacks, I learned how to secure individual devices and systems effectively. It was like getting the keys to a safe house—now I know how to lock down endpoints to keep the bad guys out. This knowledge is crucial for a comprehensive security approach, especially in today’s world where endpoints are everywhere.
 
 ![Certificate](/images/endpoint-security.jpg)
 
@@ -186,7 +186,7 @@ Learning about the CIA Triangle—Confidentiality, Integrity, and Availability�
 - ***Credential URL:*** [[Click here]](https://www.cyberacademy.id/certificate/CCFB01105241464)
 - ***Skills Learned:*** Shift Cipher · Substitution Cipher · Vigenere Cipher · Affine Cipher · Hill Cipher · Transposition Cipher
 
-Diving into the world of classical cryptography felt like unlocking ancient secrets. Learning ciphers like Vigenere and Affine gave me a hands-on understanding of encryption’s roots. Now, I can appreciate how these old-school techniques laid the groundwork for today’s complex cryptography and see how they still inspire modern encryption methods.
+This course was a fun throwback to the origins of cryptography. We explored old-school methods like the Vigenère and Hill ciphers, which was both fascinating and surprisingly relevant. It gave me a real appreciation for how far cryptography has come while showing how these classic techniques still play a role today. It’s like learning the history of magic tricks before mastering the new ones—knowing the roots makes everything else make more sense.
 
 ![Certificate](/images/classical-cryptography-for-beginner.jpg)
 
@@ -199,7 +199,7 @@ Diving into the world of classical cryptography felt like unlocking ancient secr
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/57e02bc3-f637-46de-a205-e5459ed5296e/public_url)
 - ***Skills Learned:*** Common Vulnerability Scoring System (CVSS) · Disaster Recovery · Evidence Handling and Attack Attribution · Governance · Incident Response · Network and Server Profiling · Penetration Testing · Risk Assessment · Risk Management · Secure Device Management · Security Assessments · Security Controls · The Cyber Kill Chain
 
-Cyber threat management showed me what it takes to be prepared for the unexpected. I got into the nitty-gritty of incident response, risk assessments, and even the Cyber Kill Chain. It’s all about staying a step ahead and being ready to respond when threats strike. This course gave me the tools to manage threats like a pro, from detection all the way to recovery.
+This course was all about learning how to handle and respond to cyber threats like a pro. We covered everything from risk assessment to incident response, which really gave me a solid grip on managing threats and vulnerabilities in the real world. It’s like being trained as a firefighter—now I know how to identify, manage, and extinguish potential fires before they turn into full-blown disasters. It was practical, hands-on, and incredibly valuable for anyone serious about cybersecurity.
 
 ![Certificate](/images/cyber-threat-management.jpg)
 
@@ -225,7 +225,7 @@ A deep dive into the nitty-gritty of cybersecurity operations, this course cover
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea)
 - ***Skills Learned:*** Network Configuration · IP Addressing · Routing Protocols · VLAN Configuration · Network Troubleshooting
 
-Working with Cisco’s Packet Tracer was like setting up my own virtual network lab. I learned the ropes of configuring IPs, routing protocols, and VLANs, all while troubleshooting along the way. This hands-on experience made network setup feel less daunting and gave me the confidence to tackle real-world network challenges.
+This course was a series of hands-on labs designed to help me get a solid grasp of networking concepts. Working with Cisco’s Packet Tracer felt like practicing on a flight simulator before taking to the skies. It was a great way to apply everything I’d learned in theory to real-world scenarios. By the end, I felt much more comfortable with the ins and outs of networking, which is crucial for anyone in the cybersecurity field.
 
 ![Certificate](/images/ccna-udemy.jpg)
 
@@ -264,7 +264,7 @@ Wireshark is one of those tools that every cybersecurity professional needs to k
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/f7a6c0989cded94b0a4627df2f85b62864fb9fc97f66eb1b6708ff20d3f547a4)
 - ***Skills Learned:*** Cybersecurity · Threat & Vulnerability Management
 
-The threat landscape course opened my eyes to the wide array of risks out there. From spotting vulnerabilities to understanding the methods attackers use, it’s made me see cybersecurity from a strategic angle. Now, I can better anticipate where threats might come from and understand how to stay a step ahead.
+This course provided a broad overview of the current cybersecurity threat landscape, which is constantly evolving. It was insightful to learn about the latest threats and vulnerabilities, giving me a better understanding of what’s out there. It’s kind of like getting a weather forecast for a stormy day—now I know what to watch out for and how to prepare. Staying updated on the latest threats is key to staying ahead in this field.
 
 ![Certificate](/images/linkedin-1.jpg)
 
@@ -290,7 +290,7 @@ Understanding the terminology in cybersecurity is like learning the lingo of a n
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/e24a7755c1c165184712aaeb995724ef13d163515a0dbc89c1327045db7a1b9d)
 - ***Skills Learned:*** Cybersecurity
 
-Getting into the foundations of cybersecurity felt like setting up the pillars of a secure system. I got a grasp on key concepts and best practices that every cybersecurity professional needs to know. It’s a solid base that I’ll keep building on as I go deeper into the field.
+This course solidified my basic knowledge of cybersecurity, covering fundamental concepts and principles. It’s like building the foundation of a house—without it, everything else would be shaky. It provided a strong base that I’ve built on with more advanced studies. Understanding these core principles has been key to everything else I’ve learned in cybersecurity, making this course an essential part of my journey.
 
 ![Certificate](/images/linkedin-3.jpg)
 
@@ -316,7 +316,7 @@ Learning about Microsoft Copilot in the context of security was fascinating. Thi
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/6d039adf0f61a80a3bb32a85c8cb2e1503c883413ee6382aafb7c616f2ff11339)
 - ***Skills Learned:*** Cybersecurity · Information Security Awareness · Threat & Vulnerability Management
 
-Learning cybersecurity essentials from Microsoft and LinkedIn made me feel like I had a guide for the whole field. I dove into the basics of info security, threat management, and vulnerability handling, giving me a rounded view of the profession. Now I feel more prepared for what lies ahead in my cyber career.
+This course focused on the essentials needed for a career in cybersecurity. It covered everything from foundational skills to understanding the current security landscape, helping me prepare for a successful career in the field. It’s like getting a toolkit for building your career—a mix of practical advice and industry insights that have been invaluable as I’ve navigated my path in cybersecurity.
 
 ![Certificate](/images/linkedin-5.jpg)
 
