@@ -39,50 +39,60 @@ cover:
 
 ![CEKATAN](/images/cekatan.png)
 
-As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting opportunity to dive into a game-changing project: **CEKATAN**. This web application, crafted entirely by yours truly using **CodeIgniter 3** and **MySQL**, was developed from November to December 2023.
+Ever wondered how tech can transform data verification? Enter **CEKATAN**—a web application I had the privilege to bring to life. Built with CodeIgniter 3 and MySQL over a whirlwind couple of months (November–December 2023), CEKATAN is here to tackle the complexities of BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency.
 
-**So, what’s CEKATAN all about?**
-
-CEKATAN is designed to **verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency**. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.
+Let’s dive into what makes CEKATAN a game-changer.
 
 ---
 
-## Key Features of CEKATAN
-CEKATAN isn’t your run-of-the-mill data verification tool. Here’s what sets it apart:
+## What’s CEKATAN All About?
 
-### 1. Participant Data Verification
-- Ensures JKN participant data is complete and accurate.
-- Identifies and flags any anomalies or inconsistencies.
-- Sends out notifications for any data that needs fixing.
-
-### 2. Document Management
-- Uploads and stores documents related to JKN participants.
-- Keeps documents organized and easy to manage.
-- Makes searching and accessing documents a breeze.
-
-### 3. Data Import and Export
-- Imports data from various sources effortlessly.
-- Exports validated data in multiple formats.
-- Simplifies data exchange with other systems.
-
-### 4. Premium Calculation
-- Calculates JKN premiums based on participant data.
-- Helps manage the JKN program’s finances efficiently.
-- Boosts overall system efficiency and effectiveness.
+CEKATAN (short for *Cek dan Validasi Data JKN Kabupaten Bojonegoro*) is your go-to solution for verifying and validating JKN participant data with ease and precision. Think of it as the backstage hero ensuring the data is accurate, complete, and ready to roll for smooth JKN program management.
 
 ---
 
-## How CEKATAN Makes a Difference
-CEKATAN has truly made an impact in Bojonegoro Regency’s JKN program:
+## CEKATAN’s Standout Features
 
-- **Data Accuracy:** Ensures reliable data for better decision-making and planning.
-- **Simplified Management:** A centralized system for hassle-free data management.
-- **Boosted Efficiency:** Automates processes to save time and resources.
+This isn’t just another data tool—it’s a powerhouse of features designed to simplify and supercharge the process:
+
+1. **Participant Data Verification**
+
+- Ensures every detail of JKN participant data is accurate.
+- Flags anomalies or inconsistencies like a pro.
+- Sends notifications to fix any data hiccups.
+
+2. **Document Management**
+
+- Upload, store, and manage participant documents effortlessly.
+- Keep everything organized and easy to find.
+- Search and access files in seconds.
+
+3. **Data Import and Export**
+
+- Seamlessly import data from various sources.
+- Export validated data in formats that suit your needs.
+- Make data sharing with other systems a breeze.
+
+4. **Premium Calculation**
+
+- Automatically calculate JKN premiums based on participant data.
+- Simplify financial management for the JKN program.
 
 ---
 
-## The Tech Behind the Magic
-CEKATAN was built with:
+## Why CEKATAN Matters
+
+Here’s the real impact CEKATAN brings to the table:
+
+- **Accuracy at Its Core:** Reliable data means better decisions and smoother planning.
+- **Streamlined Management:** A centralized system makes handling participant data a walk in the park.
+- **Efficiency Redefined:** Automation saves time and cuts down on resources—win-win!
+
+---
+
+## The Tech Behind CEKATAN
+
+Built to last, CEKATAN combines powerful tools and a lightweight framework:
 
 - **Framework:** CodeIgniter 3
 - **Database:** MySQL
@@ -90,7 +100,8 @@ CEKATAN was built with:
 
 ---
 
-## Wrap-Up
-Developing CEKATAN was an incredible experience. Using CodeIgniter and MySQL, I created a robust and valuable tool for JKN management in Bojonegoro Regency. CEKATAN stands as a testament to how technology can drive efficiency and effectiveness.
+## Wrapping It Up
 
-Curious to see CEKATAN in action? Check it out at [here](https://app.kajabi.com/https://cekatan.bojonegoro.com/)
+Developing CEKATAN was a rewarding journey. It’s more than just a web app—it’s a tool that’s transforming how JKN data is managed in Bojonegoro Regency. With its robust features and seamless functionality, CEKATAN proves how the right tech can make all the difference.
+
+Curious to see CEKATAN in action? Give it a try [here](https://cekatan.bojonegoro.com/)

@@ -39,9 +39,11 @@ cover:
 
 ![Landing Page Ordera](/images/ordera.jpg)
 
-Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
+Ever had those cozy nights where all you want is a warm plate of fried rice, but leaving the house feels like a mission? Or maybe you're dreaming of trying new dishes from your favorite restaurants—minus the wait.
 
-**Ordera** is here to meet your needs!
+**Say hello to Ordera!**
+
+Ordera is Indonesia's rising star in food and beverage delivery, here to make your dining experience effortless and exciting.
 
 ---
 
@@ -49,21 +51,17 @@ Have you ever craved a warm plate of fried rice on a cold night but felt too laz
 
 Ordera is a **rising** food and beverage delivery application in Indonesia. This app offers several advantages that make it a **must-try**:
 
-- **Diverse Restaurant Options:** Discover various restaurants and eateries listed on Ordera, ranging from local delicacies to international cuisines.
-- **Quick and Easy Ordering:** Order your favorite food and drinks with just a few clicks!
-- **Flexible Payment Options:** Pay for your orders with various payment methods, including cash, bank transfer, and e-wallet.
-- **Real-time Order Tracking:** Track the status of your order directly within the app.
-- **Responsive Customer Service:** The Ordera customer service team is ready to assist you 24/7.
+- **Endless Choices:** Explore a wide range of restaurants, from local favorites to international cuisines.
+- **Effortless Ordering:** Get your food delivered with just a few taps—easy and quick!
+- **Flexible Payment Options:** Whether it’s cash, bank transfers, or e-wallets, you’ve got options.
+- **Real-time Order Tracking:** Keep an eye on your order every step of the way.
+- **24/7 Support:** Need help? Our friendly customer service team is ready around the clock.
 
 ---
 
-## My Role in Making Ordera Awesome
+## The Tech That Powers Ordera
 
-As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the opportunity to **contribute** to the development of the Ordera application. Alongside an incredible team, we worked hard to deliver an application that is **user-friendly, efficient, and captivating.**
-
----
-
-## The Tech Behind Ordera
+Ordera is built using robust and reliable technology to ensure a seamless experience:
 
 - **Backend:** Laravel 8
 - **Frontend:** CodeIgniter 3
@@ -71,17 +69,17 @@ As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the o
 
 ![Login Page Ordera](/images/ordera2.png)
 
-The Ordera development process began in January 2023 and was completed in October 2023. It was an extraordinary experience to be involved in this project and see the application come to life.
+This tech combo ensures fast processing, smooth navigation, and secure transactions so you can enjoy your favorite meals without a hitch.
 
 ---
 
-## Why Ordera Is Your New Best Friend
+## Why Ordera Should Be Your Go-To App
 
-Ordera is a practical solution for those who want to:
+Ordera is perfect for when you want to:
 
-- Order food or drinks without leaving home
-- Discover new culinary options
-- Avoid long queues at restaurants
-- Easily monitor the status of their orders
+- Enjoy your favorite meals without stepping out.
+- Discover exciting new dishes.
+- Skip long restaurant queues.
+- Track your order from kitchen to doorstep.
 
-What are you waiting for? Visit the Ordera app [now](https://ordera.id/) and experience the convenience of ordering food and drinks!
+Ready to make mealtime better? Visit the Ordera app [now](https://ordera.id/) and see how easy delicious can be!

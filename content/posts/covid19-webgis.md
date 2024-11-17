@@ -39,25 +39,25 @@ cover:
 
 ![COVID-19 WebGIS](/images/webgis.jpg)
 
-Interning at PT Sketsa Negeri Mandiri in 2020 was no ordinary experience. Alongside one team member, I had the opportunity to contribute to an important project: building the COVID-19 WebGIS application.
+In 2020, I had the chance to contribute to an impactful project: building the **COVID-19 WebGIS** application. The goal was simple but important—creating a web platform that helps people understand the pandemic situation in Indonesia through maps, charts, and data analysis.
 
 ---
 
 ## What’s COVID-19 WebGIS?
 
-Imagine an online platform displaying COVID-19 data in Indonesia visually, complete with maps, charts, and analysis. Yes, that's the COVID-19 WebGIS, a web-based application that helps users understand the pandemic situation better.
+It's a web-based application that provides a visual representation of COVID-19 data in Indonesia. Users can view real-time stats, including case numbers, recoveries, and deaths, all displayed on interactive maps and easy-to-read charts.
 
 ---
 
-## Tech and Challenges
+## Tech Stack and Challenges
 
-This application leverages advanced technology, including:
+We used some powerful tools to bring the project to life:
 
-- **Bootstrap 4:** For responsive and mobile-friendly web design.
-- **ArcMap:** GIS software for spatial data analysis.
-- **QGIS:** Open-source GIS software for data visualization.
+- **Bootstrap 4** for responsive design, making the app mobile-friendly.
+- **ArcMap** for analyzing spatial data.
+- **QGIS,** an open-source tool, for visualizing the data on maps.
 
-The biggest challenge? Starting the development of an application we've never understood before. We had to learn the existing code and understand the project workflow. But, with collaboration and determination, we managed to get through it!
+The biggest challenge? Jumping into a project with limited knowledge and getting up to speed quickly. We had to dive into the existing code and figure out the whole workflow, but through teamwork and persistence, we got it done!
 
 ---
 
@@ -65,35 +65,30 @@ The biggest challenge? Starting the development of an application we've never un
 
 | Feature | Description |
 | --- | --- |
-| COVID-19 Spread Map | Visualization of the number of cases, deaths, and recoveries in each region of Indonesia. |
-| Data Analysis | Detailed information about the COVID-19 situation in Indonesia. |
-| Data Visualization | Graphs and tables that are easy to understand to help users comprehend the virus spread. |
+| COVID-19 Spread Map | Shows the number of cases, recoveries, and deaths across different regions in Indonesia. |
+| Data Analysis | Provides in-depth details on how COVID-19 is impacting the country. |
+| Data Visualization | Easy-to-understand graphs and tables to help users make sense of the data. |
 
 ---
 
 ## More Than Just a Project
 
-COVID-19 WebGIS is not just an ordinary internship project. This application has a real impact:
-
-- **Assisting many people:** Understanding the COVID-19 pandemic situation in Indonesia.
-- **Providing crucial information:** To make informed decisions in maintaining health and safety.
+This wasn’t just another internship project—it had a real-world impact. The application helped people stay informed about the pandemic, allowing them to make better decisions for their health and safety.
 
 ---
 
 ## What I Learned
 
-This internship provided me with valuable experiences:
+The experience was packed with learning opportunities, including:
 
-- **Learning and developing skills:** In web development and GIS.
-- **Working in a team:** Completing a project with tight deadlines.
-- **Contributing to something bigger:** Helping the community in difficult times.
+- Gaining skills in web development and GIS.
+- Collaborating with a team to meet tight deadlines.
+- Knowing that my work helped the community during such a challenging time.
 
 ---
 
 ## Final Thoughts
 
-COVID-19 WebGIS is an example of how technology can assist us in difficult situations. Though brief, this project's experience is unforgettable. I learned a lot and am proud to have contributed to helping the community during the pandemic.
+The COVID-19 WebGIS project showed how technology can make a difference in tough times. Even though the internship was short, it was an unforgettable and rewarding experience, and I’m proud to have contributed to something that had a positive impact on people’s lives.
 
-Have you ever been involved in a similar project?
-
-To learn more about COVID-19 WebGIS, please visit my repository at [here](https://gitlab.com/tomimulhartono/covid19-webgis8)
+Have you ever been involved in a project like this? Feel free to check out the project [here](https://gitlab.com/tomimulhartono/covid19-webgis8)

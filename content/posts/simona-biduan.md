@@ -39,43 +39,57 @@ cover:
 
 ![SIMONA BIDUAN](/images/simona.jpg)
 
-At **PT Motiolabs Digital Indonesia**, I had the exciting opportunity to develop a cutting-edge web application: **Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN)**. This project was designed to tackle the challenges of managing stakeholder complaints for the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).
+Imagine dealing with a flood of complaints every day without a clear system to organize, track, or resolve them. That was the challenge for **Kemenkumham RI** (Ministry of Law and Human Rights, Indonesia). Complaints were piling up in scattered systems, manual processes slowed things down, and stakeholders had no clue about the status of their issues.
+
+That’s where **SIMONA BIDUAN** (short for *Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders*) comes in—a web application I had the opportunity to create from scratch between September and November 2023.
 
 ---
 
-## What Was the Problem?
-Kemenkumham RI faced several issues in managing stakeholder complaints:
+## The Problem at a Glance
 
-- **No Central Hub:** Complaints were managed through disjointed systems, making tracking and management challenging.
-- **Manual Processes:** The existing system was slow and inefficient, relying on time-consuming manual work.
-- **Visibility Gaps:** Limited insight into the status and resolution of complaints.
+1. **No Central Hub:** Complaints were handled through fragmented systems, creating chaos.
+2. **Manual Hassles:** Inefficient processes led to delays.
+3. **Lack of Transparency:** Stakeholders were left in the dark about complaint statuses.
 
 ---
 
-## How I Solved It
-I independently developed SIMONA BIDUAN from September 2023 to November 2023. Here’s how I tackled the project:
+## The Solution: SIMONA BIDUAN
 
-### Tech Stack
-- **Framework:** CodeIgniter 3
-- **Database:** MySQL
+I built SIMONA BIDUAN to address these pain points, leveraging the **CodeIgniter 3 framework** and a **MySQL database.** The app isn’t just a complaint management tool—it’s a full-blown system for **improving communication,** **streamlining operations,** and **empowering data-driven decisions.**
 
-### Core Features
-- **Complaint Portal:** A centralized platform for stakeholders to submit complaints, report issues, and provide feedback.
-- **Management System:** Tools for reviewing, categorizing, and resolving complaints effectively.
-- **Status Tracking:** Real-time updates on the progress and resolution of complaints.
-- **Reports & Analytics:** Data-driven insights to support better decision-making and service improvements.
+**Core Features**
+
+1. **Complaint Portal**
+
+- A one-stop platform for stakeholders to submit complaints, share feedback, and raise issues.
+
+2. **Complaint Management System**
+
+- Tools for internal teams to review, categorize, and resolve complaints seamlessly.
+
+3. **Real-Time Status Tracking**
+
+- Keep stakeholders in the loop with progress updates and resolution timelines.
+
+4. **Reports & Analytics**
+
+- Turn data into insights to improve services and decision-making.
+
 
 ---
 
 ## Why It Matters
-SIMONA BIDUAN has made a significant impact by:
 
-- **Boosting Efficiency:** Streamlined and organized complaint handling processes.
-- **Enhancing Communication:** Improved interaction between internal teams and stakeholders.
-- **Increasing Transparency:** Clear visibility into complaint statuses and resolutions.
-- **Supporting Better Decisions:** Insights and data to drive smarter decisions and enhance services.
+Here’s what SIMONA BIDUAN brings to the table:
 
->"SIMONA BIDUAN has become an invaluable tool for Kemenkumham RI in enhancing service quality and stakeholder satisfaction." - Our Lead
+1. **Faster Processes:** Manual work? Out. Organized workflows? In.
+2. **Better Communication:** Connect stakeholders and teams more effectively.
+3. **Transparency:** No more mystery around complaint statuses.
+4. **Smarter Decisions:** Analytics to guide meaningful improvements.
+
+A lead from the project summed it up perfectly:
+
+>“**SIMONA BIDUAN** has become an invaluable tool for Kemenkumham RI in enhancing service quality and stakeholder satisfaction.”
 
 ---
 
@@ -83,16 +97,17 @@ SIMONA BIDUAN has made a significant impact by:
 
 | Feature | Description |
 | --- | --- |
-| Complaint Portal | A platform for stakeholders to submit complaints, report issues, or provide feedback on services. |
-| Complaint Management System | Enables the internal team to review, categorize, and resolve complaints effectively. |
-| Status Tracking | Provides real-time visibility into complaint status and the resolution process. |
-| Reports and Analytics | Generates data and insights to aid decision-making and service improvement. |
-| Technology | CodeIgniter 3 (framework), MySQL (database) |
+| Complaint Portal | Submit complaints, feedback, or report issues—all in one place. |
+| Management System | Review, categorize, and resolve complaints with ease. |
+| Status Tracking | Real-time updates keep stakeholders informed every step of the way. |
+| Reports and Analytics | Generate actionable insights for smarter service improvements. |
+| Tech Stack | CodeIgniter 3 (framework), MySQL (database) |
 | Project Duration | September 2023 - November 2023 |
 
 ---
 
-## Wrap-Up
-Working on SIMONA BIDUAN solo was an enriching experience that allowed me to apply a diverse set of skills. I’m proud of the results and confident that SIMONA BIDUAN will continue to benefit Kemenkumham RI and its stakeholders.
+## Wrapping Up
 
-Want to see SIMONA BIDUAN in action? Visit [here](https://simonabiduan.polkam.go.id/)
+Developing SIMONA BIDUAN was an incredible journey. It’s more than an app—it’s a tool that transforms how Kemenkumham RI handles complaints, improves services, and strengthens relationships with stakeholders.
+
+Curious to see it in action? Check it out [here](https://simonabiduan.polkam.go.id/)

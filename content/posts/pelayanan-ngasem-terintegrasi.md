@@ -39,43 +39,54 @@ cover:
 
 ![Login Page PELANGI](/images/pelangi1.png)
 
-**PELANGI** (short for **Pelayanan Ngasem Terintegrasi**) is here to make life in Ngasem easier and more connected. Launched in 2023, this app is all about **streamlining access and offering smart solutions** for the community.
+Say hello to **PELANGI** (short for *Pelayanan Ngasem Terintegrasi*)—a game-changing app that’s here to make living in Ngasem easier, faster, and more connected. Launched in 2023, PELANGI is all about simplifying access to essential services and building stronger connections between the community and local government.
 
->"PELANGI is crafted to **improve the quality of life for Ngasem residents** and **boost the connection between the government and its people** using the latest in digital tech."
+>“PELANGI is designed to enhance everyday life for Ngasem residents while creating a transparent and seamless bridge between the people and their government—all powered by cutting-edge digital tech.”
 
 ---
 
-## Check Out PELANGI's Cool Features
+## What Makes PELANGI Awesome?
 
-| Feature | Description |
-| --- | --- |
-| Administrative Registration | Easily register for essential documents like KTP, KK, and more **right from the app.** |
-| Public Information | Access crucial information related to Ngasem, such as news, announcements, and events **with ease.** |
-| Public Services | Access various government services online, including tax payments, permits, and complaints, **ditching the queues.** |
-| Community Hub | Interact with fellow Ngasem residents through discussion forums and chat groups, **fostering a sense of community.** |
+1. **Administrative Registration**
+
+No more running around town for paperwork. Apply for important documents like KTP, KK, and more—straight from your phone!
+
+2. **Public Information**
+
+Stay in the know with the latest news, announcements, and events happening in Ngasem. It’s all just a tap away.
+
+3. **Public Services**
+
+From tax payments to permits and even submitting complaints, handle government services online—no long queues required.
+
+4. **Community Hub**
+
+Connect with your neighbors in discussion forums or chat groups. Whether you’re sharing ideas or just saying hello, this is where the community spirit thrives.
 
 <!-- ![Dashboard PELANGI](/images/pelangi2.png) -->
 
 ---
 
-## How PELANGI is Making a Difference
+## Behind the Scenes: Built for You
 
-<!-- ![Services Page PELANGI](/images/pelangi3.png) -->
-
-**PELANGI** is making a real impact in Ngasem:
-
-- **Better Access:** Get services more conveniently and efficiently, **bypassing the usual hassles.**
-- **More Community Engagement:** Interact with both the government and your neighbors, **increasing involvement.**
-- **Stronger Government-Citizen Connection:** Digital tech has made our relationship with the government more **transparent and accountable.**
+PELANGI was developed using **CodeIgniter 3** and powered by a **MySQL database**, with the development process spanning from **April to October 2023.** The app was crafted with care to ensure a smooth and user-friendly experience for everyone in Ngasem.
 
 ---
 
-## Proudly Developed by a Full Stack Developer
+## Why PELANGI is a Big Deal
 
-As a **Full Stack Developer** at **PT Motiolabs Digital Indonesia**, I had the chance to bring the PELANGI app to life. I worked on it solo, using **CodeIgniter 3** and a **MySQL** database from **April to October 2023.**
+<!-- ![Services Page PELANGI](/images/pelangi3.png) -->
 
->"Working on PELANGI was an amazing experience. I'm thrilled to have played a part in creating a valuable digital tool for the Ngasem community."
+PELANGI isn’t just another app—it’s changing the game for Ngasem by:
 
-PELANGI is just the start. Join us in making Ngasem even better—**let's work together to create a more integrated, efficient, and connected community through digital innovation!**
+- **Making Life Easier:** Skip the hassles and get what you need, when you need it.
+- **Strengthening Connections:** Engage with your community and stay involved.
+- **Building Trust:** Clear communication and digital access make the government more transparent and reliable.
 
-Curious about PELANGI? Check it out at [here](https://pelangi.bojonegoro.com/)
+---
+
+**Ready to Join the Revolution?**
+
+PELANGI is just the beginning. Together, we can make Ngasem a more integrated, efficient, and connected place for everyone.
+
+Curious to learn more? [Dive in](https://pelangi.bojonegoro.com/) and see how PELANGI can make a difference in your life!
