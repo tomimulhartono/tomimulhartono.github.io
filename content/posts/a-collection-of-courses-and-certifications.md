@@ -1,6 +1,6 @@
 ---
 title: "Charting My Cyber Security Path: A Collection of Courses and Certifications"
-date: 2024-10-29T00:00:00+00:00
+date: 2024-11-17T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["cybersecurity", "certificates"]
@@ -406,6 +406,16 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential URL:*** [[Click here]](https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=1989401840-177)
 
 ![Certificate](/images/aca-12.jpg)
+
+---
+
+### 37. Nmap for Ethical Hackers - The Ultimate Hands-On Course
+- ***Organization:*** Udemy
+- ***Issue Date:*** November 17, 2024
+- ***Credential ID:*** UC-6b27d445-e8a7-4d8a-91bf-bd46106cc320
+- ***Credential URL:*** [[Click here]](https://ude.my/UC-6b27d445-e8a7-4d8a-91bf-bd46106cc320)
+
+![Certificate](/images/nmap.jpg)
 
 ---
 
