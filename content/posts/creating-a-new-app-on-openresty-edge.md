@@ -64,17 +64,9 @@ You'll need to provide some information to configure your app. Here’s a quick 
 | Fields | What to Enter |
 | --- | --- | 
 | **Domains** | Enter your domain name here (e.g., `tomi-example.co.id`). |
-| **Partitions** | 	Select **Default**. Keep it simple for now. |
-| **Default Application** | Leave this blank unless you have something specific in mind. |
 | **HTTP Port** | You can leave this blank for now. |
 | **HTTPS Port** | 	Set to `443` for secure traffic. |
-| **HTTP2 Status (HTTPS)** | No need to select unless you want HTTP2 support. |
 | **Label** | Give your app a memorable label, like `Create a New Example App`. |
-| **Proxy to Upstream** | Leave this off for now; you can enable it later. |
-| **Log Format** | You can skip this for now. I’ll keep it simple. |
-| **Log File** | No need to fill this in unless you have specific logging requirements. |
-| **Load SSL Certificate by IP Addresses** | Don’t check this unless you’re specifically using IP-based SSL certificates. |
-| **Load Application by IP Addresses** | Uncheck this unless your setup requires IP-based application loading. |
 
 ![Screenshoot](/images/openresty-3.jpg)
 
