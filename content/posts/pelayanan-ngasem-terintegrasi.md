@@ -49,19 +49,19 @@ Say hello to **PELANGI** (short for *Pelayanan Ngasem Terintegrasi*)—a game-ch
 
 1. **Administrative Registration**
 
-No more running around town for paperwork. Apply for important documents like KTP, KK, and more—straight from your phone!
+    No more running around town for paperwork. Apply for important documents like KTP, KK, and more—straight from your phone!
 
 2. **Public Information**
 
-Stay in the know with the latest news, announcements, and events happening in Ngasem. It’s all just a tap away.
+    Stay in the know with the latest news, announcements, and events happening in Ngasem. It’s all just a tap away.
 
 3. **Public Services**
 
-From tax payments to permits and even submitting complaints, handle government services online—no long queues required.
+    From tax payments to permits and even submitting complaints, handle government services online—no long queues required.
 
 4. **Community Hub**
 
-Connect with your neighbors in discussion forums or chat groups. Whether you’re sharing ideas or just saying hello, this is where the community spirit thrives.
+    Connect with your neighbors in discussion forums or chat groups. Whether you’re sharing ideas or just saying hello, this is where the community spirit thrives.
 
 <!-- ![Dashboard PELANGI](/images/pelangi2.png) -->
 

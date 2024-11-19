@@ -61,20 +61,19 @@ I built SIMONA BIDUAN to address these pain points, leveraging the **CodeIgniter
 
 1. **Complaint Portal**
 
-- A one-stop platform for stakeholders to submit complaints, share feedback, and raise issues.
+    - A one-stop platform for stakeholders to submit complaints, share feedback, and raise issues.
 
 2. **Complaint Management System**
 
-- Tools for internal teams to review, categorize, and resolve complaints seamlessly.
+    - Tools for internal teams to review, categorize, and resolve complaints seamlessly.
 
 3. **Real-Time Status Tracking**
 
-- Keep stakeholders in the loop with progress updates and resolution timelines.
+    - Keep stakeholders in the loop with progress updates and resolution timelines.
 
 4. **Reports & Analytics**
 
-- Turn data into insights to improve services and decision-making.
-
+    - Turn data into insights to improve services and decision-making.
 
 ---
 

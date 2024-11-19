@@ -20,9 +20,6 @@
     <loc>http://localhost:1313/categories/cybersecurity/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</loc>
-    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/google-cloud-platform/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,6 +39,9 @@
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</loc>

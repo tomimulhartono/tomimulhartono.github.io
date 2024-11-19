@@ -55,7 +55,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 139041068-139313E0B-1274190E0 
 - ***Credential URL:*** [[Click here]](https://itbox.id/certificate-verifier/139041068-139313E0B-1274190E0/)
 
-![Certificate](/images/itbox1.jpg)
+    ![Certificate](/images/itbox1.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 139041068-13921D4B5-1274190E0
 - ***Credential URL:*** [[Click here]](https://itbox.id/certificate-verifier/139041068-13921D4B5-1274190E0/)
 
-![Certificate](/images/itbox2.jpg)
+    ![Certificate](/images/itbox2.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 139041068-13921FA34-1274190E0
 - ***Credential URL:*** [[Click here]](https://itbox.id/certificate-verifier/139041068-13921FA34-1274190E0/)
 
-![Certificate](/images/itbox3.jpg)
+    ![Certificate](/images/itbox3.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 41656/570/SNBR/BOOTCAMP/II/2024
 - ***Credential URL:*** [[Click here]](https://sanbercode.com/certificate/in/4dc8ef1c-bb90-49f2-b7a1-113238423ed1)
 
-![Certificate](/images/sanbercode.jpg)
+    ![Certificate](/images/sanbercode.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 8399810
 - ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXcVMjkwkmEwuXVKOjTHZ50xa5CkojfuJz0ki5sCSVhk7Tf/hwpIbPahRfHWZdTyKHDxSLPoqfoilKzYwVjmGfPQ=)
 
-![Certificate](/images/cap.jpg)
+    ![Certificate](/images/cap.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 4aaf70d3-6427-4e7e-b396-7a4969d80938
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/4aaf70d3-6427-4e7e-b396-7a4969d80938/public_url)
 
-![Certificate](/images/cisco.jpg)
+    ![Certificate](/images/cisco.jpg)
 
 ---
 
@@ -115,7 +115,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** MS-WBR-2024-0303
 - ***Credential URL:*** [[Click here]](https://drive.google.com/drive/folders/1t-2lNTP73cCILhuE_qepxhfOyU9bRCos)
 
-![Certificate](/images/how-to-kick-starting-career-into-cyber-security.jpg)
+    ![Certificate](/images/how-to-kick-starting-career-into-cyber-security.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** b5904ce9-d877-4b3d-8dab-578e5a6082a8
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/b5904ce9-d877-4b3d-8dab-578e5a6082a8/public_url)
 
-![Certificate](/images/ethical-hacker.jpg)
+    ![Certificate](/images/ethical-hacker.jpg)
 
 ---
 
@@ -135,7 +135,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 3d183a5c-0b23-46ba-9e98-1fec2c098bc5
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/3d183a5c-0b23-46ba-9e98-1fec2c098bc5)
 
-![Certificate](/images/endpoint-security.jpg)
+    ![Certificate](/images/endpoint-security.jpg)
 
 ---
 
@@ -145,7 +145,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** PKMI01105241434
 - ***Credential URL:*** [[Click here]](https://www.cyberacademy.id/certificate/PKMI01105241434)
 
-![Certificate](/images/introduction-to-information-security.jpg)
+    ![Certificate](/images/introduction-to-information-security.jpg)
 
 ---
 
@@ -155,7 +155,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** CCFB01105241464
 - ***Credential URL:*** [[Click here]](https://www.cyberacademy.id/certificate/CCFB01105241464)
 
-![Certificate](/images/classical-cryptography-for-beginner.jpg)
+    ![Certificate](/images/classical-cryptography-for-beginner.jpg)
 
 ---
 
@@ -165,7 +165,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 57e02bc3-f637-46de-a205-e5459ed5296e
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/57e02bc3-f637-46de-a205-e5459ed5296e/public_url)
 
-![Certificate](/images/cyber-threat-management.jpg)
+    ![Certificate](/images/cyber-threat-management.jpg)
 
 ---
 
@@ -175,7 +175,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 16621287-2b34-4d79-a992-e86fad168f4a
 - ***Credential URL:*** [[Click here]](https://www.credly.com/badges/16621287-2b34-4d79-a992-e86fad168f4a/public_url)
 
-![Certificate](/images/cyberops-associate.jpg)
+    ![Certificate](/images/cyberops-associate.jpg)
 
 ---
 
@@ -185,7 +185,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-a280b4bb-c17c-446b-9e66-7ee4fc8ff9ea)
 
-![Certificate](/images/ccna-udemy.jpg)
+    ![Certificate](/images/ccna-udemy.jpg)
 
 ---
 
@@ -195,7 +195,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 1987850840-138/PROA/BLSDM.Kominfo/2024
 - ***Credential URL:*** [[Click here]](https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=1987850840-138)
 
-![Certificate](/images/cyberops-associate-digital-talent-scholarship-2024.jpg)
+    ![Certificate](/images/cyberops-associate-digital-talent-scholarship-2024.jpg)
 
 ---
 
@@ -205,7 +205,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** UC-8cc0fbe9-cd38-4b01-a3d2-13bca01c2b34
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-8cc0fbe9-cd38-4b01-a3d2-13bca01c2b34)
 
-![Certificate](/images/wireshark-udemy.jpg)
+    ![Certificate](/images/wireshark-udemy.jpg)
 
 ---
 
@@ -215,7 +215,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** f7a6c0989cded94b0a4627df2f85b62864fb9fc97f66eb1b6708ff20d3f547a4
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/f7a6c0989cded94b0a4627df2f85b62864fb9fc97f66eb1b6708ff20d3f547a4)
 
-![Certificate](/images/linkedin-1.jpg)
+    ![Certificate](/images/linkedin-1.jpg)
 
 ---
 
@@ -225,7 +225,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** e6dc4b96e350074f0e38b74309df76a013bfe3189baf9361a04d63df50c05985
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/e6dc4b96e350074f0e38b74309df76a013bfe3189baf9361a04d63df50c05985)
 
-![Certificate](/images/linkedin-2.jpg)
+    ![Certificate](/images/linkedin-2.jpg)
 
 ---
 
@@ -235,7 +235,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** e24a7755c1c165184712aaeb995724ef13d163515a0dbc89c1327045db7a1b9d
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/e24a7755c1c165184712aaeb995724ef13d163515a0dbc89c1327045db7a1b9d)
 
-![Certificate](/images/linkedin-3.jpg)
+    ![Certificate](/images/linkedin-3.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** c5cac43ffde21e5180fe0c8849e9c93b01bfd659d2957fa0f6740542ea2baaf9
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/c5cac43ffde21e5180fe0c8849e9c93b01bfd659d2957fa0f6740542ea2baaf9)
 
-![Certificate](/images/linkedin-4.jpg)
+    ![Certificate](/images/linkedin-4.jpg)
 
 ---
 
@@ -255,7 +255,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 6d039adf0f61a80a3bb32a85c8cb2e1503c883413ee6382aafb7c616f2ff1133
 - ***Credential URL:*** [[Click here]](https://www.linkedin.com/learning/certificates/6d039adf0f61a80a3bb32a85c8cb2e1503c883413ee6382aafb7c616f2ff11339)
 
-![Certificate](/images/linkedin-5.jpg)
+    ![Certificate](/images/linkedin-5.jpg)
 
 ---
 
@@ -265,7 +265,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** UC-bb954e39-3370-4b07-9255-c30169f40f1b
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-bb954e39-3370-4b07-9255-c30169f40f1b9)
 
-![Certificate](/images/wireshark-packet-analysis-and-ethical-hacking-core-skills.jpg)
+    ![Certificate](/images/wireshark-packet-analysis-and-ethical-hacking-core-skills.jpg)
 
 ---
 
@@ -275,7 +275,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 6e02cf66
 - ***Credential URL:*** [[Click here]](https://app.kajabi.com/certificates/6e02cf66)
 
-![Certificate](/images/cybersecurity-awareness-professional-certification.jpg)
+    ![Certificate](/images/cybersecurity-awareness-professional-certification.jpg)
 
 ---
 
@@ -285,7 +285,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 9094235
 - ***Credential URL:*** [[Click here]](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXdNhYCsdjBPabpAF+lLf+yjZ74NiqNfH+dOy+tWAqXyUrnw9M6PJZhqzP5nEFDYtX2rlQtiMTZrnUbY5x1CUMBE=)
 
-![Certificate](/images/cnsp.jpg)
+    ![Certificate](/images/cnsp.jpg)
 
 ---
 
@@ -295,7 +295,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW283240900149075
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-1.png)
+    ![Certificate](/images/aca-1.png)
 
 ---
 
@@ -305,7 +305,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW254240900154236
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-2.png)
+    ![Certificate](/images/aca-2.png)
 
 ---
 
@@ -315,7 +315,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW253241000158863
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-3.png)
+    ![Certificate](/images/aca-3.png)
 
 ---
 
@@ -325,7 +325,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW303241000160404
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-4.png)
+    ![Certificate](/images/aca-4.png)
 
 ---
 
@@ -335,7 +335,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW304241000161444
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-5.png)
+    ![Certificate](/images/aca-5.png)
 
 ---
 
@@ -345,7 +345,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW305241000163398
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-6.png)
+    ![Certificate](/images/aca-6.png)
 
 ---
 
@@ -355,7 +355,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 1ACA-H-0120241000014036
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-7.png)
+    ![Certificate](/images/aca-7.png)
 
 ---
 
@@ -365,7 +365,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW306241000165066
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-8.png)
+    ![Certificate](/images/aca-8.png)
 
 ---
 
@@ -375,7 +375,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFW179241000166219
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-9.png)
+    ![Certificate](/images/aca-9.png)
 
 ---
 
@@ -385,7 +385,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** ACFS01241000167232
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-10.jpg)
+    ![Certificate](/images/aca-10.jpg)
 
 ---
 
@@ -395,7 +395,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** IACA02241000168561L
 - ***Credential URL:*** -
 
-![Certificate](/images/aca-11.png)
+    ![Certificate](/images/aca-11.png)
 
 ---
 
@@ -405,7 +405,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** 1989401840-177/PROA/BLSDM.Kominfo/2024
 - ***Credential URL:*** [[Click here]](https://digitalent.kominfo.go.id/cek-sertifikat?registrasi=1989401840-177)
 
-![Certificate](/images/aca-12.jpg)
+    ![Certificate](/images/aca-12.jpg)
 
 ---
 
@@ -415,7 +415,7 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential ID:*** UC-6b27d445-e8a7-4d8a-91bf-bd46106cc320
 - ***Credential URL:*** [[Click here]](https://ude.my/UC-6b27d445-e8a7-4d8a-91bf-bd46106cc320)
 
-![Certificate](/images/nmap.jpg)
+    ![Certificate](/images/nmap.jpg)
 
 ---
 

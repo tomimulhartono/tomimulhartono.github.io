@@ -52,7 +52,7 @@ T-Pot, developed by T-Mobile, is an all-in-one honeypot platform supporting over
 ## Let’s Get Started!
 
 ### Step 1: Launch a GCP VM
-1. **Go to GCP Console:** Navigate to the GCP Console.
+1. **Go to GCP Console:** Navigate to the **[GCP Console.](https://console.cloud.google.com/)**
 2. **Create a New VM Instance:**
     - Go to **Compute Engine** > **VM Instances** and click **Create Instance.**
     - Set the instance name to `tpot-honeypot`.

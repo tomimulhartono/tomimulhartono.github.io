@@ -57,26 +57,26 @@ This isn’t just another data tool—it’s a powerhouse of features designed t
 
 1. **Participant Data Verification**
 
-- Ensures every detail of JKN participant data is accurate.
-- Flags anomalies or inconsistencies like a pro.
-- Sends notifications to fix any data hiccups.
+    - Ensures every detail of JKN participant data is accurate.
+    - Flags anomalies or inconsistencies like a pro.
+    - Sends notifications to fix any data hiccups.
 
 2. **Document Management**
 
-- Upload, store, and manage participant documents effortlessly.
-- Keep everything organized and easy to find.
-- Search and access files in seconds.
+    - Upload, store, and manage participant documents effortlessly.
+    - Keep everything organized and easy to find.
+    - Search and access files in seconds.
 
 3. **Data Import and Export**
 
-- Seamlessly import data from various sources.
-- Export validated data in formats that suit your needs.
-- Make data sharing with other systems a breeze.
+    - Seamlessly import data from various sources.
+    - Export validated data in formats that suit your needs.
+    - Make data sharing with other systems a breeze.
 
 4. **Premium Calculation**
 
-- Automatically calculate JKN premiums based on participant data.
-- Simplify financial management for the JKN program.
+    - Automatically calculate JKN premiums based on participant data.
+    - Simplify financial management for the JKN program.
 
 ---
 

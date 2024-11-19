@@ -65,14 +65,14 @@ Once your VM is set up, you'll need to connect to it. Use the SSH feature in the
 
 {{< highlight bash >}}
 
-sudo adduser -c "Gophish" gophish
-sudo su - gophish
-curl -L https://github.com/gophish/gophish/releases/download/v0.11.0/gophish-v0.11.0-linux-64bit.zip -o gophish-v0.11.0-linux-64bit.zip
-mkdir gophish-v0.11.0
-cd gophish-v0.11.0
-sudo apt-get install unzip
-unzip ../gophish-v0.11.0-linux-64bit.zip
-rm ../gophish-v0.11.0-linux-64bit.zip
+tomi_mulhartono@test-gophish:~$ sudo adduser -c "Gophish" gophish
+tomi_mulhartono@test-gophish:~$ sudo su - gophish
+tomi_mulhartono@test-gophish:~$ curl -L https://github.com/gophish/gophish/releases/download/v0.11.0/gophish-v0.11.0-linux-64bit.zip -o gophish-v0.11.0-linux-64bit.zip
+tomi_mulhartono@test-gophish:~$ mkdir gophish-v0.11.0
+tomi_mulhartono@test-gophish:~$ cd gophish-v0.11.0
+tomi_mulhartono@test-gophish:~$ sudo apt-get install unzip
+tomi_mulhartono@test-gophish:~$ unzip ../gophish-v0.11.0-linux-64bit.zip
+tomi_mulhartono@test-gophish:~$ rm ../gophish-v0.11.0-linux-64bit.zip
 
 {{< /highlight >}}
 
@@ -132,7 +132,7 @@ Now that everything is set up, we can start the Gophish service. Run the followi
 
 {{< highlight bash >}}
 
-sudo ./gophish
+tomi_mulhartono@test-gophish:~/gophish-v0.11.0$ sudo ./gophish
 
 {{< /highlight >}}
 

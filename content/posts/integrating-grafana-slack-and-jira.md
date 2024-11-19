@@ -47,23 +47,23 @@ First up, let’s get your Grafana alerts configured so you’re always in the k
 
 1. Pick Your Data Source
 
-Start by selecting where your data is coming from. Grafana’s got your back with a bunch of data source options.
+    Start by selecting where your data is coming from. Grafana’s got your back with a bunch of data source options.
 
 2. Query Your Data
 
-Dive into the data you want to keep an eye on. Use queries to drill down to the metrics or logs you care about.
+    Dive into the data you want to keep an eye on. Use queries to drill down to the metrics or logs you care about.
 
 3. Normalize Your Data
 
-Get your data in shape! Make sure it’s consistent and ready for analysis.
+    Get your data in shape! Make sure it’s consistent and ready for analysis.
 
 4. Set Your Threshold
 
-Define what makes your alert go off. What’s the magic number or condition that means it’s time to pay attention?
+    Define what makes your alert go off. What’s the magic number or condition that means it’s time to pay attention?
 
 5. Create Queries, Expressions, and Conditions
 
-Craft the queries and set the conditions that will trigger your alert.
+    Craft the queries and set the conditions that will trigger your alert.
 
 >**Note:** Expressions are a Grafana-managed feature, so they’re only available if you’re using Grafana's own alerting.
 
@@ -91,15 +91,15 @@ Grafana-managed alerts are super flexible and let you pull data from any of our 
 
 1. Click on **Alerts & IRM** -> **Alert rules** -> **+ New alert rule.**
 
-![Screenshoot](/images/n8n-1.jpg)
+    ![Screenshoot](/images/n8n-1.jpg)
 
-![Screenshoot](/images/n8n-2.jpg)
+    ![Screenshoot](/images/n8n-2.jpg)
 
 2. Enter a name for your alert rule.
 
-This name helps you identify it in your list and shows up as the `alertname` label for all alerts created from this rule.
+    This name helps you identify it in your list and shows up as the `alertname` label for all alerts created from this rule.
 
-![Screenshoot](/images/n8n-3.jpg)
+    ![Screenshoot](/images/n8n-3.jpg)
 
 #### Step 2: Define Query and Condition
 
@@ -107,39 +107,39 @@ Set up a query to fetch the data you want and define a condition that must be me
 
 1. Pick a data source.
 
-![Screenshoot](/images/n8n-4.jpg)
+    ![Screenshoot](/images/n8n-4.jpg)
 
 2. Choose a time range from the **Options** dropdown.
 
->**Note:** Grafana Alerting supports fixed relative time ranges like `now-24hr: now`, but not absolute time ranges (e.g., `2021-12-02 00:00:00 to 2021-12-05 23:59:59`) or semi-relative time ranges (e.g., `now/d to: now`).
+    >**Note:** Grafana Alerting supports fixed relative time ranges like `now-24hr: now`, but not absolute time ranges (e.g., `2021-12-02 00:00:00 to 2021-12-05 23:59:59`) or semi-relative time ranges (e.g., `now/d to: now`).
 
-![Screenshoot](/images/n8n-5.jpg)
+    ![Screenshoot](/images/n8n-5.jpg)
 
 3. Add a query.
 
-To add more queries, click **Add query.**
+    To add more queries, click **Add query.**
 
-All alert rules are managed by Grafana by default. If you prefer data source-managed alert rules, click **Switch to data source-managed alert rule.**
+    All alert rules are managed by Grafana by default. If you prefer data source-managed alert rules, click **Switch to data source-managed alert rule.**
 
-![Screenshoot](/images/n8n-6.jpg)
+    ![Screenshoot](/images/n8n-6.jpg)
 
 4. Add one or more expressions.
 
-a.  Choose either **Classic condition** for a single alert rule or select **Math,** **Reduce,** and **Resample** options for separate alerts per series.
+    a.  Choose either **Classic condition** for a single alert rule or select **Math,** **Reduce,** and **Resample** options for separate alerts per series.
 
-![Screenshoot](/images/n8n-7.jpg)
+    ![Screenshoot](/images/n8n-7.jpg)
 
-b. Click **Preview** to check if the expression is working.
+    b. Click **Preview** to check if the expression is working.
 
 5. To add a recovery threshold, turn on the **Custom recovery threshold** toggle and enter a value for when your alert rule should stop firing.
 
-You can only add one recovery threshold in a query, and it must be the alert condition.
+    You can only add one recovery threshold in a query, and it must be the alert condition.
 
-![Screenshoot](/images/n8n-8.jpg)
+    ![Screenshoot](/images/n8n-8.jpg)
 
 6. Click **Set as alert condition** on the query or expression you want to use as your alert condition.
 
-![Screenshoot](/images/n8n-9.jpg)
+    ![Screenshoot](/images/n8n-9.jpg)
 
 #### Step 3: Set Alert Evaluation Behavior
 
@@ -147,37 +147,37 @@ Determine how often the alert rule should be evaluated and how quickly it should
 
 1. Choose a folder or click **+ New folder.**
 
-![Screenshoot](/images/n8n-10.jpg)
+    ![Screenshoot](/images/n8n-10.jpg)
 
-![Screenshoot](/images/n8n-11.jpg)
+    ![Screenshoot](/images/n8n-11.jpg)
 
 2. Select an evaluation group or click **+ New evaluation group.**
 
-If you’re creating a new evaluation group, set the interval for the group.
+    If you’re creating a new evaluation group, set the interval for the group.
 
-All rules within the same group are evaluated together over the same time interval.
+    All rules within the same group are evaluated together over the same time interval.
 
-![Screenshoot](/images/n8n-12.jpg)
+    ![Screenshoot](/images/n8n-12.jpg)
 
-![Screenshoot](/images/n8n-13.jpg)
+    ![Screenshoot](/images/n8n-13.jpg)
 
 3. Set a pending period.
 
-The pending period is how long an alert rule can be in breach of the condition before it triggers.
+    The pending period is how long an alert rule can be in breach of the condition before it triggers.
 
-Once the condition is met, the alert goes into the **Pending** state. If it stays active for the entire pending period, it changes to the **Firing** state; otherwise, it goes back to the **Normal** state.
+    Once the condition is met, the alert goes into the **Pending** state. If it stays active for the entire pending period, it changes to the **Firing** state; otherwise, it goes back to the **Normal** state.
 
-![Screenshoot](/images/n8n-14.jpg)
+    ![Screenshoot](/images/n8n-14.jpg)
 
 4. Turn on pause alert notifications if needed.
 
->**Note:** You can pause alert rule evaluation to avoid noisy alerts while you’re tuning them. Pausing stops evaluation and doesn’t create alert instances. This is different from mute timings, which stop notifications but still allow evaluation and creation of alert instances.
+    >**Note:** You can pause alert rule evaluation to avoid noisy alerts while you’re tuning them. Pausing stops evaluation and doesn’t create alert instances. This is different from mute timings, which stop notifications but still allow evaluation and creation of alert instances.
 
-![Screenshoot](/images/n8n-15.jpg)
+    ![Screenshoot](/images/n8n-15.jpg)
 
 5. In **Configure no data and error handling**, set how you want the alert to behave when there’s no data.
 
-![Screenshoot](/images/n8n-16.jpg)
+    ![Screenshoot](/images/n8n-16.jpg)
 
 #### Step 4: Configure Labels and Notifications
 
@@ -185,13 +185,13 @@ Add labels to organize your alert rules and set up notification policies for you
 
 1. Add labels if needed.
 
-You can select existing key-value pairs from a dropdown or enter new ones.
+    You can select existing key-value pairs from a dropdown or enter new ones.
 
-![Screenshoot](/images/n8n-17.jpg)
+    ![Screenshoot](/images/n8n-17.jpg)
 
 2. Choose how notifications are sent when an alert fires by either selecting a **contact point** or using a **notification policy.**
 
-![Screenshoot](/images/n8n-18.jpg)
+    ![Screenshoot](/images/n8n-18.jpg)
 
 **Select contact point**
 
@@ -248,33 +248,33 @@ Here’s how to add a contact point:
 
 1. In the left-side menu, click on **Alerts & IRM** and then **Alerting.** Click on **Contact Points.**
 
-![Screenshoot](/images/n8n-20.jpg)
+    ![Screenshoot](/images/n8n-20.jpg)
 
 2. From the **Choose Alertmanager** dropdown, pick an Alertmanager. **Grafana Alertmanager** is the default option.
 
-![Screenshoot](/images/n8n-21.jpg)
+    ![Screenshoot](/images/n8n-21.jpg)
 
 3. On the **Contact Points** tab, click **+ Add Contact Point.**
 
-![Screenshoot](/images/n8n-22.jpg)
+    ![Screenshoot](/images/n8n-22.jpg)
 
 4. Enter a name for your contact point.
 
-![Screenshoot](/images/n8n-23.jpg)
+    ![Screenshoot](/images/n8n-23.jpg)
 
 5. From **Integration**, select the type and fill in the required fields. For example, if you choose email, enter the email addresses. Or if you choose Slack, enter the Slack channel and the users you want to contact.
 
-![Screenshoot](/images/n8n-24.jpg)
+    ![Screenshoot](/images/n8n-24.jpg)
 
 6. Some integrations, like email or Webhook, have optional settings. In **Optional Settings**, you can add extra settings for the integration.
 
-![Screenshoot](/images/n8n-25.jpg)
+    ![Screenshoot](/images/n8n-25.jpg)
 
-![Screenshoot](/images/n8n-26.jpg)
+    ![Screenshoot](/images/n8n-26.jpg)
 
 7. In Notification Settings, you can choose to **Disable Resolved Message** if you don’t want to be notified when an alert is resolved.
 
-![Screenshoot](/images/n8n-27.jpg)
+    ![Screenshoot](/images/n8n-27.jpg)
 
 8. If you want to add another contact point integration, click **Add Contact Point Integration** and repeat steps 6 through 8.
 9. Save your changes.
@@ -287,9 +287,9 @@ Here’s how to test a contact point:
 2. Click on **Contact Points** to see your list of contact points.
 3. Find the contact point you want to test, then click **Edit.** You can also create a new contact point if needed.
 4. Click **Test** to open the testing dialog box.
-![Screenshoot](/images/n8n-28.jpg)
+    ![Screenshoot](/images/n8n-28.jpg)
 5. Choose whether to send a predefined test notification or go custom by adding your own annotations and labels.
-![Screenshoot](/images/n8n-29.jpg)
+    ![Screenshoot](/images/n8n-29.jpg)
 6. Click **Send Test Notification** to trigger the alert.
 
 ---
@@ -304,19 +304,19 @@ You can create a nested policy under the default one or under any existing neste
 
 1. Go to the left-side menu and click **Alerts & IRM**, then **Alerting.** Click **Notification policies.**
 
-![Screenshoot](/images/n8n-30.jpg)
+    ![Screenshoot](/images/n8n-30.jpg)
 
 2. Click **+New nested policy** from the default policy.
 
-![Screenshoot](/images/n8n-31.jpg)
+    ![Screenshoot](/images/n8n-31.jpg)
 
 3. In the **Matching labels** section, add one or more rules to match alert labels.
 
-![Screenshoot](/images/n8n-32.jpg)
+    ![Screenshoot](/images/n8n-32.jpg)
 
 4. From the **Contact point** dropdown, choose the contact point to send notifications to if an alert matches this specific policy and not any nested policies.
 
-![Screenshoot](/images/n8n-33.jpg)
+    ![Screenshoot](/images/n8n-33.jpg)
 
 5. [Optional] If you want alerts to keep matching sibling policies after finding a match, enable **Continue matching subsequent sibling nodes.** This option can result in multiple notifications for the same alert.
 

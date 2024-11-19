@@ -47,28 +47,28 @@ Let's get that new app live and kicking in no time. Here's how to create your fi
 
 1. **Login** to your OpenResty Edge dashboard
 
-Head over to the OpenResty Edge dashboard, and log in using your credentials.
+    Head over to the OpenResty Edge dashboard, and log in using your credentials.
 
-![Screenshoot](/images/openresty-1.jpg)
+    ![Screenshoot](/images/openresty-1.jpg)
 
 2. Navigate to the **Applications** section 
 
-Once you're logged in, take a look at the top menu bar and click on **Applications**. This is where the magic begins! Once you're in the applications section, click on the **Create New App** button to start the process of building your app.
+    Once you're logged in, take a look at the top menu bar and click on **Applications**. This is where the magic begins! Once you're in the applications section, click on the **Create New App** button to start the process of building your app.
 
-![Screenshoot](/images/openresty-2.jpg)
+    ![Screenshoot](/images/openresty-2.jpg)
 
 3. Fill Out the application details
 
-You'll need to provide some information to configure your app. Here’s a quick breakdown of each field you’ll encounter:
+    You'll need to provide some information to configure your app. Here’s a quick breakdown of each field you’ll encounter:
 
-| Fields | What to Enter |
-| --- | --- | 
-| **Domains** | Enter your domain name here (e.g., `tomi-example.co.id`). |
-| **HTTP Port** | You can leave this blank for now. |
-| **HTTPS Port** | 	Set to `443` for secure traffic. |
-| **Label** | Give your app a memorable label, like `Create a New Example App`. |
+    | Fields | What to Enter |
+    | --- | --- | 
+    | **Domains** | Enter your domain name here (e.g., `tomi-example.co.id`). |
+    | **HTTP Port** | You can leave this blank for now. |
+    | **HTTPS Port** | 	Set to `443` for secure traffic. |
+    | **Label** | Give your app a memorable label, like `Create a New Example App`. |
 
-![Screenshoot](/images/openresty-3.jpg)
+    ![Screenshoot](/images/openresty-3.jpg)
 
 Once you’ve filled everything out, hit **Save**! Your application is officially created, and you're one step closer to deploying it live.
 
@@ -112,26 +112,26 @@ Redirecting users from HTTP to HTTPS is a great way to improve both security and
 
 2. Set the condition to identify when the rule should trigger:
 
-- In the **When** section, click **Add a new condition**.
-- From the **Variable** dropdown, choose **Scheme**.
-- In the **Operator** dropdown, select **String =**.
-- In the **Value** dropdown, select **http**.
+    - In the **When** section, click **Add a new condition**.
+    - From the **Variable** dropdown, choose **Scheme**.
+    - In the **Operator** dropdown, select **String =**.
+    - In the **Value** dropdown, select **http**.
 
-![Screenshoot](/images/openresty-5.jpg)
+        ![Screenshoot](/images/openresty-5.jpg)
 
 3. Add the Action to redirect traffic:
 
-- Under the **Actions** section, click **Add a new action**.
-- From the Action Types dropdown, **choose Redirect**.
-- Set the following fields:
-    - **URI:** Choose **current**.
-    - **URI arguments**: Choose **current**.
-    - **Scheme:** Set this to **https**.
-    - **Host:** Choose **current**.
-    - **Port:** Set this to **blank value**.
-    - **Status Code:** Choose **302 Moved Temporarily**.
+    - Under the **Actions** section, click **Add a new action**.
+    - From the Action Types dropdown, **choose Redirect**.
+    - Set the following fields:
+        - **URI:** Choose **current**.
+        - **URI arguments**: Choose **current**.
+        - **Scheme:** Set this to **https**.
+        - **Host:** Choose **current**.
+        - **Port:** Set this to **blank value**.
+        - **Status Code:** Choose **302 Moved Temporarily**.
 
-![Screenshoot](/images/openresty-6.jpg)
+            ![Screenshoot](/images/openresty-6.jpg)
 
 This will ensure all users trying to access your site via HTTP will be securely redirected to HTTPS.
 
@@ -143,37 +143,37 @@ If your application relies on specific headers to proxy traffic correctly, you�
 
 2. Set the condition for when this rule should apply:
 
-- In the **When** section, click **Add a new condition**.
-- From the **Variable** dropdown, choose **Host**.
-- In the **Value** field, choose **String**, then type your domain, e.g., `tomi-example.co.id`.
+    - In the **When** section, click **Add a new condition**.
+    - From the **Variable** dropdown, choose **Host**.
+    - In the **Value** field, choose **String**, then type your domain, e.g., `tomi-example.co.id`.
 
-![Screenshoot](/images/openresty-7.jpg)
+        ![Screenshoot](/images/openresty-7.jpg)
 
 3. Set the first action to modify the **Host** header:
 
-- Under the **Actions** section, click **Add a new action**.
-- From the **Action Types** dropdown, choose **Set proxy header**.
-- Set the following fields:
-    - **Header:** Enter **Host**.
-    - **Value:** Choose **String** and enter your domain, e.g., `tomi-example.co.id`.
+    - Under the **Actions** section, click **Add a new action**.
+    - From the **Action Types** dropdown, choose **Set proxy header**.
+    - Set the following fields:
+        - **Header:** Enter **Host**.
+        - **Value:** Choose **String** and enter your domain, e.g., `tomi-example.co.id`.
 
 4. Add a second action to append the **X-Forwarded-For** header:
 
-- Under the **Actions** section, click **Add a new action** again.
-- From the **Action Types** dropdown, choose **Append proxy header value**.
-- Set the following fields:
-    - **Header:** Choose **X-Forwarded-For**.
-    - **Value:** Choose **Built-in Variable** and select **Client address**.
+    - Under the **Actions** section, click **Add a new action** again.
+    - From the **Action Types** dropdown, choose **Append proxy header value**.
+    - Set the following fields:
+        - **Header:** Choose **X-Forwarded-For**.
+        - **Value:** Choose **Built-in Variable** and select **Client address**.
 
-![Screenshoot](/images/openresty-8.jpg)
+            ![Screenshoot](/images/openresty-8.jpg)
 
 5. Configure the **Proxy** settings:
 
-- Scroll down to the **Proxy** section to **On**.
-- Select the appropriate **Proxy to upstream** from the dropdown, e.g., `example-backend`.
-- For **Balancing Policy**, choose **Round Robin**
+    - Scroll down to the **Proxy** section to **On**.
+    - Select the appropriate **Proxy to upstream** from the dropdown, e.g., `example-backend`.
+    - For **Balancing Policy**, choose **Round Robin**
 
-![Screenshoot](/images/openresty-9.jpg)
+        ![Screenshoot](/images/openresty-9.jpg)
 
 This ensures the correct headers are sent to the backend and helps maintain a smooth user experience.
 
@@ -212,22 +212,22 @@ Now, let’s make sure your app knows where to send requests by configuring an u
 
 2. Add a **New Upstream** and fill out the details:
 
-| Fields | What to Enter |
-| --- | --- | 
-| **Upstream Name** | Enter a name for your upstream, like `example-backend`. |
-| **Protocol** | Choose `HTTPS`. |
-| **Host** | Enter the domain or IP address of your backend server (e.g., `tomi-backend.int`). |
-| **Port** | Set this to `443`. |
-| **Weight** | Set it to `1`. |
-| **Enabled** | Switch this `On`. |
+    | Fields | What to Enter |
+    | --- | --- | 
+    | **Upstream Name** | Enter a name for your upstream, like `example-backend`. |
+    | **Protocol** | Choose `HTTPS`. |
+    | **Host** | Enter the domain or IP address of your backend server (e.g., `tomi-backend.int`). |
+    | **Port** | Set this to `443`. |
+    | **Weight** | Set it to `1`. |
+    | **Enabled** | Switch this `On`. |
 
-![Screenshoot](/images/openresty-12.jpg)
+    ![Screenshoot](/images/openresty-12.jpg)
 
-![Screenshoot](/images/openresty-13.jpg)
+    ![Screenshoot](/images/openresty-13.jpg)
 
 3. After everything is set, click **Save**!
 
-![Screenshoot](/images/openresty-14.jpg)
+    ![Screenshoot](/images/openresty-14.jpg)
 
 ## Configuring SSL
 
