@@ -20,6 +20,21 @@
     <loc>http://localhost:1313/categories/cybersecurity/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/google-cloud-platform/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/google-cloud-platform/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gophish/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gophish/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,18 +91,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/google-cloud-platform/</loc>
-    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/google-cloud-platform/</loc>
-    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gophish/</loc>
-    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/gophish/</loc>
-    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/installing-gophish-on-gcp/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>

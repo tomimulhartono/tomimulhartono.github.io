@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/google-cloud-platform/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying T-Pot Honeypot on Google Cloud Platform (GCP)</title>
+      <link>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</guid>
+      <description>If you&amp;rsquo;re looking to explore security and dive into honeypot analysis, T-Pot is a fantastic tool that consolidates multiple honeypots into one robust platform. Today, I’ll guide you step-by-step through deploying T-Pot on Google Cloud Platform (GCP). By the end, you’ll have a fully operational T-Pot honeypot ready to capture and visualize attack data.
+What is T-Pot? T-Pot, developed by T-Mobile, is an all-in-one honeypot platform supporting over 20 honeypots. It includes features like animated attack maps, visualization through Elastic Stack, and a suite of tools for enhanced threat analysis.</description>
+    </item>
     <item>
       <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>
       <link>http://localhost:1313/posts/installing-gophish-on-gcp/</link>

@@ -28,6 +28,20 @@
       <description></description>
     </item>
     <item>
+      <title>Google Cloud Platform</title>
+      <link>http://localhost:1313/tags/google-cloud-platform/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/google-cloud-platform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gophish</title>
+      <link>http://localhost:1313/tags/gophish/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gophish/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>OpenResty</title>
       <link>http://localhost:1313/tags/openresty/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
@@ -74,20 +88,6 @@
       <link>http://localhost:1313/tags/soar/</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/soar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Google Cloud Platform</title>
-      <link>http://localhost:1313/tags/google-cloud-platform/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/google-cloud-platform/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gophish</title>
-      <link>http://localhost:1313/tags/gophish/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gophish/</guid>
       <description></description>
     </item>
     <item>

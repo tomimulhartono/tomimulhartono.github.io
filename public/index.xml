@@ -22,6 +22,14 @@
 Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
     </item>
     <item>
+      <title>Watch Cyber Attacks Unfold: Set Up T-Pot Honeypot on Google Cloud Platform</title>
+      <link>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</guid>
+      <description>If you&amp;rsquo;re looking to explore security and dive into honeypot analysis, T-Pot is a fantastic tool that consolidates multiple honeypots into one robust platform. Today, I’ll guide you step-by-step through deploying T-Pot on Google Cloud Platform (GCP). By the end, you’ll have a fully operational T-Pot honeypot ready to capture and visualize attack data.
+What is T-Pot? T-Pot, developed by T-Mobile, is an all-in-one honeypot platform supporting over 20 honeypots. It includes features like animated attack maps, visualization through Elastic Stack, and a suite of tools for enhanced threat analysis.</description>
+    </item>
+    <item>
       <title>Getting Started with Your New Application on OpenResty Edge: An Easy-to-Follow Tutorial</title>
       <link>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>

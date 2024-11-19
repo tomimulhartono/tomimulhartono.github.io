@@ -18,45 +18,43 @@
       <link>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cek-dan-validasi-data-jkn/</guid>
-      <description>As a Full Stack Developer at PT Motiolabs Digital Indonesia, I had the exciting opportunity to dive into a game-changing project: CEKATAN. This web application, crafted entirely by yours truly using CodeIgniter 3 and MySQL, was developed from November to December 2023.
-So, what’s CEKATAN all about?
-CEKATAN is designed to verify and validate BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency. With this app, we ensure that JKN participant data is spot on, making the JKN program management smoother and more efficient.</description>
+      <description>Ever wondered how tech can transform data verification? Enter CEKATAN—a web application I had the privilege to bring to life. Built with CodeIgniter 3 and MySQL over a whirlwind couple of months (November–December 2023), CEKATAN is here to tackle the complexities of BPJS (Badan Penyelenggara Jaminan Sosial) participant data in Bojonegoro Regency.
+Let’s dive into what makes CEKATAN a game-changer.
+What’s CEKATAN All About? CEKATAN (short for Cek dan Validasi Data JKN Kabupaten Bojonegoro) is your go-to solution for verifying and validating JKN participant data with ease and precision.</description>
     </item>
     <item>
       <title>Next-Gen Stakeholder Solutions: How SIMONA BIDUAN Redefines Complaint Management</title>
       <link>http://localhost:1313/posts/simona-biduan/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/simona-biduan/</guid>
-      <description>At PT Motiolabs Digital Indonesia, I had the exciting opportunity to develop a cutting-edge web application: Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders (SIMONA BIDUAN). This project was designed to tackle the challenges of managing stakeholder complaints for the Ministry of Law and Human Rights of the Republic of Indonesia (Kemenkumham RI).
-What Was the Problem? Kemenkumham RI faced several issues in managing stakeholder complaints:
-No Central Hub: Complaints were managed through disjointed systems, making tracking and management challenging.</description>
+      <description>Imagine dealing with a flood of complaints every day without a clear system to organize, track, or resolve them. That was the challenge for Kemenkumham RI (Ministry of Law and Human Rights, Indonesia). Complaints were piling up in scattered systems, manual processes slowed things down, and stakeholders had no clue about the status of their issues.
+That’s where SIMONA BIDUAN (short for Sistem Monitoring Pelayanan Bidang Informasi dan Pengaduan Stakeholders) comes in—a web application I had the opportunity to create from scratch between September and November 2023.</description>
     </item>
     <item>
       <title>Ordera: Your Ultimate Destination for Seamless Food and Beverage Delivery in Indonesia</title>
       <link>http://localhost:1313/posts/ordera/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ordera/</guid>
-      <description>Have you ever craved a warm plate of fried rice on a cold night but felt too lazy to leave the house? Or wanted to try out new dishes from your favorite restaurant without having to wait in line?
-Ordera is here to meet your needs!
-Why You’ll Love Ordera Ordera is a rising food and beverage delivery application in Indonesia. This app offers several advantages that make it a must-try:</description>
+      <description>Ever had those cozy nights where all you want is a warm plate of fried rice, but leaving the house feels like a mission? Or maybe you&amp;rsquo;re dreaming of trying new dishes from your favorite restaurants—minus the wait.
+Say hello to Ordera!
+Ordera is Indonesia&amp;rsquo;s rising star in food and beverage delivery, here to make your dining experience effortless and exciting.
+Why You’ll Love Ordera Ordera is a rising food and beverage delivery application in Indonesia.</description>
     </item>
     <item>
       <title>Crafting the PELANGI App: Advancing Towards a Smarter Ngasem</title>
       <link>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/pelayanan-ngasem-terintegrasi/</guid>
-      <description>PELANGI (short for Pelayanan Ngasem Terintegrasi) is here to make life in Ngasem easier and more connected. Launched in 2023, this app is all about streamlining access and offering smart solutions for the community.
-&amp;ldquo;PELANGI is crafted to improve the quality of life for Ngasem residents and boost the connection between the government and its people using the latest in digital tech.&amp;rdquo;
-Check Out PELANGI&amp;rsquo;s Cool Features Feature Description Administrative Registration Easily register for essential documents like KTP, KK, and more right from the app.</description>
+      <description>Say hello to PELANGI (short for Pelayanan Ngasem Terintegrasi)—a game-changing app that’s here to make living in Ngasem easier, faster, and more connected. Launched in 2023, PELANGI is all about simplifying access to essential services and building stronger connections between the community and local government.
+“PELANGI is designed to enhance everyday life for Ngasem residents while creating a transparent and seamless bridge between the people and their government—all powered by cutting-edge digital tech.</description>
     </item>
     <item>
       <title>Database Administration Fundamentals: Key to Unlocking Opportunities in Data</title>
       <link>http://localhost:1313/posts/database-administration-fundamentals/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/database-administration-fundamentals/</guid>
-      <description>On December 11, 2020, I took a significant step in my tech journey by passing the Microsoft Technology Associate (MTA) certification exam for Database Administration Fundamentals. This achievement marked the start of my quest to become a skilled database administrator.
-What is Database Administration Fundamentals? Database Administration Fundamentals is an MTA certification designed to validate basic knowledge and skills in database administration. This certification covers various topics, including:
-Topic Description Basic database concepts Understanding database structure and terminology Database creation and management Creating, managing, and maintaining databases Database security Implementing security measures to protect databases Troubleshooting and problem-solving Identifying and resolving database issues Why Did I Pursue This Certification?</description>
+      <description>On December 11, 2020, I took an important step in my tech career by passing the Microsoft Technology Associate (MTA) certification exam for Database Administration Fundamentals. This milestone marked the beginning of my journey toward becoming a skilled database administrator, and I couldn&amp;rsquo;t be more excited to share what I learned along the way.
+What is Database Administration Fundamentals? The MTA Database Administration Fundamentals certification is designed to test your basic knowledge and skills in database management.</description>
     </item>
   </channel>
 </rss>
