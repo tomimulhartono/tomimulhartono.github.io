@@ -37,31 +37,44 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+If you're looking for a simple, powerful, and free tool to simulate phishing attacks and train your team on cybersecurity, then **Gophish** is your go-to solution! This open-source phishing framework allows you to easily manage phishing campaigns, helping to improve security awareness without breaking the bank.
+
+---
+
 ## What is Gophish?
 
 Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible. Think of it as your go-to tool for simulating real-world phishing attacks. The best part? It's free and easy to use!
 
->- **Affordable:** Gophish is open-source software, which means you don't have to pay a cent to use it.
->- **Accessible:** Written in the Go programming language, Gophish releases are compiled binaries with no dependencies. This means installation is as easy as "download and run."
+>- **Free and Open-Source:** No hidden fees – it's entirely free to use!
+>- **Easy Installation:** Gophish is written in Go and comes as a compiled binary, which means you can simply download and run it. No dependencies, no hassle.
+>- **Great for Security Awareness:** Perfect for small businesses and teams looking to test and enhance their cybersecurity defenses.
 
 ---
 
-## Deploying Gophish on GCP
+## Deploying Gophish on Google Cloud Platform (GCP)
 
-Alright, let's dive into how you can get Gophish up and running on Google Cloud Platform (GCP).
+Ready to get started? Here’s how you can deploy Gophish on Google Cloud Platform (GCP) in just a few easy steps.
 
 ### Step 1: Create a Google Compute Engine Instance
 
-First things first, we need a virtual machine (VM) on Google Cloud Platform. Go to your GCP console and create a new Google Compute Engine instance. Choose the "**N1**" machine type and stick with the default settings.
+First, you’ll need a virtual machine (VM) on GCP. Follow these steps:
 
-![Gophish](/images/gophish-1.jpg)
+1. Log into your **[GCP Console.](https://console.cloud.google.com/)**
+2. Create a new Google Compute Engine instance.
+3. Choose the **N1 machine type** and leave the rest of the settings as default.
 
-![Gophish](/images/gophish-2.jpg)
+    ![Gophish](/images/gophish-1.jpg)
 
+    ![Gophish](/images/gophish-2.jpg)
+
+That’s it! You’ve got your VM set up and ready to go.
+
+---
 
 ### Step 2: SSH into Your VM
 
-Once your VM is set up, you'll need to connect to it. Use the SSH feature in the GCP console to access your VM, and then run these commands:
+Now, it’s time to connect to your VM using SSH. From the GCP console, click on **SSH** to get terminal access. Once you're in, run the following commands:
+
 
 {{< highlight bash >}}
 
@@ -76,59 +89,41 @@ tomi_mulhartono@test-gophish:~$ rm ../gophish-v0.11.0-linux-64bit.zip
 
 {{< /highlight >}}
 
-Here's a quick breakdown of what these commands do:
+Explanation:
 
-1. We create a new user called "gophish" and switch to that user.
-2. We download the Gophish zip file from GitHub using ``curl``.
-3. We create a directory for Gophish and unzip the downloaded file into it.
-
-
-### Step 3: Exploring the Extracted Files
-
-Once the zip file is extracted, you'll find several files, but the most important one is ``config.json``.
-
-![Gophish](/images/gophish-3.jpg)
-
-**Configuring config.json**
-
-The ``config.json`` file contains settings for two servers:
-
-- **admin_server:** This server hosts the admin console where you can create and manage phishing campaigns. By default, it runs on "**127.0.0.1:3333**", but we'll change this to "**0.0.0.0:3333**" so it can be accessed from anywhere.
-- **phish_server:** This server hosts the phishing landing pages. By default, it runs on "**0.0.0.0:80**", but we'll change this to "**0.0.0.0:5555**" to avoid issues with privileged ports.
-
-![Gophish](/images/gophish-4.jpg)
-
-### Step 4: Adding Firewall Rules in GCP
-
-Next, we need to create firewall rules to allow traffic to our Gophish instance on ports 3333 and 5555.
-
-**Step-by-Step Firewall Configuration**
-
-> 1. Go to **[Google Cloud Console.](https://console.cloud.google.com/)**
-> 2. From the left navigation menu, select **VPC Network** and then **Firewall rules.**
-> 3. Click the **Create Firewall Rule** button.
-> 4. Configure the Firewall Rule.
-> 5. Click **Create** to save the firewall rule.
-
-**Example Configuration:**
-
-| Parameter | Details |
-| --- | --- |
-| Name | Give the firewall rule a name, like "**allow-gophish-ports**". |
-| Network | Select the appropriate network, usually "**default**". |
-| Priority | Leave default or set a priority as needed. |
-| Direction of Traffic | Select **Ingress**. |
-| Action on Match | Select **Allow**. |
-| Targets | Choose **All instances in the network** or restrict to specific VMs using tags. |
-| Source IP Ranges | Enter "**0.0.0.0/0**" to allow access from all IP addresses, or restrict to specific IP ranges if needed. |
-| Protocols and Ports | Select **Specified protocols and ports** and enter "**tcp:3333,5555**"". |
-
-![Gophish](/images/gophish-5.jpg)
+- We created a user called **"gophish"** to keep things organized.
+- Downloaded the latest **Gophish zip file** from GitHub.
+- Unzipped the file and cleaned up the download.
 
 ---
 
-## Starting the Gophish Service
-Now that everything is set up, we can start the Gophish service. Run the following command in your SSH session:
+### Step 3: Configuring Gophish
+Once Gophish is unzipped, you’ll find a file called **config.json**. This is where we configure the important settings for your phishing campaigns.
+
+- **admin_server:** This is the server for the admin console. Change the address from `127.0.0.1:3333` to `0.0.0.0:3333` so it’s accessible externally.
+- **phish_server:** This is where the phishing landing pages live. Change the address from `0.0.0.0:80` to `0.0.0.0:5555` to avoid using privileged ports.
+
+    ![Gophish](/images/gophish-3.jpg)
+
+    ![Gophish](/images/gophish-4.jpg)
+
+---
+
+### Step 4: Set Up Firewall Rules in GCP
+
+To make sure your Gophish instance is accessible, you need to add firewall rules. Here’s how:
+
+1. Go to the **[GCP Console.](https://console.cloud.google.com/)**
+2. From the left menu, select **VPC Network** and then **Firewall rules**.
+3. Click **Create Firewall Rule**.
+4. Create a new rule that allow traffic on ports **3333** and **5555**.
+
+    ![Gophish](/images/gophish-5.jpg)
+
+---
+
+### Step 5: Start Gophish
+You’re almost there! To start Gophish, run this command:
 
 {{< highlight bash >}}
 
@@ -138,34 +133,33 @@ tomi_mulhartono@test-gophish:~/gophish-v0.11.0$ sudo ./gophish
 
 ![Gophish](/images/gophish-6.jpg)
 
-### Accessing Gophish
-To access the Gophish admin console, open your web browser and navigate to "**https://<YOUR_VM_IP>:3333**". You'll see the Gophish login screen:
+---
+
+### Step 6: Access the Admin Console
+
+Now, you can access the Gophish admin console by navigating to: `https://<YOUR_VM_IP>:3333`. 
 
 ![Gophish](/images/gophish-7.jpg)
 
-### Logging In
-When you start Gophish, it will display the default login credentials in the terminal. Use these credentials to log in.
+Log in using the credentials provided in your SSH terminal when you started Gophish. You’ll be asked to change the default password on your first login for added security.
 
-> **Note:** Gophish takes security seriously. The default password is unique for each deployment, and you'll be prompted to change it immediately after your first login.
+---
 
-### The Gophish Admin Console
-Once you're logged in, you'll be greeted by the Gophish dashboard. Here's a quick rundown of the main sections:
+## What’s Inside?
 
-- **Dashboard:** Provides an overview of your campaigns and their performance.
-- **Campaigns:** Create and manage phishing campaigns tailored to different teams or purposes.
-- **Users and Groups:** Add user emails and group them. You can also import emails from a CSV file.
-- **Email Templates:** Design and manage phishing email templates.
-- **Landing Pages:** Set up landing pages and track user interactions.
-- **Sending Profiles:** Configure sender details for your phishing emails.
+Once you’re logged in, the Gophish dashboard will show you a clean overview of your phishing campaigns. Here's what you'll find:
+- **Dashboard:** See stats and performance of all your campaigns.
+- **Campaigns:** Create new phishing campaigns targeting different teams or departments.
+- **Users and Groups:** Add and organize users by email, and import them from CSV files.
+- **Email Templates:** Design and manage email templates for your phishing campaigns.
+- **Landing Pages:** Build and track the landing pages where your targets will land.
+- **Sending Profiles:** Configure the sender details for your phishing emails.
 
-Here's a sneak peek at the Gophish admin console:
-
-![Gophish](/images/gophish-8.jpg)
+    ![Gophish](/images/gophish-8.jpg)
 
 ---
 
 ## Conclusion
-And that's it! You've successfully set up Gophish on Google Cloud Platform. With Gophish, you can easily create and manage phishing campaigns to train your team and improve your organization's security awareness.
+That's it! You’ve successfully set up Gophish on Google Cloud Platform. With Gophish, you can easily create phishing campaigns to simulate real-world attacks and enhance your team's cybersecurity awareness.
 
-Gophish is a fantastic option for small businesses with tight budgets, offering powerful features without the hefty price tag of other solutions. Plus, it's super easy to use!
-
+Get started with Gophish today, and begin testing and strengthening your organization’s defenses against phishing!
