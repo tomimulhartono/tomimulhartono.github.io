@@ -75,8 +75,8 @@ In this guide, I&amp;rsquo;ll walk you through the thrilling journey of taking d
       <link>http://localhost:1313/posts/malware-analysis-protergo/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/malware-analysis-protergo/</guid>
-      <description>During my technical interview at Protergo, I had the opportunity to showcase my skills in malware analysis. This blog post will take you through the exciting journey of dissecting a suspicious file using Cuckoo Sandbox, a powerful tool for both static and dynamic analysis.
-Step-by-Step Malware Analysis with Cuckoo Sandbox Step 1: Unpacking the Suspect After downloading the sample file, I unzipped it to reveal its contents. This initial step allows us to see what&amp;rsquo;s lurking inside the archive.</description>
+      <description>If you’re interested in malware analysis, using Cuckoo Sandbox is an exciting and safe way to dissect potentially malicious files. During my technical interview at Protergo, I had the opportunity to showcase my skills by analyzing a suspicious file. In this blog post, I’ll walk you through the process I followed using Cuckoo Sandbox, a powerful tool for both static and dynamic analysis.
+What is Cuckoo Sandbox? Cuckoo Sandbox is an open-source automated malware analysis system that allows you to analyze malware in an isolated environment.</description>
     </item>
   </channel>
 </rss>
