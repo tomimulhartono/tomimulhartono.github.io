@@ -37,230 +37,220 @@ cover:
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-Welcome aboard! If you’re gearing up to launch a new application on OpenResty Edge, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
+Welcome aboard! If you’re gearing up to launch a new application on **OpenResty Edge**, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
 
 ---
 
-## Creating Your New Application
+## What is OpenResty Edge?
 
-Let's get that new app live and kicking in no time. Here's how to create your first application on OpenResty Edge.
-
-1. **Login** to your OpenResty Edge dashboard
-
-    Head over to the OpenResty Edge dashboard, and log in using your credentials.
-
-    ![Screenshoot](/images/openresty-1.jpg)
-
-2. Navigate to the **Applications** section 
-
-    Once you're logged in, take a look at the top menu bar and click on **Applications**. This is where the magic begins! Once you're in the applications section, click on the **Create New App** button to start the process of building your app.
-
-    ![Screenshoot](/images/openresty-2.jpg)
-
-3. Fill Out the application details
-
-    You'll need to provide some information to configure your app. Here’s a quick breakdown of each field you’ll encounter:
-
-    | Fields | What to Enter |
-    | --- | --- | 
-    | **Domains** | Enter your domain name here (e.g., `tomi-example.co.id`). |
-    | **HTTP Port** | You can leave this blank for now. |
-    | **HTTPS Port** | 	Set to `443` for secure traffic. |
-    | **Label** | Give your app a memorable label, like `Create a New Example App`. |
-
-    ![Screenshoot](/images/openresty-3.jpg)
-
-Once you’ve filled everything out, hit **Save**! Your application is officially created, and you're one step closer to deploying it live.
+OpenResty Edge is a powerful platform designed to manage and deliver your applications at the edge, optimizing performance, scalability, and security. It allows you to deploy and configure applications in a fast, flexible, and efficient way, using advanced features like traffic routing, custom rules, and SSL management. With OpenResty Edge, you can easily manage traffic, enhance security, and ensure smooth user experiences for your applications at scale.
 
 ---
 
-## Configuring Page Rules
+## Let's Get Started!
 
-Next up, let's make sure everything runs smoothly by configuring **Page Rules**. This allows you to set conditions and actions for traffic coming to your application.
+### Step 1: Creating Your New Application
 
-### Custom Edge Language Rules at the Beginning of This Page
+Let’s get that new app live and kicking! Here’s how to create your first application on OpenResty Edge.
 
-Before diving into predefined rules, let’s look at how you can add custom rules using OpenResty's Edge Language. For example, if you want to block requests from specific IPs and log alerts, you can use the following:
+1. **Login to Your OpenResty Edge Dashboard**
 
-{{< highlight bash >}}
+    - Head over to the OpenResty Edge dashboard and log in using your credentials.
+    
+        ![Screenshoot](/images/openresty-1.jpg)
 
-client-addr !~~ any (192.168.100.1) =>
-    errlog(level: "alert", "SEC-00- Unauthorized IP!", foreign-call(module: "headers-log", func: "go") ~ req-body()),
-    exit(444);
+2. **Navigate to the Applications Section**
 
-{{< /highlight >}}
+    - Once you’re logged in, click on **Applications** from the top menu.
+    - Inside the **Applications** section, click on the **Create New App** button to start the process.
 
-![Screenshoot](/images/openresty-4.jpg)
+        ![Screenshoot](/images/openresty-2.jpg)
 
-This rule does two things:
-- Blocks traffic from the IP `192.168.100.1`.
-- Logs an alert with the message "**Unauthorized IP!**".
+3. **Fill Out the Application Details**
 
-Feel free to tweak these rules to fit your specific needs. After adding them, hit **Save** to apply.
+    - Here’s a breakdown of the fields you’ll encounter:
+        - **Domains**: Enter your domain name here (e.g., `tomi-example.co.id`).
+        - **HTTP Port**: You can leave this blank for now.
+        - **HTTPS Port**: Set to `443` for secure traffic.
+        - **Label**: Give your app a memorable label, like `Create a New Example App`.
 
-### Create New Rules
+        ![Screenshoot](/images/openresty-3.jpg)
 
-Let’s move on to setting up some common rules you'll probably need, starting with redirecting traffic from HTTP to HTTPS.
+    - Once you’ve filled everything out, click **Save!**
 
-![Screenshoot](/images/openresty-10.jpg)
+---
 
-#### Redirect HTTP to HTTPS
+### Step 2: Configuring Page Rules
 
-Redirecting users from HTTP to HTTPS is a great way to improve both security and user experience. Here’s how you can set that up:
+Now, let’s configure some important rules to control how traffic behaves for your application.
 
-1. Click on **New Rule** in the Page Rules section.
+1. **Custom Edge Language Rules at the Beginning of This Page**
 
-2. Set the condition to identify when the rule should trigger:
+    - To block specific IPs and log alerts, use the following rule:
 
-    - In the **When** section, click **Add a new condition**.
-    - From the **Variable** dropdown, choose **Scheme**.
-    - In the **Operator** dropdown, select **String =**.
-    - In the **Value** dropdown, select **http**.
+        {{< highlight bash >}}
+
+        client-addr !~~ any (192.168.100.1) =>
+            errlog(level: "alert", "SEC-00- Unauthorized IP!", foreign-call(module: "headers-log", func: "go") ~ req-body()),
+            exit(444);
+
+        {{< /highlight >}}
+
+        ![Screenshoot](/images/openresty-4.jpg)
+
+    - This rule does two things:
+        - Blocks traffic from the IP `192.168.100.1`.
+        - Logs an alert with the message "Unauthorized IP!".
+
+    - After adding your custom rules, click **Save**.
+
+2. **Create New Rules**
+
+    Let’s move on to setting up some common rules you'll probably need.
+
+    ![Screenshoot](/images/openresty-10.jpg)
+
+    **Redirect HTTP to HTTPS**
+
+    To enhance security, redirect all HTTP traffic to HTTPS:
+
+    - Click **New Rule** in the Page Rules section.
+    
+    - Set up the condition:
+        - **When** → Add a new condition:
+        - **Variable** → **Scheme**
+        - **Operator** → **String =**
+        - **Value** → **http**
 
         ![Screenshoot](/images/openresty-5.jpg)
 
-3. Add the Action to redirect traffic:
-
-    - Under the **Actions** section, click **Add a new action**.
-    - From the Action Types dropdown, **choose Redirect**.
-    - Set the following fields:
-        - **URI:** Choose **current**.
-        - **URI arguments**: Choose **current**.
-        - **Scheme:** Set this to **https**.
-        - **Host:** Choose **current**.
-        - **Port:** Set this to **blank value**.
-        - **Status Code:** Choose **302 Moved Temporarily**.
+    - Add the action:
+        - **Action Type** → **Redirect**
+        - Set the following fields:
+        - **URI** → Choose **current**.
+        - **Scheme** → Set this to **https**.
+        - **Status** Code → Set to **302 Moved Temporarily**.
 
             ![Screenshoot](/images/openresty-6.jpg)
 
-This will ensure all users trying to access your site via HTTP will be securely redirected to HTTPS.
 
-#### Set Proxy Header
+    - This will ensure all users trying to access your site via HTTP will be securely redirected to HTTPS.
 
-If your application relies on specific headers to proxy traffic correctly, you’ll want to configure that as well. Let’s set up a rule to ensure the correct host header is passed along:
+    **Set Proxy Header**
 
-1. Click on **New Rule** in the Page Rules section.
+    If you need specific headers to be passed to the backend server:
 
-2. Set the condition for when this rule should apply:
+    - Click **New Rule** again.
+    - In the **When** section, add a new condition for **Host**:
+        - **Variable** → **Host**
+        - **Value** → Your domain (e.g., `tomi-example.co.id`).
 
-    - In the **When** section, click **Add a new condition**.
-    - From the **Variable** dropdown, choose **Host**.
-    - In the **Value** field, choose **String**, then type your domain, e.g., `tomi-example.co.id`.
+            ![Screenshoot](/images/openresty-7.jpg)
 
-        ![Screenshoot](/images/openresty-7.jpg)
-
-3. Set the first action to modify the **Host** header:
-
-    - Under the **Actions** section, click **Add a new action**.
-    - From the **Action Types** dropdown, choose **Set proxy header**.
-    - Set the following fields:
-        - **Header:** Enter **Host**.
-        - **Value:** Choose **String** and enter your domain, e.g., `tomi-example.co.id`.
-
-4. Add a second action to append the **X-Forwarded-For** header:
-
-    - Under the **Actions** section, click **Add a new action** again.
-    - From the **Action Types** dropdown, choose **Append proxy header value**.
-    - Set the following fields:
-        - **Header:** Choose **X-Forwarded-For**.
-        - **Value:** Choose **Built-in Variable** and select **Client address**.
+    - Add the following actions:
+        - **Set Proxy Header**: Set the **Host** header with your domain name.
+        - **Append Proxy Header**: Append the **X-Forwarded-For** header with the client address.
 
             ![Screenshoot](/images/openresty-8.jpg)
 
-5. Configure the **Proxy** settings:
-
-    - Scroll down to the **Proxy** section to **On**.
-    - Select the appropriate **Proxy to upstream** from the dropdown, e.g., `example-backend`.
-    - For **Balancing Policy**, choose **Round Robin**
+    - Under **Proxy** settings, turn **Proxy** On and select the upstream server you created earlier.
 
         ![Screenshoot](/images/openresty-9.jpg)
 
-This ensures the correct headers are sent to the backend and helps maintain a smooth user experience.
+    **Custom Edge Language Rules at the End of This Page**
+    
+    - Wanna speed up your site? Caching static files like JavaScript, CSS, and images is a great way to do that. Here's the rule you need to add:
 
-### Add Custom Edge Language Rules at the End of This Page
 
-To improve site performance, caching static assets like JavaScript and CSS is a great practice. Here’s how you can set up cache rules:
+        {{< highlight bash >}}
 
-{{< highlight bash >}}
+        uri-suffix(
+        rx:s/\.(?:js|css|xml).{0,3}$/),
+        req-method("GET")=>
+            enable-proxy-cache(key: uri),
+            enforce-proxy-cache(7 [day]),
+            set-resp-header("Cache-Control", "public, max-age=604800, immutable");
+        uri-suffix(
+        rx:s/\.(?:gif|png|js|css|html|jpg|wof|svg|woff2|ttf|otf|eot|ico).{0,5}$/),
+        req-method("GET")=>
+            enable-proxy-cache(key: uri),
+            enforce-proxy-cache(365 [day]),
+            set-resp-header("Cache-Control", "public, max-age=3153600, immutable");
 
-uri-suffix(
-rx:s/\.(?:js|css|xml).{0,3}$/),
-req-method("GET")=>
-    enable-proxy-cache(key: uri),
-    enforce-proxy-cache(7 [day]),
-    set-resp-header("Cache-Control", "public, max-age=604800, immutable");
-uri-suffix(
-rx:s/\.(?:gif|png|js|css|html|jpg|wof|svg|woff2|ttf|otf|eot|ico).{0,5}$/),
-req-method("GET")=>
-    enable-proxy-cache(key: uri),
-    enforce-proxy-cache(365 [day]),
-    set-resp-header("Cache-Control", "public, max-age=3153600, immutable");
+        {{< /highlight >}}
 
-{{< /highlight >}}
+        ![Screenshoot](/images/openresty-11.jpg)
 
-![Screenshoot](/images/openresty-11.jpg)
+    - Here's the breakdown:
+        - JavaScript and CSS files: Cached for 7 days.
+        - Other files like images: Cached for 365 days.
+        - Cache-Control Header: Tells browsers to keep these files for the specified period, which helps make repeat visits faster.
+        - Save the Cache Rules
 
-This speeds up load times by storing frequently requested assets for a longer period.
-
----
-
-## Configuring Upstreams
-
-Now, let’s make sure your app knows where to send requests by configuring an upstream server (where your app's backend lives).  
-
-1. Click on **Upstreams** from your dashboard menu.
-
-2. Add a **New Upstream** and fill out the details:
-
-    | Fields | What to Enter |
-    | --- | --- | 
-    | **Upstream Name** | Enter a name for your upstream, like `example-backend`. |
-    | **Protocol** | Choose `HTTPS`. |
-    | **Host** | Enter the domain or IP address of your backend server (e.g., `tomi-backend.int`). |
-    | **Port** | Set this to `443`. |
-    | **Weight** | Set it to `1`. |
-    | **Enabled** | Switch this `On`. |
-
-    ![Screenshoot](/images/openresty-12.jpg)
-
-    ![Screenshoot](/images/openresty-13.jpg)
-
-3. After everything is set, click **Save**!
-
-    ![Screenshoot](/images/openresty-14.jpg)
-
-## Configuring SSL
-
-Setting up SSL is key to securing your users' data. You'll need to work with your DevOps team to get your SSL certificates in place, but here's how you can set things up in the OpenResty Edge dashboard.
-
-### Manage SSL Certificates
-
-In the **SSL** menu, you'll see a table to manage certificates. Here’s what you’ll typically need:
-
-- Your SSL certificate (provided by a Certificate Authority).
-- The private key associated with the certificate.
-- Your domain, pointing to the correct gateway cluster.
-
-Make sure all of these details are in order before proceeding.
-
-![Screenshoot](/images/openresty-15.jpg)
-
-![Screenshoot](/images/openresty-16.jpg)
-
-![Screenshoot](/images/openresty-17.jpg)
-
-### Check Gateway Clusters
-
-Lastly, double-check the **Gateway Clusters** tab. Ensure the IP addresses listed here match the setup for your domain to avoid any connection issues.
-
-![Screenshoot](/images/openresty-18.jpg)
+    - Once you’ve added these caching rules, be sure to click **Save** to lock it in place.
 
 ---
 
-You're almost done! Once you're satisfied with all the configurations, click the **Release** button. This will push your changes live, and your app will officially be up and running!
+### Step 3: Configuring Upstreams
+
+Next, let’s set up the backend server where your app will forward requests.
+
+1. **Go to the Upstreams Menu**
+    - Click on **Upstreams** from your dashboard.
+
+2. **Add a New Upstream**
+    - Enter the following details:
+        - **Upstream Name**: e.g., `example-backend`.
+        - **Protocol**: Select **HTTPS**.
+        - **Host**: Enter your backend server domain or IP (e.g., `tomi-backend.int`).
+        - **Port**: Set to **443**.
+        - **Weight**: Set to **1**.
+        - **Enabled**: Switch this **On**.
+
+            ![Screenshoot](/images/openresty-12.jpg)
+
+            ![Screenshoot](/images/openresty-13.jpg)
+
+3. **Save the Upstream**
+
+    - Click **Save** to apply the settings.
+
+    <!-- ![Screenshoot](/images/openresty-14.jpg) -->
+
+### Step 4: Configuring SSL
+
+It’s time to secure your app with SSL! Here’s how to configure SSL certificates:
+
+1. **Manage SSL Certificates**
+
+    - In the **SSL** menu, you'll see a table to manage certificates. Make sure all of these details are in order before proceeding:
+
+        ![Screenshoot](/images/openresty-15.jpg)
+
+        ![Screenshoot](/images/openresty-16.jpg)
+
+        ![Screenshoot](/images/openresty-17.jpg)
+
+2. **Check Gateway Clusters**
+
+    - Double-check that the IP addresses in the Gateway Clusters tab match your domain's setup to avoid connection issues.
+
+        ![Screenshoot](/images/openresty-18.jpg)
+
+---
+
+### Step 5: Go Live!
+
+Once all configurations are in place, hit the **Release** button to make your application live.
+
 
 ![Screenshoot](/images/openresty-19.jpg)
 
-And there you have it! Your new application is now up and running, with all the necessary rules and configurations in place. If you have any questions or run into any issues, don’t hesitate to reach out. Here’s to smooth sailing and successful deployments!
+That’s it! Your app is now fully configured and live on OpenResty Edge. If you need help or have questions, feel free to reach out. Enjoy your new app setup!
 
-Feel free to revisit this guide anytime you need a refresher or have new tweaks to make. Happy configuring!
+---
+
+## Conclusion
+And that's a wrap! You've successfully created your application, set up page rules, caching, and all the necessary configurations to get your app up and running on OpenResty Edge. With these steps in place, your app will be secure, fast, and ready for the world to see.
+
+If you ever need to tweak or update things, just refer back to this guide. Happy deploying, and enjoy your smooth sailing with OpenResty Edge!
