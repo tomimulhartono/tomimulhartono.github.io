@@ -50,8 +50,8 @@ Setting Up Grafana Alerts First up, let’s get your Grafana alerts configured s
       <link>http://localhost:1313/posts/installing-gophish-on-gcp/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/installing-gophish-on-gcp/</guid>
-      <description>What is Gophish? Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible. Think of it as your go-to tool for simulating real-world phishing attacks. The best part? It&amp;rsquo;s free and easy to use!
-Affordable: Gophish is open-source software, which means you don&amp;rsquo;t have to pay a cent to use it. Accessible: Written in the Go programming language, Gophish releases are compiled binaries with no dependencies.</description>
+      <description>If you&amp;rsquo;re looking for a simple, powerful, and free tool to simulate phishing attacks and train your team on cybersecurity, then Gophish is your go-to solution! This open-source phishing framework allows you to easily manage phishing campaigns, helping to improve security awareness without breaking the bank.
+What is Gophish? Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible.</description>
     </item>
     <item>
       <title>From Alerts to Malware: A CyberOps Associates v1.0 Skill Assessment Guide</title>
