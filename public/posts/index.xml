@@ -35,7 +35,7 @@ What is T-Pot? T-Pot, developed by T-Mobile, is an all-in-one honeypot platform 
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/creating-a-new-app-on-openresty-edge/</guid>
       <description>Welcome aboard! If you’re gearing up to launch a new application on OpenResty Edge, you’re in the right place. Whether you’re a seasoned pro or just starting out, I’ll walk you through every step of the way with a dash of fun. Grab your favorite drink, settle in, and let’s dive into this setup adventure!
-Creating Your New Application Let&amp;rsquo;s get that new app live and kicking in no time. Here&amp;rsquo;s how to create your first application on OpenResty Edge.</description>
+What is OpenResty Edge? OpenResty Edge is a powerful platform designed to manage and deliver your applications at the edge, optimizing performance, scalability, and security.</description>
     </item>
     <item>
       <title>Stay Ahead of Issues: How to Connect Grafana Alerts with Slack and Jira Using n8n</title>

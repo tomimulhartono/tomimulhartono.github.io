@@ -182,10 +182,9 @@ Now, let’s configure some important rules to control how traffic behaves for y
         ![Screenshoot](/images/openresty-11.jpg)
 
     - Here's the breakdown:
-        - JavaScript and CSS files: Cached for 7 days.
-        - Other files like images: Cached for 365 days.
-        - Cache-Control Header: Tells browsers to keep these files for the specified period, which helps make repeat visits faster.
-        - Save the Cache Rules
+        - **JavaScript and CSS files**: Cached for **7 days**.
+        - **Other files like images**: Cached for **365 days**.
+        - **Cache-Control Header**: Tells browsers to keep these files for the specified period, which helps make repeat visits faster.
 
     - Once you’ve added these caching rules, be sure to click **Save** to lock it in place.
 
