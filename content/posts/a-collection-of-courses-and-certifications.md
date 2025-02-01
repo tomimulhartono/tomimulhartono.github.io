@@ -419,6 +419,76 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 
 ---
 
+### 38. Learn OpenSSL with a real world cheatsheet
+- ***Organization:*** Udemy
+- ***Issue Date:*** December 10, 2024
+- ***Credential ID:*** UC-ed7d1a58-16e4-48bd-8ae9-1baedad2cc6a
+- ***Credential URL:*** [[Click here]](https://ude.my/UC-ed7d1a58-16e4-48bd-8ae9-1baedad2cc6a)
+
+    ![Certificate](/images/open-ssl.jpg)
+
+---
+
+### 39. FCF - Introduction to the Threat Landscape 2.0 Self-Paced
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** January 16, 2025
+- ***Credential ID:*** -
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/716a1f3d-2b11-4bdc-8ea7-b5af5823e6d8/public_url)
+
+    ![Certificate](/images/fcf-1.jpg)
+
+---
+
+### 40. FCF - Getting Started in Cybersecurity 2.0 Self-Paced
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** January 21, 2025
+- ***Credential ID:*** -
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/c57a5661-87af-481c-a785-8c2683247126/public_url)
+
+    ![Certificate](/images/fcf-2.jpg)
+
+---
+
+### 41. FCF - Technical Introduction to Cybersecurity 1.0 Self-Paced
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** January 21, 2025
+- ***Credential ID:*** -
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/7b870eea-9abc-4959-adea-d77bf579d8fc/public_url)
+
+    ![Certificate](/images/fcf-3.jpg)
+
+---
+
+### 42. Fortinet Certified Fundamentals in Cybersecurity
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** January 21, 2025
+- ***Credential ID:*** 2493987785TM
+- ***Credential URL:*** [[Click here]](https://training.fortinet.com/admin/tool/certificate/index.php?code=2493987785TM)
+
+    ![Certificate](/images/fcf.jpg)
+
+---
+
+### 43. FCA - FortiGate 7.4 Operator Self-Paced
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** February 01, 2025
+- ***Credential ID:*** -
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/c0065f18-500b-4d78-bdad-b7f32387b222/public_url)
+
+    ![Certificate](/images/fca-1.jpg)
+
+---
+
+### 44. Fortinet Certified Associate in Cybersecurity
+- ***Organization:*** Fortinet Training Institute
+- ***Issue Date:*** February 01, 2025
+- ***Credential ID:*** 8501061147TM
+- ***Credential URL:*** [[Click here]](https://training.fortinet.com/admin/tool/certificate/index.php?code=8501061147TM)
+
+    ![Certificate](/images/fca.jpg)
+
+---
+
 ## What’s Next?
 
 I’m always on the lookout for the next challenge. Whether it's diving into new certifications, staying updated on the latest security trends, or exploring cutting-edge topics like AI in cyber security, I’m committed to continuously growing my skill set.
