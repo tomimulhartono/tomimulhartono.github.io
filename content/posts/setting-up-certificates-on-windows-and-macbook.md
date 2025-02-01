@@ -1,5 +1,5 @@
 ---
-title: "TEST"
+title: "Setting Up Certificates: A Step-by-Step Guide for Windows and MacBook"
 date: 2025-02-01T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -43,7 +43,7 @@ In your case, since you're developing a proxy for web filtering, installing cert
 
 ---
 
-## Setup Certificate on Windows
+## Setting Up Certificates on Windows
 
 Setting up a certificate on Windows ensures your system recognizes and trusts the certificate authority (CA), preventing security warnings when accessing filtered web content through your proxy. Follow the steps below to install a trusted root certificate.
 
