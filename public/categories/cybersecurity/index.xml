@@ -22,12 +22,22 @@
 Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
     </item>
     <item>
-      <title>TEST</title>
+      <title>Setting Up Certificates: A Step-by-Step Guide for Windows and MacBook</title>
       <link>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</guid>
-      <description>If you’re interested in malware analysis, using Cuckoo Sandbox is an exciting and safe way to dissect potentially malicious files. During my technical interview at Protergo, I had the opportunity to showcase my skills by analyzing a suspicious file. In this blog post, I’ll walk you through the process I followed using Cuckoo Sandbox, a powerful tool for both static and dynamic analysis.
-What is Cuckoo Sandbox? Cuckoo Sandbox is an open-source automated malware analysis system that allows you to analyze malware in an isolated environment.</description>
+      <description>Certificates are digital files that help ensure secure communication between a user&amp;rsquo;s computer and a website, server, or network service. They verify that a connection is legitimate and encrypted, preventing unauthorized access and data interception.
+In your case, since you&amp;rsquo;re developing a proxy for web filtering, installing certificates is an essential first step. This allows your proxy to inspect encrypted traffic without triggering security warnings in browsers or applications. The installation process varies depending on your specific needs, but the steps below will guide you through setting up certificates on both Windows and macOS.</description>
+    </item>
+    <item>
+      <title>Why Can&#39;t I Recover an Account That&#39;s Been Hacked?</title>
+      <link>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</guid>
+      <description>Have you ever wondered why I, along with my friends (who are experts in cybersecurity), can&amp;rsquo;t recover hacked accounts? Is it because our skills aren&amp;rsquo;t as good as these hackers?
+Let&amp;rsquo;s talk about it&amp;hellip;
+Before answering the question, &amp;ldquo;Why can&amp;rsquo;t we recover hacked accounts?&amp;rdquo;, we need to understand a few things first:
+How hackers steal accounts Phishing mindset Cyber Attack Knowledge Pyramid Possible Solutions How Do Hackers Steal Accounts? Some of you might still think that hackers steal accounts by sitting in front of a black screen with green text, typing in complex codes to break into your social media accounts.</description>
     </item>
     <item>
       <title>Watch Cyber Attacks Unfold: Set Up T-Pot Honeypot on Google Cloud Platform</title>

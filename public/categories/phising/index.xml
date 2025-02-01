@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Phising on Tomi Mulhartono</title>
+    <link>http://localhost:1313/categories/phising/</link>
+    <description>Recent content in Phising on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/phising/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Can&#39;t I Recover an Account That&#39;s Been Hacked?</title>
+      <link>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</guid>
+      <description>Have you ever wondered why I, along with my friends (who are experts in cybersecurity), can&amp;rsquo;t recover hacked accounts? Is it because our skills aren&amp;rsquo;t as good as these hackers?
+Let&amp;rsquo;s talk about it&amp;hellip;
+Before answering the question, &amp;ldquo;Why can&amp;rsquo;t we recover hacked accounts?&amp;rdquo;, we need to understand a few things first:
+How hackers steal accounts Phishing mindset Cyber Attack Knowledge Pyramid Possible Solutions How Do Hackers Steal Accounts? Some of you might still think that hackers steal accounts by sitting in front of a black screen with green text, typing in complex codes to break into your social media accounts.</description>
+    </item>
+    <item>
+      <title>Installing Gophish on Google Cloud Platform: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/posts/installing-gophish-on-gcp/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/installing-gophish-on-gcp/</guid>
+      <description>If you&amp;rsquo;re looking for a simple, powerful, and free tool to simulate phishing attacks and train your team on cybersecurity, then Gophish is your go-to solution! This open-source phishing framework allows you to easily manage phishing campaigns, helping to improve security awareness without breaking the bank.
+What is Gophish? Gophish is a powerful open-source phishing framework designed to make the process of conducting and managing phishing campaigns as straightforward as possible.</description>
+    </item>
+  </channel>
+</rss>

@@ -3,8 +3,8 @@ title: "Installing Gophish on Google Cloud Platform: A Step-by-Step Guide"
 date: 2024-07-19T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
-categories: ["cybersecurity", "gophish", "Google Cloud Platform"]
-tags: ["cybersecurity", "gophish", "Google Cloud Platform"]
+categories: ["cybersecurity", "gophish", "phising", "Google Cloud Platform"]
+tags: ["cybersecurity", "gophish", "phising", "Google Cloud Platform"]
 author: "Tomi Mulhartono"
 # author: ["Me", "You"] # multiple authors
 showToc: true

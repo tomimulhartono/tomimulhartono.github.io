@@ -3,8 +3,8 @@ title: "Watch Cyber Attacks Unfold: Set Up T-Pot Honeypot on Google Cloud Platfo
 date: 2024-11-17T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
-categories: ["cybersecurity", "gophish", "Google Cloud Platform"]
-tags: ["cybersecurity", "gophish", "Google Cloud Platform"]
+categories: ["cybersecurity", "T-Pot", "Honeypot", "Google Cloud Platform"]
+tags: ["cybersecurity", "T-Pot", "Honeypot", "Google Cloud Platform"]
 author: "Tomi Mulhartono"
 # author: ["Me", "You"] # multiple authors
 showToc: true

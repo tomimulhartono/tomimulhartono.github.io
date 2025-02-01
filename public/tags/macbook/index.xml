@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Macbook on Tomi Mulhartono</title>
+    <link>http://localhost:1313/tags/macbook/</link>
+    <description>Recent content in Macbook on Tomi Mulhartono</description>
+    <image>
+      <title>Tomi Mulhartono</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/macbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Certificates: A Step-by-Step Guide for Windows and MacBook</title>
+      <link>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</guid>
+      <description>Certificates are digital files that help ensure secure communication between a user&amp;rsquo;s computer and a website, server, or network service. They verify that a connection is legitimate and encrypted, preventing unauthorized access and data interception.
+In your case, since you&amp;rsquo;re developing a proxy for web filtering, installing certificates is an essential first step. This allows your proxy to inspect encrypted traffic without triggering security warnings in browsers or applications. The installation process varies depending on your specific needs, but the steps below will guide you through setting up certificates on both Windows and macOS.</description>
+    </item>
+  </channel>
+</rss>

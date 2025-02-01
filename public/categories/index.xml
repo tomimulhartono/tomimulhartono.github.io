@@ -28,10 +28,24 @@
       <description></description>
     </item>
     <item>
-      <title>Malware Analysis</title>
-      <link>http://localhost:1313/categories/malware-analysis/</link>
+      <title>Macbook</title>
+      <link>http://localhost:1313/categories/macbook/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/malware-analysis/</guid>
+      <guid>http://localhost:1313/categories/macbook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/categories/windows/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phising</title>
+      <link>http://localhost:1313/categories/phising/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phising/</guid>
       <description></description>
     </item>
     <item>
@@ -42,10 +56,17 @@
       <description></description>
     </item>
     <item>
-      <title>Gophish</title>
-      <link>http://localhost:1313/categories/gophish/</link>
+      <title>Honeypot</title>
+      <link>http://localhost:1313/categories/honeypot/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/gophish/</guid>
+      <guid>http://localhost:1313/categories/honeypot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>T-Pot</title>
+      <link>http://localhost:1313/categories/t-pot/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/t-pot/</guid>
       <description></description>
     </item>
     <item>
@@ -98,6 +119,13 @@
       <description></description>
     </item>
     <item>
+      <title>Gophish</title>
+      <link>http://localhost:1313/categories/gophish/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/gophish/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Security Analysis</title>
       <link>http://localhost:1313/categories/security-analysis/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
@@ -109,6 +137,13 @@
       <link>http://localhost:1313/categories/penetration-testing/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/penetration-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware Analysis</title>
+      <link>http://localhost:1313/categories/malware-analysis/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/malware-analysis/</guid>
       <description></description>
     </item>
     <item>

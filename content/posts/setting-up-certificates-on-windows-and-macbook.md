@@ -3,8 +3,8 @@ title: "Setting Up Certificates: A Step-by-Step Guide for Windows and MacBook"
 date: 2025-02-01T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
-categories: ["cybersecurity", "malware analysis"]
-tags: ["cybersecurity", "malware analysis"]
+categories: ["cybersecurity", "windows", "macbook"]
+tags: ["cybersecurity", "windows", "macbook"]
 author: "Tomi Mulhartono"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -20,23 +20,38 @@
     <loc>http://localhost:1313/categories/cybersecurity/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/malware-analysis/</loc>
+    <loc>http://localhost:1313/tags/macbook/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/malware-analysis/</loc>
+    <loc>http://localhost:1313/categories/macbook/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/windows/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/phising/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/phising/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/google-cloud-platform/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
@@ -44,10 +59,16 @@
     <loc>http://localhost:1313/categories/google-cloud-platform/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gophish/</loc>
+    <loc>http://localhost:1313/tags/honeypot/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/gophish/</loc>
+    <loc>http://localhost:1313/categories/honeypot/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/t-pot/</loc>
+    <lastmod>2024-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/t-pot/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/deploying-tpot-honeypot-on-gcp/</loc>
@@ -101,6 +122,12 @@
     <loc>http://localhost:1313/posts/integrating-grafana-slack-and-jira/</loc>
     <lastmod>2024-08-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/gophish/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/gophish/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/installing-gophish-on-gcp/</loc>
     <lastmod>2024-07-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -123,6 +150,12 @@
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/malware-analysis-protergo/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/malware-analysis/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/malware-analysis/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cekatan/</loc>
