@@ -1,6 +1,6 @@
 ---
 title: "Charting My Cyber Security Path: A Collection of Courses and Certifications"
-date: 2024-11-17T00:00:00+00:00
+date: 2025-02-01T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["cybersecurity", "certificates"]

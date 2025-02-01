@@ -11,20 +11,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Certificates</title>
       <link>http://localhost:1313/categories/certificates/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/certificates/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/categories/cybersecurity/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malware Analysis</title>
+      <link>http://localhost:1313/categories/malware-analysis/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/malware-analysis/</guid>
       <description></description>
     </item>
     <item>
@@ -102,13 +109,6 @@
       <link>http://localhost:1313/categories/penetration-testing/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/penetration-testing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Malware Analysis</title>
-      <link>http://localhost:1313/categories/malware-analysis/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/malware-analysis/</guid>
       <description></description>
     </item>
     <item>
