@@ -97,7 +97,7 @@ This method installs the certificate only for the logged-in user. If you're test
 
 ---
 
-#### Step 2: Install for Local Machine
+#### Step 2: Local Machine
 
 If you need the certificate to be trusted system-wide for all users, follow these steps. **Admin access is required**.
 
