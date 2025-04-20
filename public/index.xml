@@ -11,12 +11,12 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Charting My Cyber Security Path: A Collection of Courses and Certifications</title>
       <link>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/a-collection-of-courses-and-certifications/</guid>
       <description>Hey there! Welcome to my cyber security collection. If you’re here, you probably share a love for all things tech and security like I do. Over time, I&amp;rsquo;ve dived into various courses and earned certifications that have shaped my journey in cyber security. Below is a showcase of what I&amp;rsquo;ve accomplished so far, along with the skills I&amp;rsquo;ve picked up along the way.
 Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</description>
@@ -28,16 +28,6 @@ Why Cyber Security? Let’s face it—cyber threats aren’t going anywhere.</de
       <guid>http://localhost:1313/posts/setting-up-certificates-on-windows-and-macbook/</guid>
       <description>Certificates are digital files that help ensure secure communication between a user&amp;rsquo;s computer and a website, server, or network service. They verify that a connection is legitimate and encrypted, preventing unauthorized access and data interception.
 In your case, since you&amp;rsquo;re developing a proxy for web filtering, installing certificates is an essential first step. This allows your proxy to inspect encrypted traffic without triggering security warnings in browsers or applications. The installation process varies depending on your specific needs, but the steps below will guide you through setting up certificates on both Windows and macOS.</description>
-    </item>
-    <item>
-      <title>Why Can&#39;t I Recover an Account That&#39;s Been Hacked?</title>
-      <link>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-cant-i-recover-a-hacked-account/</guid>
-      <description>Have you ever wondered why I, along with my friends (who are experts in cybersecurity), can&amp;rsquo;t recover hacked accounts? Is it because our skills aren&amp;rsquo;t as good as these hackers?
-Let&amp;rsquo;s talk about it&amp;hellip;
-Before answering the question, &amp;ldquo;Why can&amp;rsquo;t we recover hacked accounts?&amp;rdquo;, we need to understand a few things first:
-How hackers steal accounts Phishing mindset Cyber Attack Knowledge Pyramid Possible Solutions How Do Hackers Steal Accounts? Some of you might still think that hackers steal accounts by sitting in front of a black screen with green text, typing in complex codes to break into your social media accounts.</description>
     </item>
     <item>
       <title>Watch Cyber Attacks Unfold: Set Up T-Pot Honeypot on Google Cloud Platform</title>

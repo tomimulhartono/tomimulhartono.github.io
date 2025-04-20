@@ -1,6 +1,6 @@
 ---
 title: "Charting My Cyber Security Path: A Collection of Courses and Certifications"
-date: 2025-02-01T00:00:00+00:00
+date: 2025-04-02T00:00:00+00:00
 # weight: 1
 # aliases: ["/first"]
 categories: ["cybersecurity", "certificates"]
@@ -486,6 +486,46 @@ Here’s a rundown of the courses and certifications that have been pivotal in m
 - ***Credential URL:*** [[Click here]](https://training.fortinet.com/admin/tool/certificate/index.php?code=8501061147TM)
 
     ![Certificate](/images/fca.jpg)
+
+---
+
+### 45. Google Cloud Cybersecurity Certificate
+- ***Organization:*** Google Cloud Skills Boost
+- ***Issue Date:*** March 26, 2025
+- ***Credential ID:*** 9fa11fa5-a8c8-45e3-9a45-b67b7e1ebbbd
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/9fa11fa5-a8c8-45e3-9a45-b67b7e1ebbbd/public_url)
+
+    ![Certificate](/images/gsb-1.png)
+
+---
+
+### 46. Implement Cloud Security Fundamentals on Google Cloud
+- ***Organization:*** Google Cloud Skills Boost
+- ***Issue Date:*** March 31, 2025
+- ***Credential ID:*** 367dcfe4-6c21-4737-ac88-0603bdb71b8f
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/367dcfe4-6c21-4737-ac88-0603bdb71b8f/public_url)
+
+    ![Certificate](/images/gsb-2.png)
+
+---
+
+### 47. Build a Secure Google Cloud Network
+- ***Organization:*** Google Cloud Skills Boost
+- ***Issue Date:*** March 31, 2025
+- ***Credential ID:*** d8300371-2d23-4b12-8db2-f28b909d9d3e
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/d8300371-2d23-4b12-8db2-f28b909d9d3e/public_url)
+
+    ![Certificate](/images/gsb-3.png)
+
+---
+
+### 48. Mitigate Threats and Vulnerabilities with Security Command Center
+- ***Organization:*** Google Cloud Skills Boost
+- ***Issue Date:*** April 02, 2025
+- ***Credential ID:*** 681e5f4e-06d0-4bc6-95fa-4eda9e4d0b74
+- ***Credential URL:*** [[Click here]](https://www.credly.com/badges/681e5f4e-06d0-4bc6-95fa-4eda9e4d0b74/public_url)
+
+    ![Certificate](/images/gsb-4.png)
 
 ---
 

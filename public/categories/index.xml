@@ -42,13 +42,6 @@
       <description></description>
     </item>
     <item>
-      <title>Phising</title>
-      <link>http://localhost:1313/categories/phising/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/phising/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Google Cloud Platform</title>
       <link>http://localhost:1313/categories/google-cloud-platform/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
@@ -123,6 +116,13 @@
       <link>http://localhost:1313/categories/gophish/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/gophish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phising</title>
+      <link>http://localhost:1313/categories/phising/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/phising/</guid>
       <description></description>
     </item>
     <item>
